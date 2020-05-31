@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Home Page Test"
+
+theme = ["559Theme","mainroad"]
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -1000
+
+[Params]
+post_meta = ["date","taglist","categories"]
+mainSections = ["posts"]
+dateformat = "January, 2006"
+copyright = "Michael Gleicher"
+subtitle = "Recreation of Pages from Gleicher's Home Page"
+customCss = ["css/2008.css"]
+
+[Params.sidebar]
+home = "right"
+list = "right"
+single = "right"
+widgets = ["lunr","links","categories","taglist"]
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
