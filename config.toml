@@ -12,7 +12,7 @@ theme = ["559Theme","mainroad"]
 
 [Params]
 post_meta = ["date","taglist","categories"]
-mainSections = ["posts"]
+mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
 subtitle = "Recreation of Pages from Gleicher's Home Page"
