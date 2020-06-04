@@ -1,0 +1,19 @@
+div.announce {
+	border: 1px solid ;
+	margin: 5px;
+	padding-bottom:5px;
+	background-color: rgb(238, 238, 238);
+}
+span.announcehead {
+	padding: 0px 6pt;
+	margin-bottom:10px;
+	background-color: rgb(136, 0, 0); 
+	color: rgb(255, 255, 255);
+}
+div.announce p.vspace {
+	padding:0px 10px 5px 10px;
+
+	margin:0px;
+	background-color:transparent;
+	color:#000;
+}
