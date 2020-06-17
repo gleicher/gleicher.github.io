@@ -5,7 +5,7 @@ draft: false
 old_auth: "Michael Gleicher"
 old_title: "Interactive Analysis of Word Vector Embeddings"
 old_date: "June 2018"
-old_pdf: "https://www.slideshare.net/gleicher/interactive-analysis-of-word-vector-embeddings"
+slideshare: "https://www.slideshare.net/gleicher/interactive-analysis-of-word-vector-embeddings"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2018/embedding-180.png"
 old_desc: "Paper presentation at EuroVis 2018"
 old_oldtagname: "embedding.tag"
