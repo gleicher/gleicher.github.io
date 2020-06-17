@@ -10,5 +10,7 @@ old_desc: "Seminar presented various places (including Illinois, IBM, Stanford, 
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2002/AnimByExample.png"
 old_oldtagname: "AnimByExample.tag"
 old_key: "animbyexample"
+desc: "Seminar given at many places (Penn, Michigan, Berkeley, Pixar, ...)"
 ---
+
 Seminar presented various places (including Illinois, IBM, Stanford, Pixar, Michigan, Penn)

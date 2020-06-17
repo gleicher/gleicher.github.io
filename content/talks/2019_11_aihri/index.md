@@ -7,7 +7,7 @@ old_title: "Dumb Robots for Smart People"
 old_date: "Nov 2019"
 slideshare: "https://www.slideshare.net/gleicher/dumb-robots-for-smart-people-direct-control-interfaces-for-robotics"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2019/mimic.png"
-old_desc: "Invited Keynote at the AI-HRI Symposium (AAAI Fall Symposium Series)"
+desc: "Invited Keynote at the AI-HRI Symposium"
 old_oldtagname: "aihri.tag"
 old_key: "aihri"
 ---

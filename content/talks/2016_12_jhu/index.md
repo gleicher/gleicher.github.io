@@ -7,7 +7,7 @@ old_title: "What Shakespeare Taught Us About Data Science and Visualization"
 old_date: "December 2016"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2016/JHU.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2016/JHU-small.jpg"
-old_desc: "Seminar at Johns Hopkins University, December 2016. A similar talk was given at New York University in October."
+desc: "Seminar at Johns Hopkins Univ. and NYU"
 old_oldtagname: "jhu.tag"
 old_key: "jhu"
 ---

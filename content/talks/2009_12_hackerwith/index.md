@@ -7,7 +7,7 @@ old_title: "A Conversation About Visualization"
 old_date: "December 2009"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2009/AConvAboutVis.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2009/conv-vis-small.png"
-old_desc: "A talk at &lt;a href=&quot;http://hackerwithin.org&quot;&gt;The Hacker Within&lt;/a&gt; monthly meeting."
+desc: "A talk at The Hacker Within monthly meeting."
 old_oldtagname: "hackerwith.tag"
 old_key: "hackerwith"
 ---

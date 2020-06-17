@@ -7,8 +7,9 @@ old_title: "Towards Comprehensible Modeling"
 old_date: "June 2014"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2014/dagstuhl.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2014/dagstuhl180.png"
-old_desc: "Talk at the Dagstuhl Seminar &quot;Scientific Visualization&quot;, June 2, 2014"
+desc: "Talk at the Dagstuhl Seminar \"Scientific Visualization\""
 old_oldtagname: "dag.tag"
 old_key: "dag"
 ---
+
 Talk at the Dagstuhl Seminar "Scientific Visualization", June 2, 2014

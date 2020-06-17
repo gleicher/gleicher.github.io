@@ -7,7 +7,7 @@ old_title: "Pictures from Piles of Data: How Graphics, Multimedia, Vision, Visua
 old_date: "February 2010"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2010/physics.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2010/physics.png"
-old_desc: "A Talk at the Chaos and Complexity seminar, University of Wisconsin, Madison"
+desc: "A Talk at the Chaos and Complexity seminar"
 old_oldtagname: "physics.tag"
 old_key: "physics"
 ---

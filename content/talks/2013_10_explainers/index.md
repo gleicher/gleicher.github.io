@@ -7,8 +7,8 @@ old_title: "Explainers: Expert Explorations with Crafted Projections"
 old_date: "October 2013"
 old_pdf: "http://graphics.cs.wisc.edu/Vis/Explainers/Talks/ExplainersPostVis-1up.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/Explainers180.png"
-old_desc: "Talk given at VIS 2013 conference for a VAST (TVCG) paper. &lt;a href=&quot;http://graphics.cs.wisc.edu/Vis/Explainers/Talks/ExplainersPostVis-6up.pdf&quot;&gt;(slides 6-up)&lt;/a&gt;"
+desc: "Talk given at VIS 2013 conference for a VAST paper (best paper runner up)"
 old_oldtagname: "explainers.tag"
 old_key: "explainers"
 ---
-Talk given at VIS 2013 conference for a VAST (TVCG) paper. <a href="http://graphics.cs.wisc.edu/Vis/Explainers/Talks/ExplainersPostVis-6up.pdf">(slides 6-up)</a>
+Talk given at VIS 2013 conference for a VAST (TVCG) paper.

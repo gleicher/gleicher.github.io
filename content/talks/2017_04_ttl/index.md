@@ -7,7 +7,7 @@ old_title: "Through the Lens of 25 Years: Through-the-Lens Camera Control Revisi
 old_date: "April 2017"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/ttl.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/ttl.jpg"
-old_desc: "Invited Keynote at WICED 2017 (6th Workshop on Intelligent Cinematography and Editing), Lyon, France."
+desc: "Invited Keynote at WICED 2017"
 old_oldtagname: "ttl.tag"
 old_key: "ttl"
 ---

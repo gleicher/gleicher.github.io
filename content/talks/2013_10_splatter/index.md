@@ -7,7 +7,7 @@ old_title: "Splatterplots: Overcoming Overdraw in Scatter Plots"
 old_date: "October 2013"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/Splatter-1up.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/Splatter180.png"
-old_desc: "Talk given at VIS 2013 conference for a TVCG journal paper."
+desc: "Talk given at VIS 2013 conference for a TVCG journal paper"
 old_oldtagname: "splatter.tag"
 old_key: "splatter"
 ---

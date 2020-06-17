@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/procomm-180.png"
 old_desc: "Invited talk at the TRIPODS (Data Science) Seminar, University of Arizona, Tuscon, January 14, 2019. This talk is similar to the previous talk of the same title."
 old_oldtagname: "tuscon1.tag"
 old_key: "tuscon1"
+desc: "Invited talk at the TRIPODS (Data Science) Seminar, University of Arizona"
 ---
 Invited talk at the TRIPODS (Data Science) Seminar, University of Arizona, Tuscon, January 14, 2019. This talk is similar to the previous talk of the same title.

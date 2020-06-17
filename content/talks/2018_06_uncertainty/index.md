@@ -7,7 +7,7 @@ old_title: "Perception, Comparison, and Models for Uncertainty"
 old_date: "June 2018"
 slideshare: "https://www.slideshare.net/gleicher/perception-comparison-and-modelsfor-uncertainty"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2018/Uncertainty-180.png"
-old_desc: "Invited talk at the EuroRV^3 Uncertainty workshop"
+desc: "Invited talk at the EuroRV^3 Uncertainty workshop"
 old_oldtagname: "uncertainty.tag"
 old_key: "uncertainty"
 ---

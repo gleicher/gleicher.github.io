@@ -6,7 +6,7 @@ old_auth: "Michael Gleicher"
 old_title: "Animation by Adaptation"
 old_date: "February 2001"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/AnimationByAdaptation.pdf"
-old_desc: "Distinguished Lecture, Department of Computer Science, University of Virginia"
+desc: "Distinguished Lecture, University of Virginia"
 old_oldtagname: "AnimationByAdaptation.tag"
 old_key: "animationbyadaptation"
 ---

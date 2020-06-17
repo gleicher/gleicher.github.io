@@ -7,7 +7,7 @@ old_title: "What Shakespeare Taught Us About Visualization and Data Science"
 old_date: "July 2017"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/ProComm.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/procomm-180.png"
-old_desc: "Invited keynote at the IEEE Professional Communications Society Meeting"
+desc: "Invited keynote at the IEEE Professional Communications Society Meeting"
 old_oldtagname: "procomm.tag"
 old_key: "procomm"
 ---

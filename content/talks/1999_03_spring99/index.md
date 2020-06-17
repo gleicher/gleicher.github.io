@@ -9,4 +9,5 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/1999/Spring99.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/1999/Spring99.gif"
 old_oldtagname: "Spring99.tag"
 old_key: "spring99"
+desc: "Seminar talk"
 ---

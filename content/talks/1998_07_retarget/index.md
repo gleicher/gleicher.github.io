@@ -7,7 +7,7 @@ old_title: "Retargeting Motion to New Characters"
 old_date: "July 1998"
 old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/1998/retarget-both.pdf"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/1998/retarget-both.png"
-old_desc: "SIGGRAPH &#x27;98 talk (both left and right slide decks in one file)"
+desc: "SIGGRAPH 98 talk (both left and right slide decks in one file)"
 old_oldtagname: "retarget.tag"
 old_key: "retarget"
 ---
