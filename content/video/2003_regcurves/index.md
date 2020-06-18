@@ -1,6 +1,6 @@
 ---
 title: "Flexible Automatic Motion Blending with Registration Curves"
-date: 2003-08-01
+date: 2003-07-01
 draft: false
 vidauthor: "Lucas Kovar and Michael Gleicher"
 projectpage: http://www.cs.wisc.edu/graphics/Gallery/RegistrationCurves/

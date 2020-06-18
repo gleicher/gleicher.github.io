@@ -1,6 +1,6 @@
 ---
 title: "Content-Preserving Warps for 3D Video Stabilization"
-date: 2003-08-01
+date: 2009-07-01
 draft: false
 vidauthor: "Feng Liu, Michael Gleicher, Hailin Jin, and Aseem Agarwala"
 projectpage: http://web.cecs.pdx.edu/~fliu/project/3dstab.htm

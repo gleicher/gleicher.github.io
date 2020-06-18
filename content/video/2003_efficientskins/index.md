@@ -1,6 +1,6 @@
 ---
 title: "Building Efficient, Accurate Character Skins from Examples"
-date: 2003-08-06
+date: 2003-07-15
 draft: false
 vidauthor: "Alex Mohr and Michael Gleicher"
 projectpage: http://www.cs.wisc.edu/graphics/Gallery/SkinFromExamples/
