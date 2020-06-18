@@ -4,7 +4,7 @@ date: 2030-01-01
 draft: false
 vidauthor: "Feng Liu, Michael Gleicher, Jue Wang, Hailin Jin, and Aseem Agarwala"
 projectpage: http://web.cecs.pdx.edu/~fliu/project/subspace_stabilization/index.htm
-duration: "5:21 sound"
+duration: "4:43 sound"
 shortdesc: "Video from our 2011 Transactions on Graphics Paper"
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2011/LGWJA11/
