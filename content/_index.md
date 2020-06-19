@@ -3,7 +3,6 @@ title: Mike Gleicher's Home Page
 draft: false
 noheader: true
 ---
-<div id="wikitext">
 
 <table>
     <tr>
@@ -12,9 +11,17 @@ noheader: true
         </td>
         <td valign="top" width="10"></td>
         <td valign="top">
-<p><span style="font-size:144%"><strong>Michael Gleicher</strong></span><br/>Professor<br/>Department of Computer Sciences<br/>University of Wisconsin, Madison<br/>1210 West Dayton St.<br/>Madison, WI 53706<br/><br clear="all"/>
-<a class="urllink" href="mailto:gleicher@cs.wisc.edu" rel="nofollow"><code>gleicher@cs.wisc.edu</code></a><br/>Office: 6385 Computer Sciences Building<br/>Phone: 608-263-2874, Fax: 608-262-9777<br/><br clear="all"/>
-<strong>Spring 2020 Office Hours:</strong> Suspended because of COVID. Please send me email to set up a video conference.
+
+### Michael Gleicher
+Professor  
+Department of Computer Sciences  
+University of Wisconsin, Madison  
+1210 West Dayton St.  
+Madison, WI 53706
+
+[`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
+
+**Office Hours:** Suspended because of COVID. Please send me email to set up a video conference.
 </p>
         </td>
     </tr>
@@ -136,17 +143,41 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 ## Teaching
 
-My teaching schedule used to be regular, but now it changes every semester. 
+These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
-The classes I teach:
-
-- **CS765 Visualization:** (Fall 2019 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/))(Fall 2018 [Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/)) (Fall 2017 [Fall 2017](http://graphics.cs.wisc.edu/WP/vis17/)). This is an experiment in teaching a broad class that serves a very wide range of students.
-- **CS559 Computer Graphics:** I am teaching this in [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/). I redesigned this class in \[Spring 2019 -> <http://graphics.cs.wisc.edu/WP/cs559-sp2019/>\]. My offerings include [2015](http://graphics.cs.wisc.edu/WP/cs559-fall2015/), [2014](http://graphics.cs.wisc.edu/WP/cs559-fall2014/), [2010](http://graphics.cs.wisc.edu/Courses/559-f2010/), [2009](http://www.cs.wisc.edu/graphics/Courses/559-f2009), [2008](http://www.cs.wisc.edu/graphics/Courses/559-f2008), [2007](http://www.cs.wisc.edu/graphics/Courses/559-f2007), [2006](http://www.cs.wisc.edu/graphics/Courses/559-f2006), [2005](http://www.cs.wisc.edu/graphics/Courses/559-f2005), and if you're really curious, even older versions of the course page are still on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
+- **CS765 Visualization:** This class is taught regularly. I tuaght it in 
+[Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
+[Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/),
+[Fall 2017](http://graphics.cs.wisc.edu/WP/vis17/), 
+and several times before that as "special topics" experiments.
+The class is an experiment in teaching a broad class that serves a very wide range of students.
+- **CS559 Computer Graphics:** 
+I  taught this most recently in [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
+I redesigned the class in [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019). 
+My offerings include 
+[2015](http://graphics.cs.wisc.edu/WP/cs559-fall2015/), 
+[2014](http://graphics.cs.wisc.edu/WP/cs559-fall2014/), 
+[2010](http://graphics.cs.wisc.edu/Courses/559-f2010/), 
+[2009](http://www.cs.wisc.edu/graphics/Courses/559-f2009), 
+[2008](http://www.cs.wisc.edu/graphics/Courses/559-f2008), 
+[2007](http://www.cs.wisc.edu/graphics/Courses/559-f2007), 
+[2006](http://www.cs.wisc.edu/graphics/Courses/559-f2006),
+[2005](http://www.cs.wisc.edu/graphics/Courses/559-f2005), and others going back to
+[1999](https://research.cs.wisc.edu/graphics/Courses/638-f1999/index.htm).
+If you're really curious, even older versions of the course page are still on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
 Older classes that might not get taught again for a while:
 
-- **CS777: Computer Animation** is a graduate level CS class for people with some graphics background. This taught was taught regularly in the past ([2013](http://graphics.cs.wisc.edu/WP/animation13/), [2011](http://graphics.cs.wisc.edu/WP/animation11/),[2006](http://www.cs.wisc.edu/graphics/Courses/777-s2006),[2004](http://www.cs.wisc.edu/graphics/Courses/cs777-2004), [2003](http://www.cs.wisc.edu/graphics/Courses/cs777-2003)).
-- **CS679 Computer Games Technologies:** this class is popular enough that we try to teach it regularly. I was able to teach it every year for the past few years ([2012](http://graphics.cs.wisc.edu/Courses/Games12/), [2011](http://graphics.cs.wisc.edu/WP/games11/), [2010](http://www.cs.wisc.edu/graphics/Courses/Games10/)
+- **CS777: Computer Animation** is a graduate level CS class for people with some graphics background. This taught was taught regularly in the past ([2013](http://graphics.cs.wisc.edu/WP/animation13/), 
+[2011](http://graphics.cs.wisc.edu/WP/animation11/),
+[2006](http://www.cs.wisc.edu/graphics/Courses/777-s2006),
+[2004](http://www.cs.wisc.edu/graphics/Courses/cs777-2004), 
+[2003](http://www.cs.wisc.edu/graphics/Courses/cs777-2003)). 
+It kindof died off from lack of interest (student interest and my interest)
+- **CS679 Computer Games Technologies:** this class was popular, so I tried to teach it regularly for several years 
+[2012](http://graphics.cs.wisc.edu/Courses/Games12/),
+[2011](http://graphics.cs.wisc.edu/WP/games11/),
+[2010](http://www.cs.wisc.edu/graphics/Courses/Games10/)).
 - **Advanced Graphics:** In the Spring of 2009, I taught an [Advanced Graphics](http://www.cs.wisc.edu/graphics/Courses/AdvancedGraphics09/) class. 
 
 You can find other information on graphics group classes on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
@@ -160,12 +191,8 @@ I try to keep the complete list available [here](https://graphics.cs.wisc.edu/Pa
 - RSS '18: _RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
 - EuroVis '18 - _Interactive Analysis of Word Vector Embeddings_ <span style="font-size:83%"> w/Heimerl </span>
 - EuroVis '18 - _Design Factors for Summary Visualization in Visual Analytics_ <span style="font-size:83%"> w/Sarikaya and Szafir </span>
-
 - ICRA '18 - _Recognizing Geometric Constraints in Human Demonstrations Using Force and Position Signals_ <span style="font-size:83%"> w/Subramani and Zinn </span>
 - HRI '18 - _An Autonomous Dynamic Camera Method for Effective Remote Teleoperation_ **(best paper award)** <span style="font-size:83%"> w/Rakita and Mutlu </span>
 - HRI '18 - _Shared Dynamic Curves: A Shared-Control Telemanipulation Method for Motor Task Training_ <span style="font-size:83%"> w/Rakita, Mutlu, and Hyatt </span>
 - TVCG '18 (InfoVis '17) - _Scatterplots: Tasks, Data, and Designs_ <span style="font-size:83%"> w/Sarikaya </span>
 - TVCG '18 (InfoVis '17) - _Considerations for Visualizing Comparisons_
-
-</div>
-<div class="wikilastmod">Page last modified on March 17, 2020, at 11:39 AM</div>
