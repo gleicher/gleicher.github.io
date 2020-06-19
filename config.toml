@@ -16,14 +16,14 @@ post_meta = ["date","taglist","categories"]
 mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
-subtitle = "Recreation of Pages from Gleicher's Home Page"
+subtitle = "Michael Gleicher's Home Page"
 customCss = ["css/2008.css"]
 
 [Params.sidebar]
 home = "right"
 list = "right"
 single = "right"
-widgets = ["lunr","links","categories","taglist"]
+widgets = ["lunr","sections","links","categories","taglist"]
 
 
 [outputs]

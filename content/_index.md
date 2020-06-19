@@ -28,8 +28,7 @@ Madison, WI 53706
 </table>
 
 
-
-I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "main-bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks](http://pages.cs.wisc.edu/~gleicher/Talks), or [videos]({{< relref "main-video" >}}) in date order. 
+I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "main-bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}). 
 
 My research these days is mainly about **robotics** and **data science.** With both, I am interested in how we can make them useful for people. 
 
@@ -186,7 +185,7 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 ## Selected Recent Publications
 
-I try to keep the complete list available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
+The complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
 - RSS '18: _RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
 - EuroVis '18 - _Interactive Analysis of Word Vector Embeddings_ <span style="font-size:83%"> w/Heimerl </span>
