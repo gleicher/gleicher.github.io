@@ -1,17 +1,26 @@
 ---
 title: Mike Gleicher's Home Page
 draft: false
+noheader: true
 ---
 <div id="wikitext">
 
-<table><tr><td valign="top">
-<img alt="" src='{{< static "pics/pub_pics_2015_11_10_square3_300.jpg" >}}' title="" width="300px"/>
-</td><td valign="top" width="10">
-</td><td valign="top">
+<table>
+    <tr>
+        <td valign="top">
+            <img alt="" src='{{< static "pics/pub_pics_2015_11_10_square3_300.jpg" >}}' title="" width="300px"/>
+        </td>
+        <td valign="top" width="10"></td>
+        <td valign="top">
 <p><span style="font-size:144%"><strong>Michael Gleicher</strong></span><br/>Professor<br/>Department of Computer Sciences<br/>University of Wisconsin, Madison<br/>1210 West Dayton St.<br/>Madison, WI 53706<br/><br clear="all"/>
 <a class="urllink" href="mailto:gleicher@cs.wisc.edu" rel="nofollow"><code>gleicher@cs.wisc.edu</code></a><br/>Office: 6385 Computer Sciences Building<br/>Phone: 608-263-2874, Fax: 608-262-9777<br/><br clear="all"/>
 <strong>Spring 2020 Office Hours:</strong> Suspended because of COVID. Please send me email to set up a video conference.
-</p></td></tr></table>
+</p>
+        </td>
+    </tr>
+</table>
+
+
 
 I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "main-bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks](http://pages.cs.wisc.edu/~gleicher/Talks), or [videos]({{< relref "main-video" >}}) in date order. 
 
@@ -150,9 +159,7 @@ I try to keep the complete list available [here](https://graphics.cs.wisc.edu/Pa
 
 - RSS '18: _RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
 - EuroVis '18 - _Interactive Analysis of Word Vector Embeddings_ <span style="font-size:83%"> w/Heimerl </span>
-- EuroVis '18 - _Design Factors for Summary Visualization in Visual Analytics_
-
-<span style="font-size:83%"> w/Sarikaya and Szafir </span>
+- EuroVis '18 - _Design Factors for Summary Visualization in Visual Analytics_ <span style="font-size:83%"> w/Sarikaya and Szafir </span>
 
 - ICRA '18 - _Recognizing Geometric Constraints in Human Demonstrations Using Force and Position Signals_ <span style="font-size:83%"> w/Subramani and Zinn </span>
 - HRI '18 - _An Autonomous Dynamic Camera Method for Effective Remote Teleoperation_ **(best paper award)** <span style="font-size:83%"> w/Rakita and Mutlu </span>
