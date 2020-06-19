@@ -1,8 +1,12 @@
 ---
-title: advice-gradschoolfaq
+title: The Graduate School FAQ
 draft: false
+toc: true
 ---
-<div id="wikitext">
+
+This is advice for undergraduates who are thinking about going to graduate school. There is specific advice for students who are applying to Wisconsin, and even more specifically, might like to work with me.
+
+<!--more-->
 
 # Mike Gleicher's Graduate School FAQ
 
@@ -10,7 +14,6 @@ draft: false
 
 (added summer, 2016):  
 This document is getting really out of date, and deserves an overhaul. A lot of the main messages hold. However, as of right now (August 2016) I am very actively seeking new students to work with - especially in areas where we have ongoing projects (Robotics and Data Visualization). If you're a student here at Wisconsin, come talk to me. If you're not a student here, try to become one.
-
 </div>
 <div class="dimbox">
 
@@ -33,15 +36,11 @@ If you're a student who is considering applying for grad school at Wisconsin and
 
 </div>
 
-I tend to get a lot of people asking me questions about grad school. Itended to get the same questions over and over, so rather than writeshort answers each time, I decided to compile my answers so I couldsay more about each request.
+I tend to get a lot of people asking me questions about grad school. Itended to get the same questions over and over, so rather than write short answers each time, I decided to compile my answers so I could say more about each request.
 
 Here is that email, tossed into an HTML page. Its evolved a little bitsince its humble beginnings - I have not being trying to keep thisthat up to date, but a lot of the things are timeless.
 
 Note: Some of this is quite old (circa 2001), but stillrelevant. While not a lot has been added since, out of date thingshave been removed.
-
-_2009 Update: I am now more actively seeking to grow the group._
-
-_2013 Update: We (since the group is more than just me) are actively seekling to continue to grow our group._
 
 Enough people ask me about this that I figure I should write itdown... So began this FAQ.
 
@@ -51,7 +50,7 @@ I used to start at zero, not because it was a CS joke, but because thefirst ques
 
 Also, now that I'm using automatic numbering, it's harder to control.
 
-## 1.@ Should I go to graduate school?
+## 1. Should I go to graduate school?
 
 Short version: (pick one of these)
 
@@ -78,7 +77,7 @@ In fact, the worst thing (IMHO) about grad school is that you don'trealize how a
 
 However, if you think you might want to go to grad school...
 
-### 1.1@ When should I go?
+### 1.1 When should I go?
 
 Immediately after finishing your undergrad degree, unless you haveexceptional circumstances.
 
@@ -86,7 +85,7 @@ Basically, "real life" is addictive. You graduate, get a real job, get used to h
 
 _2013 Update:_ I keep meeting more people who work for a year or two, realize that the kinds of things you can do with a graduate degree are different from the kinds of things you can do without it, and then come back to grad school.
 
-## 2.@ I have an X GPA, and Y. Where can I realistically think to get into?
+## 2. I have an X GPA, and Y. Where can I realistically think to get into?
 
 First, there are no set rules.
 
@@ -102,7 +101,7 @@ In this kind of admissions market, the problem changes. You need tostand out fro
 
 _2013 version:_ The good CS job market (over the long term) has changed the admissions game, again. We get huge numbers of applications from Asia - so getting in if you're from China, India, or really any Asian country is really really hard. However, if you're from the US, the story is quite different. The admissions committee seems to be much more willing to take chances on people.
 
-## 3.@ I am considering working for a year or two after my BS. Is this a good idea?
+## 3. I am considering working for a year or two after my BS. Is this a good idea?
 
 From an admissions point of view, I don't think it matters much. Thebiggest issues will be you references: your professors will forgetyou, but the people you work with might be able to write letters.
 
@@ -110,7 +109,7 @@ From a personal standpoint, this can either be a great thing, or a badthing. Dep
 
 The downside is that you might get used to the real world - the realsalary, the "normal" hours, the paid vacations, ... 
 
-## 4.@ What can I do to improve my chances?
+## 4. What can I do to improve my chances?
 
 Well, I am assuming raising your GPA is out of the question, so...
 
@@ -122,7 +121,7 @@ Make sure that some people know you. If you just "do well in your classes" you'l
 
 For example: get some research experience. Show that you can dothe stuff, and build a relationship with a potential letter writer. Aresearch supervisor gets to know you a lot better than someone whoteaches a class.
 
-## 5.@ Where should I go?
+## 5. Where should I go?
 
 Some thoughts:
 
@@ -131,7 +130,7 @@ Some thoughts:
 - Geography. It matters. Go someplace you'd want to live. Having alife outside the lab is actually good for you.
 - Consider if you want to be in a big or a small place. At any qualitylevel, there is a whole range.
 
-## 6.@ Where is good for graphics?
+## 6. Where is good for graphics?
 
 First, read the last thing. When I went to grad school I had no idea Iwanted to do graphics, and kindof stumbled into it. I know plenty ofpeople who change their mind.
 
@@ -141,7 +140,7 @@ On the other hand, there is something to be said for being from aplace with a st
 
 (2005 Update: I used to have a list of places with graphics groups,but it had gotten woefully out of date.) 
 
-## 7.@ Will they pay me?
+## 7. Will they pay me?
 
 If you are in a professional masters program, probably not.
 
@@ -149,7 +148,7 @@ Your best bet is to not have them pay you. If you go to grad schoolapply for all
 
 At most good places, most/all students are supported. Here areWisconsin, we used to have enough TA jobs that we could pay allstudents (that's changed recently). Generally, if you are working on aPhD, you will be funded as an RA (Research Assistant) which means thatyour advisor will be paying you to do research. Generally, mostmasters students are supported someway.
 
-## 8.@ Should I get a Masters degree or a PhD.
+## 8. Should I get a Masters degree or a PhD.
 
 This is a tough personal question. If you don't know the answeralready, you should assume that you just want a masters degree but beopen minded to the fact that you will change your mind.
 
@@ -163,7 +162,7 @@ Some thoughts:
 - The real justification for a PhD is the personal growthexperience. If you poo-poo this, then its probably not for you.
 - While the time commitment for a PhD seems huge (and it is!), itreally is an investment in yourself. Besides, you will probably findgrad school to be a lot of fun. In hindsight, most people look backon it as one of the best times in their lives. (while you're goingthrough it it might seem hellish, but in hindsight)
 
-## 9.@ What area of CS should I work in?
+## 9. What area of CS should I work in?
 
 Graphics, of course :-)
 
@@ -175,14 +174,14 @@ Often, other factors will influence you. For example, thepersonalities of the fa
 
 Finally, it is not a crime to not know what you are interestedin. When I applied to grad school I did know: I was definitely goingto have a career in VLSI CAD tools. By the time I showed up to gradschool 8 months later, all I was sure of was that I did not want towork on this stuff. I ended up starting out in graphics/physicalsimulation - fields I pretty much didn't know existed before I got tograd school.
 
-## 10.@ I want to work with you. Can I?
+## 10. I want to work with you. Can I?
 
 Let me break that into two parts: (1) if you need to be admitted here,and (2) you're already a Wisconsin student.
 
 _Aug 2009: I am actively seeking to grow my group, so I am eager to find students that are a good fit._  
 _2013: I still am looking to grow the group_
 
-### 10.1@ I want to come to Wisconsin and work with you. Can I?
+### 10.1 I want to come to Wisconsin and work with you. Can I?
 
 If you are not a student at Wisconsin, you first need to become one.
 
@@ -192,7 +191,7 @@ Getting admited to our department is difficult. We only take peoplewith really g
 
 And if you're good enough (and lucky enought) to get in, and seriousenough about graphics, that will lead to the next answer...
 
-### 10.2@ I'm already a Wisconsin grad student. Can I work with you?
+### 10.2 I'm already a Wisconsin grad student. Can I work with you?
 
 If you're interested in what I do, and fit in well with the culture ofour group, I will probably want to work with you. But there's a question below on how I pick students to work with.
 
@@ -206,7 +205,7 @@ _Update 2013: if you're a really good fit, and/or have background in a domain ar
 
 If you are already a grad student here in another department (like ECEor ME), we should probably talk. Be warned that it is difficultfor me to support a non-CS student, and unlikely that I wouldsupport a non-CS student that I haven't already had a workingrelationship with. You should probably start by taking CS559 as a wayto demonstrate your abilities. Also, be warned that switching to CSfrom some other department is very hard.
 
-### 10.3@ How do you pick students to support as an RA? (added 2013)
+### 10.3 How do you pick students to support as an RA? (added 2013)
 
 Note: the question of how I choose RAs is not exactly the same as choosing who I work with. 
 
@@ -214,7 +213,7 @@ Generally, I prefer to work (on research) with students that I have already gott
 
 Most students I work with take a class with me first. Also, I like to do small projects with students (usually as a directed study). 
 
-## 11.@ Can I do Graphics at Wisconsin?
+## 11. Can I do Graphics at Wisconsin?
 
 This is a slightly complex question.
 
@@ -232,7 +231,7 @@ However, the situation is not totally bleak:
 
 So, if you're a Wisconsin CS student and interested in graphics, talkto me. Visit the lab and get to know thegraphics students. Take the classes.
 
-## 12.@ I am applying, is there anything I can do to help my chances?
+## 12. I am applying, is there anything I can do to help my chances?
 
 By the time you apply, there is little you can do to change your record, and that's what really matters.
 
@@ -242,17 +241,14 @@ Make sure that you choose good letter writers, people who simply write "this stu
 
 _These next two questions were added in 2010, since they are literally what people are asking. You should have figured out the answers already, but just to make it totally clear._
 
-## 13.@ Do you have openings on your research team / in your research group?
+## 13. Do you have openings on your research team / in your research group?
 
 In case you haven't figured it out: I don't "have openings." When I find someone I want to work with (and they want to work with me), we find a way to do it - after they have been admitted by the admissions committee.
 
-### 13.1@ Are you recruiting students for your group for next year?
+### 13.1 Are you recruiting students for your group for next year?
 
 Usually, students are asking the same as the "openings" question. But I am always encouraging good students to apply (and to come, if the admissions committee accepts them).
 
-### 13.2@ Will you accept Ph. D. students for next year?
+### 13.2 Will you accept Ph. D. students for next year?
 
 No. I do not accept students. The admissions committee does that. 
-
-</div>
-<div class="wikilastmod">Page last modified on August 04, 2016, at 12:10 PM</div>

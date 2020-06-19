@@ -2,6 +2,7 @@
 title: Advice on Prelims and Dissertations (Theses)
 draft: false
 toc: true
+summary: "I have pretty strong opinions on what a thesis should be. My opinion might matter to you (if you want me to sign off), but they might be a generally good way to think about writing anything."
 ---
 
 I say the same thing to all my students, and to everyone who comes to me to be on a committee. I could have sworn I've written it down before, but here it goes again.

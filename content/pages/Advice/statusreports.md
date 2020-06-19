@@ -1,12 +1,12 @@
 ---
-title: advice-statusreports
+title: Status Reports
 draft: false
 ---
 <div id="wikitext">
 
-## Status Reports for Mike Gleicher's Students
-
 If you work for me (for example, as an RA or an undergrad directed study) you must send me a status report every week.
+
+<!--more-->
 
 I have found this to be a useful tool not just for the "reviewer"(e.g. me reading this), but also for the person writing it. I really believe if you spend 15 minutes doing this every week, you will be more productive in the long run.
 

@@ -1,6 +1,8 @@
 ---
 title: The Paper "Recipe"
 draft: false
+summary: "Let me tell you a little trick that I tell all the students: **sentence, paragraph, page**"
+
 ---
 
 Let me tell you a little trick that I tell all the students:
@@ -9,16 +11,24 @@ Let me tell you a little trick that I tell all the students:
 
 Mike's paper recipe:
 
-1.   come up with 1 sentence that tells the "story" of the paper - the main message. you need to make this into one sentence. if the sentence is a long, run-on sentence (or is a paragraph, not a sentence), you don't have a focused enough message.
+1.   come up with 1 sentence that tells the "story" of the paper - the main message. you need to make this into one sentence. if the sentence is a long, run-on sentence (or is a paragraph, not a sentence), you don't have a focused enough message.<br/><br/>
+Keep the sentence in view at all times (print it out in big letters and put it next to your computer as you work!
+<br /><br />
 
-> Keep the sentence in view at all times (print it out in big letters and put it next to your computer as you work!
+2.   write the 1st paragraph of the paper - how you will hook the reader in, introduce the problem, ... This is *not the abstract.*
+<br/><br/>
+Starting with the beginning of the paper is important since it focuses on "what the paper is". It also exposes challenges in wording: how are you going to explain it to a reviewer who doesn't know the terminology you want to us?
+<br /><br />
+3.   write a 1 page outline of the paper
+in each part, keep in mind that your goal is to tell the "story" of the paper - which is why the sentence is so important.
 
-1.   write the 1st paragraph of the paper - how you will hook the reader in, introduce the problem, ...
-2.   write a 1 page outline of the paper
+Note: I do not recommend starting with the outline (#3), or the abstract (#2 is not the abstract). 
 
-> in each part, keep in mind that your goal is to tell the "story" of the paper - which is why the sentence is so important.
+The additional advice below is how to think about doing these things, and some details about how to write the introduction after you have the sentence/paragraph/page. 
 
-Update (3/6/2015)...  
+The new recipe below can help you think about "the sentence" - you might include writing them as part of step 1, or mixed in with step 2, or as part of writing the introduction after completing step 3. 
+
+### Update (3/6/2015)...  
 Here are a few other questions you should try to answer while developing those three things:
 
 1.   Our key idea is...
@@ -29,7 +39,7 @@ The first two of those should be sentences. Not run-ons. Not lists. Your "primar
 
 Here's a nice article on [Tomorrow's Professor](https://tomprof.stanford.edu/posting/661) about writing. They echo my feelings about the importance of the "sentence." Some of their other advice, I don't implement myself - but wish I did! They have a lot of good articles (I stopped reading it about 10 years ago).
 
-## Addition (9/25/2018) - sent from Mike to Manfred, Sept 2018 ...  
+### Addition (9/25/2018) - sent from Mike to Manfred, Sept 2018 ...  
 Here's another set of questions that is often useful to think about: The 5 questions:
 
 1.   What is the **PROBLEM**
@@ -38,7 +48,7 @@ Here's another set of questions that is often useful to think about: The 5 quest
 4.   Why do other approaches fail
 5.   How is our approach different
 
-## The new paper recipe - New thing, March 2019
+### The new paper recipe - New thing, March 2019
 
 This is based on how the intro needs to "work". 
 
@@ -71,9 +81,9 @@ Key sentence 3: Our key idea is ... (give an intellectual core)
 
 Why should the reader care? What actual progress have you made at addressing the solution? Why is the world a better place with the ideas in your paper in it?
 
-I don't have a formulaic sentence for this. It can take many forms. One common pattern is:Our results/system/method/technique/ideas enables/provide/allows ...
+I don't have a formulaic sentence for this. It can take many forms. One common pattern is: Our results/system/method/technique/ideas enables/provide/allows ...
 
-## Writing
+### Writing
 
 I don't think that every paper has to have the formulaic sentences as explicit sentences in simple form. But I do think that writing these 4 sentences early in the writing process is valuable. If you can't express these 4 functions concisely, you will have problems building a coherent paper.
 
