@@ -13,14 +13,9 @@ This is advice for undergraduates who are thinking about going to graduate schoo
 <div class="dimbox">
 
 (added summer, 2016):  
-This document is getting really out of date, and deserves an overhaul. A lot of the main messages hold. However, as of right now (August 2016) I am very actively seeking new students to work with - especially in areas where we have ongoing projects (Robotics and Data Visualization). If you're a student here at Wisconsin, come talk to me. If you're not a student here, try to become one.
+This document is getting really out of date, and deserves an overhaul. A lot of the main messages hold. However, as of right now (August 2016) I am actively seeking new students to work with - especially in areas where we have ongoing projects (Robotics and Data Visualization). If you're a student here at Wisconsin, come talk to me. If you're not a student here, try to become one.
 </div>
 <div class="dimbox">
-
-(added November, 2013):  
-I am on sabbatical for the 2013-2014 academic year. I am not on the admissions committee. If you are a prospective student, you need to apply through the normal process.
-
-If you are accepted to our department, then we can talk. I will be back in September 2014.
 
 </div>
 <div class="dimbox">

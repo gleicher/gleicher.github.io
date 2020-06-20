@@ -8,7 +8,7 @@ draft: false
 
 This page has not been updated since 2010! Please See <http://pages.cs.wisc.edu/~gleicher/Papers> for an up to date list!
 
-This list is not necessarily complete, and hasn't been updated in quite some time. For a more complete list, check the automatically generated lists of [papers](http://pages.cs.wisc.edu/~gleicher/Papers), [talks](http://pages.cs.wisc.edu/~gleicher/Talks), or [videos]({{< relref "main-video" >}}). This is mainly things from the past few years.
+This list is not necessarily complete, and hasn't been updated in quite some time. For a more complete list, check the automatically generated lists of [papers](http://pages.cs.wisc.edu/~gleicher/Papers), [talks](http://pages.cs.wisc.edu/~gleicher/Talks), or [videos]({{< relref "video" >}}). This is mainly things from the past few years.
 
 ## 1.@ Visualization and Protein Science
 

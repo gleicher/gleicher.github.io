@@ -2,7 +2,11 @@
 title: courses-games10announce
 draft: false
 ---
-<div id="wikitext">
+
+This is a historic announcement for the 2010 Computer Games Class. It was the first time I taught the class.
+
+<!--more-->
+
 <div class="dimbox">
 
 <span style="font-size:144%"> The Course Web page is:  
@@ -13,7 +17,7 @@ draft: false
 #### Course Announcement for Spring 2010:  
 **CS679: Computer Games Technology**
 
-![]({{< static "pics/pub_pics_GamesAnnounce_abstruse-hacked.png" >}})
+![](../pub_pics_GamesAnnounce_abstruse-hacked.png)
 
 <dl><dt>Instructor</dt><dd> <a class="urllink" href="http://pages.cs.wisc.edu/~gleicher" rel="nofollow">Mike Gleicher</a>
 </dd><dt>Time</dt><dd> 2:30-3:45 MWF (note: there will <em>not</em> be 3 lectures per week. the extra class meeting time is scheduled so that students have a free time in their schedule for project group meetings)
@@ -60,4 +64,3 @@ If you really want to take this class, but have no graphics experience, please c
 If you're an art/design/education/... student who has a strong interest in game technology, we _might_ be able to accomodate you. CS679 is targeted towards CS students who are experienced programmers - but if you have different (but relevant) skills, we might be able to adapt the class for you. You might need to sign up under a different number. Please contact Prof. Gleicher to discuss it. 
 
 </div>
-<div class="wikilastmod">Page last modified on January 18, 2010, at 01:45 PM</div>

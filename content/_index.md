@@ -28,17 +28,17 @@ Madison, WI 53706
 </table>
 
 
-I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "main-bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}). 
+I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}). 
 
 My research these days is mainly about **robotics** and **data science.** With both, I am interested in how we can make them useful for people. 
 
 This semester (Spring 2020) I am teaching [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 
-I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "advice-gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
+I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
-You might be interested in my [grad school FAQ]({{< relref "advice-gradschoolfaq" >}}). Come and talk to me if you're interested in data visualization, robotics, computer graphics or related topics.
+You might be interested in my [grad school FAQ]({{< relref "gradschoolfaq" >}}). Come and talk to me if you're interested in data visualization, robotics, computer graphics or related topics.
 
-If you're interested in joining our group, come talk to me! If you aren't a student at Wisconsin yet, please look at my [grad school FAQ]({{< relref "advice-gradschoolfaq" >}}), particularly the last few questions.
+If you're interested in joining our group, come talk to me! If you aren't a student at Wisconsin yet, please look at my [grad school FAQ]({{< relref "gradschoolfaq" >}}), particularly the last few questions.
 
  
 

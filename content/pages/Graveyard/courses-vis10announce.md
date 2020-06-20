@@ -2,13 +2,21 @@
 title: courses-vis10announce
 draft: false
 ---
-<div id="wikitext">
+
+This is the historic announcement for the first time I offered a visualization class in 2010. It was an experiment that keeps going to this day. It's pretty interesting that even at the beginning, I had the same ideas as to the goals of the class.
+
+<!--more-->
+
 <div class="dimbox">
 
 <span style="font-size:144%"> The course web page is at  
 <http://www.cs.wisc.edu/graphics/Courses/Visualization10> </span>
 
 </div>
+
+This is a course announcement for the first (2010) time I tried to teach a visualization course.
+
+<!--more-->
 
 #### Course Announcement for Spring 2010:  
 **CS838: Visualization: getting from data to understanding**
@@ -50,4 +58,3 @@ In this course we will study techniques and algorithms for creating effective vi
 </div>
 ![]({{< static "pics/pub_pics_VisAnnounce_wordle.png" >}})
 </div>
-<div class="wikilastmod">Page last modified on January 18, 2010, at 01:44 PM</div>
