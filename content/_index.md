@@ -4,29 +4,17 @@ draft: false
 noheader: true
 ---
 
-<table>
-    <tr>
-        <td valign="top">
-            <img alt="" src='{{< static "pics/pub_pics_2015_11_10_square3_300.jpg" >}}' title="" width="300px"/>
-        </td>
-        <td valign="top" width="10"></td>
-        <td valign="top">
-
+{{< leftpic rsrc="2015_headshot_square.jpg" width=300 topmargin=0 >}}
 ### Michael Gleicher
 Professor  
 Department of Computer Sciences  
 University of Wisconsin, Madison  
 1210 West Dayton St.  
-Madison, WI 53706
+Madison, WI 53706  
+[`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)  
 
-[`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
-
-**Office Hours:** Suspended because of COVID. Please send me email to set up a video conference.
-</p>
-        </td>
-    </tr>
-</table>
-
+**Office Hours:** Suspended because of COVID. Please send me email.
+{{< /leftpic >}}
 
 I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}). 
 
@@ -44,53 +32,29 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 ## Current Research Themes
 
-<div style="margin-top:20px; clear:both; ">
-
-<img alt="" src='{{< static "pics/segmentation2.png" >}}' title="" width="200"/>
-
-</div><div style="overflow:hidden">
-
+{{< leftpic url="pics/segmentation2.png" >}}
 **Communicating Physical Interactions** - We are working on ways for people and robots to communicate to each other about how objects should be manipulated in the world. Manipulations necessarily involve physical interactions (e.g., forces must be applied correctly). We are exploring ways for people to tell robots how to act with appropriate forces (e.g., to teach manipulation skills) as well as for robots to communicate back to people about the actions they are performing.
+{{< /leftpic >}}
 
-</div>
-<div style="margin-top:20px; clear:both; ">
-
-<img alt="" src='{{< static "pics/figures-05.png" >}}' title="" width="200"/>
-
-</div><div style="overflow:hidden">
-
+{{< leftpic url="pics/figures-05.png" >}}
 **Communicative Robot Motions** - If robots are going to work around people, it will be important that people can interpret the robots movements correctly. We are developing ways to make robots move such that people will interpret them correctly. For example, we are considering how to design robot control algorithms such that the resulting movements are understandable, predictable, aesthetically pleasing, and convey a sense of appropriate affect (e.g. confidence).
+{{< /leftpic >}}
 
-</div>
-<div style="margin-top:20px; clear:both; ">
 
-<img alt="" src='{{< static "pics/scatterplot-teaser.png" >}}' title="" width="200"/>
-
-</div><div style="overflow:hidden">
-
+{{< leftpic url="pics/scatterplot-teaser.png" >}}
 **Interacting with Machine Learning** - People interact with machine learning systems in many ways: they must build them, debug them, diagnose them, decide to trust them, gain insights on their data from them, etc. We are exploring this in both directions: How do we build machine learning tools into interactive data analysis in order to help people interpret large and complex data? How do we build interaction tools that can help people construct and diagnose machine learning models?
+{{< /leftpic >}}
 
-</div>
-<div style="margin-top:40px; clear:both; ">
 
-<img alt="" src='{{< static "pics/teaser.png" >}}' title="" width="200"/>
-
-</div><div style="overflow:hidden">
-
+{{< leftpic url="pics/teaser.png" >}}
 **Visualizing Comparisons for Data Science** - Data interpretation tasks often involve making comparisons among the data, or can be thought of as comparisons. We are developing better visualization tools for performing comparisons for various data challenges, as well as to developing better methods for inventing new designs.
+{{< /leftpic >}}
 
-</div>
-<div style="margin-top:20px; clear:both; ">
-<div class="img"><span class="lfloat"> 
 
-<img alt="" src='{{< static "pics/teaser.jpg" >}}' title="" width="200"/>
-
- </span></div>
-</div><div style="overflow:hidden">
-
+{{< leftpic url="pics/teaser.jpg" >}}
 **Usable VR and AR** - Virtual Reality (VR) and Augmented Reality (AR) are interesting display devices that are becoming practical. We are exploring how to design VR and AR applications that can address application tasks, as well as to develop new mechanisms that will make these displays more useful across a broad range of applications.
+{{< /leftpic >}}
 
-</div>
 <div style="margin-top:40px">
 
 ### Selected Past (but recent) Themes
