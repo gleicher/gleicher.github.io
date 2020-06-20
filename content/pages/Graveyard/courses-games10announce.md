@@ -7,12 +7,12 @@ This is a historic announcement for the 2010 Computer Games Class. It was the fi
 
 <!--more-->
 
-<div class="dimbox">
+{{% dimbox %}}
 
 <span style="font-size:144%"> The Course Web page is:  
 <http://www.cs.wisc.edu/graphics/Courses/Games10> </span>
 
-</div>
+{{% /dimbox %}}
 
 #### Course Announcement for Spring 2010:  
 **CS679: Computer Games Technology**

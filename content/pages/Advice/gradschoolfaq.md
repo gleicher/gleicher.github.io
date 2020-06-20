@@ -10,16 +10,12 @@ This is advice for undergraduates who are thinking about going to graduate schoo
 
 # Mike Gleicher's Graduate School FAQ
 
-<div class="dimbox">
-
+{{% dimbox %}}
 (added summer, 2016):  
 This document is getting really out of date, and deserves an overhaul. A lot of the main messages hold. However, as of right now (August 2016) I am actively seeking new students to work with - especially in areas where we have ongoing projects (Robotics and Data Visualization). If you're a student here at Wisconsin, come talk to me. If you're not a student here, try to become one.
-</div>
-<div class="dimbox">
+{{% /dimbox %}}
 
-</div>
-<div class="dimbox">
-
+{{% dimbox %}}
 (added June, 2013):  
 The most recent update to this document was in 2010! Some of it was out of date in 2003. It's really interesting to see what is a timeless truth (and still true from when I wrote it in 2001), and what is out of date. The parts about how our admissions process works, and how I find students seem to change more slowly. 
 
@@ -28,8 +24,7 @@ If you're a student who is considering applying for grad school at Wisconsin and
 - I am not on the admissions committee, so I have little control over whether you will be admitted to Wisconsin.
 - If you are accepted by the committee and are interested in the kinds of things I work on, we should talk (_after_ you are accepted). I am eager to find students that are a good fit for my group.
 - There is a growing amount of opportunity to work in graphics and visualization and related fields (HCI, VR, ...). 
-
-</div>
+{{% /dimbox %}}
 
 I tend to get a lot of people asking me questions about grad school. Itended to get the same questions over and over, so rather than write short answers each time, I decided to compile my answers so I could say more about each request.
 
