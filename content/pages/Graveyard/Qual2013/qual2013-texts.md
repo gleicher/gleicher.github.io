@@ -1,10 +1,14 @@
 ---
-title: qual2013-texts
+title: "2013 Qual: Textbooks"
 draft: false
 ---
-<div id="wikitext">
 
-Students are expected to have mastery of the topics covered in anintroductory graphics course. The introductory graphics course isCS559, and its recent syllabus should be used as a guide. Note thatsome topics may only covered in passing in the class, but arestill considered important for the Qualifying Exam. For some topics, we expect more depth than the intro class may provide.
+Textbook reading for the 2013 Graphics Qual.
+
+<!--more-->
+
+
+Students are expected to have mastery of the topics covered in anintroductory graphics course. The introductory graphics course is CS559, and its recent syllabus should be used as a guide. Note that some topics may only covered in passing in the class, but are still considered important for the Qualifying Exam. For some topics, we expect more depth than the intro class may provide.
 
 The textbooks for CS559 (both required and recommended) are suggestedas the core references for the Qualifying Exam. The editions listedare current as of the writing of this list, but students should seekthe most current text available. Chapter numbers refer to the versionslisted.
 

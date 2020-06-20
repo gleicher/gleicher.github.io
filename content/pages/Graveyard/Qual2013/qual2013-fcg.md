@@ -1,8 +1,11 @@
 ---
-title: qual2013-fcg
+title: "2013 Qual: Readings from Foundations of Computer Graphics"
 draft: false
 ---
-<div id="wikitext">
+
+Textbook readings - materials from an undergrad class.
+
+<!--more-->
 
 In the order they appear in \[FCG\] - note that \[FCG\] is not always the preferred resource for the topic.
 
@@ -26,4 +29,3 @@ In the order they appear in \[FCG\] - note that \[FCG\] is not always the prefer
 - Visualization \[FCG27,28\]: In the future, this will be an entire section of the qual. For now, what is here serves as a good introduction.
 
 </div>
-<div class="wikilastmod">Page last modified on June 20, 2013, at 03:13 PM</div>

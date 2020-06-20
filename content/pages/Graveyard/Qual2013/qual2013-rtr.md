@@ -1,8 +1,10 @@
 ---
-title: qual2013-rtr
+title: "2013 Qual: Real-Time Rendering"
 draft: false
 ---
-<div id="wikitext">
+
+2013 Graphics Qual - readings from the Real Time Rendering book.
+<!--more-->
 
 Topics in RTR that are only mentioned briefly in FCG, but stillrequired. These are places where the text is the best starting point (as opposed to the older Qual reading list where we recommended the original source papers for the concepts). Topics where additional papers are needed are discussed in subsequent sections:
 

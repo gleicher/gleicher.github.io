@@ -1,8 +1,10 @@
 ---
-title: qual2013-surfaceparam
+title: "2013 Qual: Surface Parameterization"
 draft: false
 ---
-<div id="wikitext">
+
+2013 Graphics Qual - readings on surface parameterization.
+<!--more-->
 
 _Differential Geometry_ is an important foundation for much of graphics. Students must have a sense of the basic concepts (curvature, distortion, ...). Parts of \#1 and \#2 below should provide sufficient background.
 
@@ -14,5 +16,3 @@ _Surface parameterization_ is a useful tool for many graphics applications and a
 2.   Floater, Sheffer, and others. Mesh Parameterization SIGGRAPH Course (offered in 2008 and 2007), [notes online](http://www.inf.usi.ch/hormann/parameterization/). The Differential Geometry primer is useful not only as a tutorial on differential geometry, but also on the basic issues in parameterization.
 3.   Sheffer, A., Praun, E., & Rose, K. (2006). Mesh Parameterization Methods and Their Applications. Foundations and Trends@ in Computer Graphics and Vision, 2(2), 105@171. doi:10.1561/0600000011 [(author version)](http://www.cs.ubc.ca/~sheffa/papers/CGV011-journal.pdf) - also a nice survey that covers many of the techniques. Provides an excellent survey of the applications of parameterizations and the methods for doing it - with a little less background on the issues.
 
-</div>
-<div class="wikilastmod">Page last modified on June 20, 2013, at 02:41 PM</div>
