@@ -1,18 +1,16 @@
 ---
-title: courses-vis10announce
+title: Visualization 2010 Course Announcement
 draft: false
 ---
 
-This is the historic announcement for the first time I offered a visualization class in 2010. It was an experiment that keeps going to this day. It's pretty interesting that even at the beginning, I had the same ideas as to the goals of the class.
+This is the historic announcement for the first time I offered a visualization class in 2010. It was an experiment that keeps going to this day (2020 as I write this). It's pretty interesting that even at the beginning, I had the same ideas as to the goals of the class.
 
 <!--more-->
 
-<div class="dimbox">
-
+{{% dimbox %}}
 <span style="font-size:144%"> The course web page is at  
 <http://www.cs.wisc.edu/graphics/Courses/Visualization10> </span>
-
-</div>
+{{% /dimbox %}}
 
 This is a course announcement for the first (2010) time I tried to teach a visualization course.
 
@@ -21,7 +19,10 @@ This is a course announcement for the first (2010) time I tried to teach a visua
 #### Course Announcement for Spring 2010:  
 **CS838: Visualization: getting from data to understanding**
 
-<div class="img">[![]({{< static "pics/pub_pics_VisAnnounce_axiis.png" >}})](http://axiis.org) [![]({{< static "pics/pub_pics_VisAnnounce_wikipedmouse.png" >}})](http://en.wikipedia.org/wiki/File:VolRenderShearWarp.gif) [![]({{< static "pics/pub_pics_VisAnnounce_mizbee.png" >}})](http://mizbee.org) ![]({{< static "pics/pub_pics_VisAnnounce_gregsm1.png" >}})</div>
+![](pub_pics_VisAnnounce_axiis.png)
+![](pub_pics_VisAnnounce_wikipedmouse.png)
+![](pub_pics_VisAnnounce_mizbee.png) 
+![](pub_pics_VisAnnounce_gregsm1.png)
 
 #### Spring Course Announcement:  
 **CS838: Visualization: getting from data to understanding**
@@ -39,7 +40,9 @@ This course will explore the foundations of visualization: how we turn data into
 
 The _content_ (the topics, not the teaching style) of this course is modeled after the visualization courses at Harvard ([cs171](http://www.cs171.net/)) and Berkeley ([cs294](http://vis.berkeley.edu/courses/cs294-10-fa08/wiki/index.php)). Here, we will teach the class in a bit more of a "seminar" style - using class time more for discussion and student presentations than lectures.
 
-<div class="img">![]({{< static "pics/pub_pics_VisAnnounce_aaron_sm_1.jpg" >}}) [![]({{< static "pics/pub_pics_VisAnnounce_stock.png" >}})](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/twitter-activity-on-the-nyse-and-n-3) ![]({{< static "pics/pub_pics_VisAnnounce_mouseslice.png" >}}) </div>
+![](pub_pics_VisAnnounce_aaron_sm_1.jpg)
+![](pub_pics_VisAnnounce_stock.png)
+![](pub_pics_VisAnnounce_mouseslice.png) 
 
 #### Overview
 
@@ -51,10 +54,9 @@ By the end of the course, we will learn how to design effective visualizations f
 
 For a more complete description, I steal this from the course at Berkeley (with 2 sentences removed):
 
-<div class="dimbox">
-
+{{% dimbox %}}
 In this course we will study techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science. The course is targeted both towards students interested in using visualization in their own work, as well as students interested in building better visualization tools and systems. In addition to participating in class discussions, students will have to complete several short programming and data analysis assignments as well as a final project. 
+{{% /dimbox %}}
 
-</div>
-![]({{< static "pics/pub_pics_VisAnnounce_wordle.png" >}})
-</div>
+
+![](pub_pics_VisAnnounce_wordle.png)
