@@ -5,6 +5,8 @@ title = "Home Page Test"
 theme = ["559Theme","mainroad"]
 paginate = 12
 
+relativeURLs = true
+
 [[menu.main]]
     identifier = "home"
     name = "Home"
