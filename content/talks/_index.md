@@ -1,4 +1,5 @@
 ---
 title: "Mike Gleicher's Talks"
-site.paginate: 5
+paginate: 100
+top_pagination: true
 ---
