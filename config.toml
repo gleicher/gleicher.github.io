@@ -6,6 +6,7 @@ theme = ["559Theme","mainroad"]
 paginate = 12
 
 relativeURLs = true
+enableGitInfo = true
 
 [[menu.main]]
     identifier = "home"
