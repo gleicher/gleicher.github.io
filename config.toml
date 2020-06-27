@@ -14,6 +14,32 @@ enableGitInfo = true
     url = "/"
     weight = -1000
 
+[[menu.main]]
+    identifier = "Papers"
+    name = "Papers"
+    url = "https://graphics.cs.wisc.edu/Papers/?author=Gleicher"
+    weight = 10
+
+[[menu.main]]
+    identifier = "Talks"
+    name = "Talks"
+    url = "/talks"
+    weight = 100
+
+[[menu.main]]
+    identifier = "Videos"
+    name = "Videos"
+    url = "/videos"
+    weight = 110
+
+[[menu.main]]
+    identifier = "Advice"
+    name = "Advice"
+    url = "/pages/advice"
+    weight = 150
+
+
+
 [Params]
 post_meta = ["date","taglist","categories"]
 mainSections = ["main"]
