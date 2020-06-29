@@ -38,8 +38,6 @@ enableGitInfo = true
     url = "/pages/advice"
     weight = 150
 
-
-
 [Params]
 post_meta = ["date","taglist","categories"]
 mainSections = ["main"]
