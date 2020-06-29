@@ -4,7 +4,7 @@ draft: false
 noheader: true
 ---
 
-{{< leftpic rsrc="2015_headshot_square.jpg" width=300 topmargin=0 >}}
+{{< leftpic asset="pics/2015_headshot_square.jpg" width=300 topmargin=0 >}}
 ## Michael Gleicher
 Professor  
 Department of Computer Sciences  
