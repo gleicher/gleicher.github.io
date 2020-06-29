@@ -28,51 +28,22 @@ You might be interested in my [grad school FAQ]({{< relref "gradschoolfaq" >}}).
 
 If you're interested in joining our group, come talk to me! If you aren't a student at Wisconsin yet, please look at my [grad school FAQ]({{< relref "gradschoolfaq" >}}), particularly the last few questions.
 
- 
 
 ## Current Research Themes
 
-{{< leftpic url="homepagepics/segmentation2.png" >}}
-**Communicating Physical Interactions** - We are working on ways for people and robots to communicate to each other about how objects should be manipulated in the world. Manipulations necessarily involve physical interactions (e.g., forces must be applied correctly). We are exploring ways for people to tell robots how to act with appropriate forces (e.g., to teach manipulation skills) as well as for robots to communicate back to people about the actions they are performing.
-{{< /leftpic >}}
-
-{{< leftpic url="homepagepics/figures-05.png" >}}
-**Communicative Robot Motions** - If robots are going to work around people, it will be important that people can interpret the robots movements correctly. We are developing ways to make robots move such that people will interpret them correctly. For example, we are considering how to design robot control algorithms such that the resulting movements are understandable, predictable, aesthetically pleasing, and convey a sense of appropriate affect (e.g. confidence).
-{{< /leftpic >}}
-
-
-{{< leftpic url="homepagepics/scatterplot-teaser.png" >}}
-**Interacting with Machine Learning** - People interact with machine learning systems in many ways: they must build them, debug them, diagnose them, decide to trust them, gain insights on their data from them, etc. We are exploring this in both directions: How do we build machine learning tools into interactive data analysis in order to help people interpret large and complex data? How do we build interaction tools that can help people construct and diagnose machine learning models?
-{{< /leftpic >}}
-
-
-{{< leftpic url="homepagepics/serendip-teaser.png" >}}
-**Visualizing Comparisons for Data Science** - Data interpretation tasks often involve making comparisons among the data, or can be thought of as comparisons. We are developing better visualization tools for performing comparisons for various data challenges, as well as to developing better methods for inventing new designs.
-{{< /leftpic >}}
-
-
-{{< leftpic url="homepagepics/vr-teaser.jpg" >}}
-**Usable VR and AR** - Virtual Reality (VR) and Augmented Reality (AR) are interesting display devices that are becoming practical. We are exploring how to design VR and AR applications that can address application tasks, as well as to develop new mechanisms that will make these displays more useful across a broad range of applications.
-{{< /leftpic >}}
-
+{{< summary "researchtheme/CommPhysInteractions" >}} 
+{{< summary "researchtheme/CommMotion" >}}
+{{< summary "researchtheme/interactlearn" >}}
+{{< summary "researchtheme/visualcomp" >}}
+{{< summary "researchtheme/usablevr" >}}
 
 ### Selected Past (but recent) Themes
 
-{{< leftpic url = "homepagepics/Teaser-01.jpg" >}}
-**Communicative Characters** - We are working on better ways to synthesize human motions to make animated characters (both on screen and robots) that are better able to communicate. Generally, we focus on trying to make use of collections of examples (such as motion capture) to build models that allow us to generate novel movements, or to define models of communicative motions.
-{{< /leftpic >}}
+{{< summary "researchtheme/commchar" >}}
+{{< summary "researchtheme/perceptprinc" >}}
+{{< summary "researchtheme/vep" >}}
+{{< summary "researchtheme/authoring" >}}
 
-{{< leftpic url = "homepagepics/fig1.png" >}}
-**Perceptual Principles for Visualization** - Understanding how people see can inform how we should design visualizations. We have been exploring how recent results in perception (e.g., ensemble encoding) can be exploited to create novel visualization designs, and how principles of perception can inform visualization designs.
-{{< /leftpic >}}
-
-{{< leftpic url = "homepagepics/word-cloud-cmp.png" >}}
-**Visualizing English Print** - To drive our data science efforts, we took a specific application: working with English literature scholars to develop approaches to working with large collections of historical texts.
-{{< /leftpic >}}
-
-{{< leftpic url = "homepagepics/pub_pics_small_jumpers.png" >}}
-**Video, Animation and Image Authoring** - Our goal is to make it easier for people to create useable images and video. For example, we have developed methods for improving pictures and video as a post-process (e.g. removing shadows and stabilizing video). We have also worked on adapting imagery for use in new settings (e.g. image and video retargeting or automatic video editing) and making use of large image collections (e.g. intestingness detection or panorama finding).
-{{< /leftpic >}}
 
 ## Teaching
 

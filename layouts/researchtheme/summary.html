@@ -1,0 +1,30 @@
+{{/*
+    Site Params:
+    videoThumbSize ("180x120")
+
+    taken from video ... but way simplified 
+*/}}
+<article class="list__item post">
+<!-- div for each video summary - a separate flexbox -->
+<div class="video__summary" style="display: flex; flex-direction: row; flex-wrap:wrap">
+    <div class="video__thumbnail" style="width:200px">
+        {{ $page := . }}
+        {{ with .Page.Resources.ByType "image" }}
+            {{ range first 1 . }}
+                {{ $thumb := .Fit ( $page.Site.Params.videoThumbSize | default "180x120" )  }}
+                <a href="{{ $page.RelPermalink }}">
+                    <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" />
+                </a>
+            {{ end }}
+        {{ end }}
+    </div><!-- end video_thumbnail -->
+    {{/* took out regular thumbnail */}}
+    <div class="video__summarybody" style="width:300px; flex-grow:1">
+        <header class="list__header">
+       </header>
+        <div class="content list__excerpt post__content clearfix">
+            <b> {{ .Title }}: </b> {{ .Summary }}
+        </div>
+    </div><!-- video__summarybody -->
+</div>
+</article>
