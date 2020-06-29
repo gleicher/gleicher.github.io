@@ -1,6 +1,6 @@
 {{- $page := .Site.GetPage (.Get 0) -}}
 {{- with $page -}}
-<div class="teaser">
+<div class="inline__summary">
 {{ .Render "summary" }}
 </div>
 {{- end -}}

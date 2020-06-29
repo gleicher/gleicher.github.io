@@ -46,7 +46,7 @@ mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
 subtitle = "Michael Gleicher's Home Page"
-customCss = ["css/2008.css"]
+customCss = ["css/home.scss"]
 
 [Params.sidebar]
 home = "right"

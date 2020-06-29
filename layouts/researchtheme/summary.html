@@ -6,8 +6,8 @@
 */}}
 <article class="list__item post">
 <!-- div for each video summary - a separate flexbox -->
-<div class="video__summary" style="display: flex; flex-direction: row; flex-wrap:wrap">
-    <div class="video__thumbnail" style="width:200px">
+<div class="research__summary" style="display: flex; flex-direction: row; flex-wrap:wrap">
+    <div class="research__thumbnail" style="width:200px">
         {{ $page := . }}
         {{ with .Page.Resources.ByType "image" }}
             {{ range first 1 . }}
@@ -17,14 +17,12 @@
                 </a>
             {{ end }}
         {{ end }}
-    </div><!-- end video_thumbnail -->
+    </div><!-- end research_thumbnail -->
     {{/* took out regular thumbnail */}}
-    <div class="video__summarybody" style="width:300px; flex-grow:1">
-        <header class="list__header">
-       </header>
-        <div class="content list__excerpt post__content clearfix">
-            <b> {{ .Title }}: </b> {{ .Summary }}
+    <div class="research__summarybody" style="width:300px; flex-grow:1">
+       <div class="content list__excerpt post__content clearfix">
+            <a href="{{ $page.RelPermalink }}"><b> {{ .Title }}: </b></a> {{ .Summary }}
         </div>
-    </div><!-- video__summarybody -->
+    </div><!-- research__summarybody -->
 </div>
 </article>

@@ -16,7 +16,7 @@ Madison, WI 53706
 **Office Hours:** Suspended because of COVID. Please send me email.
 {{< /leftpic >}}
 
-I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}). 
+I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV](http://www.cs.wisc.edu/~gleicher/CV.pdf), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}).
 
 My research these days is mainly about **robotics** and **data science.** With both, I am interested in how we can make them useful for people. 
 
@@ -43,7 +43,6 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 {{< summary "researchtheme/perceptprinc" >}}
 {{< summary "researchtheme/vep" >}}
 {{< summary "researchtheme/authoring" >}}
-
 
 ## Teaching
 
