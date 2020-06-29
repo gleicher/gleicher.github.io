@@ -5,7 +5,7 @@ noheader: true
 ---
 
 {{< leftpic rsrc="2015_headshot_square.jpg" width=300 topmargin=0 >}}
-### Michael Gleicher
+## Michael Gleicher
 Professor  
 Department of Computer Sciences  
 University of Wisconsin, Madison  
