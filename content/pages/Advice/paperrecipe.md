@@ -89,9 +89,34 @@ I don't think that every paper has to have the formulaic sentences as explicit s
 
 ## Other Resources
 
+#### Best Book on Writing - Ever
 The absolute best book on writing I've ever seen is [Style: Lessons in Clarity and Grace](https://amzn.to/3dYaPO4) by Williams and Bizup. Note that the 12th edition is different than early editions, and is formatted in a way that is much easier. This book was recommended to me by some of my English Professor colleagues. It is truly amazing because it makes good writing into a procedural process. It gives specific advice on how to think about writing.
 
+Get this book and look at it. It will change the way you think about writing. It will give you specific things you can do to make your writing better. It will not only tell you what to do, it will tell you why, and how to learn to do it. I wish I practiced all of its lessons.
+
+Yes, there are plenty of other good books and writing. But no other book I've seen is as **actionable.** It explains what to do, why to do it, and how to learn to do it. It is a great mix of "levels": it considers everything from how to write good sentences to how to organize papers.
+
+**Other choices:** not an exhaustive list, but other books that I have looked at over the years:
+
+- Strunk and White's [Elements of Style](https://amzn.to/2O1Z5ia) is a timeless classic. I like the [illustrated edition](https://amzn.to/2DfMpC4). 
+- Zinsser's [On Writing Well](https://amzn.to/2ZHk2UL) is another classic. 
+- I found Pinker's [The Sense of Style](https://amzn.to/31Spabo) to be interesting because it related  cognitive science to writing. It explains why good writing is more effective with real scientific depth. It is great at the "why" of good writing, but less helpful at the how.
+
+#### Quick Article with Easy Points
+
+I like this article [3 Ways to Make Your Writing Clearer](https://hbr.org/2020/04/3-ways-to-make-your-writing-clearer). In particular, the "since the dawn of time" comment really resonated with me. All of these echo what is in Williams and Bizzup - but these are 3 little quick tricks. The three points, which state rich advice in a wonderfully concise manner:
+
+1. Cut the “since the dawn of time” opening and get right to the point
+2. Turn those descriptive topic sentences into topic sentences that make claims
+3. Make sure people are doing things in your sentences, unless you don’t want them to be doing things
+
+I love these - since they get 3 key points from Williams fast.
+
+#### Some other references
+
 Seth Hutchinson, IEEE Trans Robotics, on how to think about revising papers in response to reviews:
-<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5663683>
+[Surviving the Review Process](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5663683). This echoes what I tell people, but it comes from a more authoritative source. A favorite quote:
+
+> If a Reviewer Does Not Understand Your Paper, Take Responsibility
 
 
