@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Home Page Test"
+title = "Michael Gleicher's Web Page"
 
 theme = ["559Theme","mainroad"]
 paginate = 12
@@ -43,7 +43,7 @@ post_meta = ["date","taglist","categories"]
 mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
-subtitle = "Michael Gleicher's Home Page"
+# subtitle = "Michael Gleicher's Web Page"
 customCss = ["css/home.scss"]
 
 [Params.sidebar]

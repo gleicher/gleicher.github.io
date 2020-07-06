@@ -18,7 +18,7 @@ _Update 8/8/2008: Added "Expected Contributions" Discussion_
 While the terms "thesis" and "dissertation" are used interchangeably they really differ in meaning in an important ways. Over time, colloquial usage is making common usage equivalent, but I think the difference is important, so even if the words aren't used this way nowadays, the concept is good to get into your mind:
 
 - A _dissertation_ is a long document discussing a topic. To quote a dictionary: a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree
-- A _thesis_ is a statement to be defended (see <span>BAD LINK</span> below). To quote a dictionary: an unproved statement put forward as a premise in an argument
+- A _thesis_ is a statement to be defended (see [What is a Thesis?](#3-what-is-a-thesis) below). To quote a dictionary: an unproved statement put forward as a premise in an argument
 
 To get a Ph.D. you need to write a dissertation (a long document). That document should (or must, to get me to sign) present a _thesis_ sufficiently well that your committee decides you deserve a Ph. D.
 
@@ -110,7 +110,7 @@ For me, the main thing a prelim document does is shown that your thesis is a goo
 So your prelim document/presentation must show that you have the 5 things a good thesis must have:
 
 1.   State the _thesis_ that you will work on. I must be able to identify the sentence.
-2.   Provide a thorough enough discussion of the related work to both show that your thesis is _novel_ (i.e. not known to be true/false already). (see <span>BAD LINK</span> below).
+2.   Provide a thorough enough discussion of the related work to both show that your thesis is _novel_ (i.e. not known to be true/false already). (see related work below).
 3.   Provide enough motivation that the committee knows why the thesis is _important_.
 4.   Show that the thesis is _provable_ by explaining how you will prove/test your thesis to show that you are done. This is a big piece of expectation setting. 
 5.   Give a sense of why the thesis is _significant_ by explaining why the problem (demonstrating the thesis) is hard, and what you intend to do about it. You may not know exactly what you are going to do, but you should give indication that you have a plausible plan, and that its feasible to succeed in a reasonable amount of time.

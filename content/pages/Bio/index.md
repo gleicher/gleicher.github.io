@@ -1,13 +1,14 @@
 ---
-title: Bio
+title: About Michael Gleicher (Bio)
 draft: false
 ---
 
+(or look at my [C.V.]({{< assetlink "pdf/CV.pdf" >}}))
 ## One paragraph standard professional bio
 
-(or look at my [C.V.](http://pages.cs.wisc.edu/~gleicher/CV.pdf))
 
-(Circa 2019)
+
+#### One paragraph profession bio - 2019
 Michael Gleicher is a Professor in the Department of Computer Sciences at the University of Wisconsin, Madison.  Prof. Gleicher is founder of the Department's Visual Computing Group. He co-directs both the Visual Computing Laboratory and the Collaborative Robotics Laboratory at UW-Madison. His research interests span the range of visual computing, including data visualization, robotics, and virtual reality. Prior to joining the University, Prof. Gleicher was a researcher at The Autodesk Vision Technology Center and in Apple Computer's Advanced Technology Group. He earned his Ph. D. in Computer Science (1994) from Carnegie Mellon University, and holds a B.S.E. in Electrical Engineering from Duke University (1988). In 2013-2014, he was a visiting researcher at INRIA Rhone-Alpes. Prof. Gleicher is an ACM Distinguished Scientist.
 
 {{< expand "(Circa 2016)" >}}
@@ -28,6 +29,14 @@ Prior to joining the university, Prof. Gleicher was a researcher atThe Autodesk 
 
 ## More illustrated version
 
+{{< leftpic nopic="true" >}}
+In 2020, I rebuilt this web page using Hugo rather than the circa 200X Wiki. I am not sure if the content is any better.
+{{< /leftpic >}}
+
+{{< leftpic rsrc="ozzie_on_bed.jpeg" >}}
+In 2017 we adopted Ozzie. 50 years, no dog. Then poof, dog. Everything changes.
+{{< /leftpic >}}
+
 {{< leftpic rsrc="pub_pics_small_familyvail09-150.jpg" >}}
 In 2009, I was promoted to Professor. I also finally redid this page
 after 10 years, but I just copied old stuff.
@@ -35,7 +44,7 @@ after 10 years, but I just copied old stuff.
 
 {{< leftpic rsrc="pub_pics_bio_family-sm-2005-08-13.jpg" >}}
 In 2004, I was promoted to Associate Professor (i.e. tenured). I also
-married Julie Loehrl. Our son Sam was born on April 5, 2005. 
+married Julie Loehrl. Our son Sam was born in April of 2005. 
 {{< /leftpic >}}
 
 {{< leftpic rsrc="W-logo-400.png" >}}
