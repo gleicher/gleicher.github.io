@@ -1,5 +1,5 @@
 ---
-title: The Paper "Recipe"
+title: 'Writing Advice: The Paper "Recipe"'
 draft: false
 summary: "Let me tell you a little trick that I tell all the students: **sentence, paragraph, page**"
 
@@ -100,7 +100,7 @@ Yes, there are plenty of other good books and writing. But no other book I've se
 
 - Strunk and White's [Elements of Style](https://amzn.to/2O1Z5ia) is a timeless classic. I like the [illustrated edition](https://amzn.to/2DfMpC4). 
 - Zinsser's [On Writing Well](https://amzn.to/2ZHk2UL) is another classic. 
-- I found Pinker's [The Sense of Style](https://amzn.to/31Spabo) to be interesting because it related  cognitive science to writing. It explains why good writing is more effective with real scientific depth. It is great at the "why" of good writing, but less helpful at the how.
+- I found Pinker's [The Sense of Style](https://amzn.to/31Spabo) to be interesting because it related  cognitive science to writing. It explains why good writing is more effective with real scientific depth. It is great at the "why" of good writing, but less helpful at the how. This [article on a key point](https://getpocket.com/explore/item/the-single-reason-why-people-can-t-write-according-to-a-harvard-psychologist) will give you the main idea in 2 seconds.
 
 #### Quick Article with Easy Points
 
