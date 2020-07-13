@@ -30,7 +30,7 @@ enableGitInfo = true
 [[menu.main]]
     identifier = "Videos"
     name = "Videos"
-    url = "/videos"
+    url = "/video"
     weight = 110
 
 [[menu.main]]
