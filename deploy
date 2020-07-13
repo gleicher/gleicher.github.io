@@ -1,1 +1,1 @@
-../hugo -D -d ~/public/html/HugoTest
+../hugo -D -d ~/public/html-s
