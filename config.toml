@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pages.cs.wisc.edu/~gleicher/"
 languageCode = "en-us"
 title = "Michael Gleicher's Web Page"
 
@@ -6,6 +6,7 @@ theme = ["559Theme","mainroad"]
 paginate = 12
 
 relativeURLs = true
+canonifyURLs = true
 enableGitInfo = true
 
 [[menu.main]]
@@ -29,7 +30,7 @@ enableGitInfo = true
 [[menu.main]]
     identifier = "Videos"
     name = "Videos"
-    url = "/videos"
+    url = "/video"
     weight = 110
 
 [[menu.main]]
