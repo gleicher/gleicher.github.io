@@ -1,1 +1,1 @@
-../hugo -D -d ~/public/html-s
+../hugo -d ~/public/html-s
