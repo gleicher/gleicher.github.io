@@ -10,5 +10,6 @@ desc: "Workshop talk at the Institute for Mathematics and Its Applications"
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/ima-wkshp.gif"
 old_oldtagname: "ima-wkshp.tag"
 old_key: "ima-wkshp"
+extpdfs: ["Talks/2001_ima-wkshp.pdf"]
 ---
 Presented at the Computer Graphics Workshop at the <a href="http://www.ima.umn.edu/">Institute for Mathematics and Its Applications.</a>

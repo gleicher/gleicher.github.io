@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/procomm-180.png"
 desc: "Invited keynote at the IEEE Professional Communications Society Meeting"
 old_oldtagname: "procomm.tag"
 old_key: "procomm"
+extpdfs: ["Talks/2017_procomm.pdf"]
 ---
 Invited keynote at the IEEE Professional Communications Society Meeting
