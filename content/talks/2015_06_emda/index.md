@@ -11,11 +11,11 @@ old_desc: "A tutorial on Visualization&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http:
 desc: "Tutorial talk series at EMDA"
 old_oldtagname: "emda.tag"
 old_key: "emda"
+extpdfs: ["Talks/2015_06_EMDA-1-Intro.pdf","Talks/2015_06_EMDA-2-WhatIsVis.pdf","Talks/2015_06_EMDA-3-Encodings.pdf","Talks/2015_06_EMDA-4-dimensions.pdf"]
 ---
 
 An invited tutorial on Visualization at the  Early Modern Digital Agendas workshop at the Folger Library, Washington, DC.
 
-+ [1 - Intro](EMDA-1-Intro.pdf)
-+ [2 - What is Visualization?](2-WhatIsVis.pdf)
-+ [3 - Encodings](3-Encodings.pdf)
-+ [4 - high dimensional data](4-dimensions.pdf)
++ [1 - Intro](https://graphics.cs.wisc.edu/GleicherAssets/Talks/2015_06_EMDA-1-Intro.pdf)
++ [2 - What is Visualization?](https://graphics.cs.wisc.edu/GleicherAssets/Talks/2015_06_EMDA-2-WhatIsVis.pdf)
++ [3 - Encodings](https://graphics.cs.wisc.edu/GleicherAssets/Talks/2015_06_EMDA-3-Encodings.pdf)

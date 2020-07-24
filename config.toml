@@ -46,6 +46,7 @@ dateformat = "January, 2006"
 copyright = "Michael Gleicher"
 # subtitle = "Michael Gleicher's Web Page"
 customCss = ["css/home.scss"]
+assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
 
 [Params.sidebar]
 home = "right"
