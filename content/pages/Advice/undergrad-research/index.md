@@ -1,5 +1,5 @@
 ---
-title: "Advice: Undergrad Research, Projects and Directed Studies"
+title: "Undergrad Research, Projects and Directed Studies"
 description: ""
 date: "2020-06-29T08:25:36-05:00"
 toc: true
