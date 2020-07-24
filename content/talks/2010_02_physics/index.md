@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2010/physics.png"
 desc: "A Talk at the Chaos and Complexity seminar"
 old_oldtagname: "physics.tag"
 old_key: "physics"
+extpdfs: ["Talks/2010_physics.pdf"] 
 ---
 A Talk at the Chaos and Complexity seminar, University of Wisconsin, Madison

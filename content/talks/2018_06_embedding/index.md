@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2018/embedding-180.png"
 desc: "Paper presentation at EuroVis 2018"
 old_oldtagname: "embedding.tag"
 old_key: "embedding"
+extpdfs: ["Talks/2018_embeddings.pdf"]
 ---
 Paper presentation at EuroVis 2018

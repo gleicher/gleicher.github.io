@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2018/Uncertainty-180.png"
 desc: "Invited talk at the EuroRV^3 Uncertainty workshop"
 old_oldtagname: "uncertainty.tag"
 old_key: "uncertainty"
+extpdfs: ["Talks/2018_eurorv3.pdf"]
 ---
 Invited talk at the EuroRV^3 Uncertainty workshop

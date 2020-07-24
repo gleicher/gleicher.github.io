@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2010/eri.png"
 desc: "A Talk at the ERI seminar, University of Wisconsin"
 old_oldtagname: "eri.tag"
 old_key: "eri"
+extpdfs: ["Talks/2010_eri.pdf"] 
 ---
 A Talk at the ERI seminar, University of Wisconsin, Madison (note, this is a shortened version of the Pictures from Piles of Data talk)

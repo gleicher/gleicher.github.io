@@ -11,5 +11,6 @@ old_desc: "Invited talk at the TRIPODS (Data Science) Seminar, University of Ari
 old_oldtagname: "tuscon1.tag"
 old_key: "tuscon1"
 desc: "Invited talk at the TRIPODS (Data Science) Seminar, University of Arizona"
+extpdfs: ["Talks/2019_tuscon1_shak.pdf"]
 ---
 Invited talk at the TRIPODS (Data Science) Seminar, University of Arizona, Tuscon, January 14, 2019. This talk is similar to the previous talk of the same title.

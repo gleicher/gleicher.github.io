@@ -10,6 +10,7 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2012/library.png"
 desc: "A talk as part of the Humanities Research Bridge"
 old_oldtagname: "library.tag"
 old_key: "library"
+extpdfs: ["Talks/2012_library-1up.pdf","Talks/2012_library-9up.pdf"]
 ---
 
 A talk given at Memorial Library as part of the Humanities Research Bridge. 

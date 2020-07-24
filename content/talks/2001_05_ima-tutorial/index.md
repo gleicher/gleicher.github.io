@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/ima-tutorial2.pdf"
 desc: "Tutorial  at the Institute for Mathematics and Its Applications"
 old_oldtagname: "ima-tutorial.tag"
 old_key: "ima-tutorial"
+extpdfs: ["Talks/2001_ima_tutorial1.pdf","Talks/2001_ima_tutorial2.pdf"]
 ---
 Presented at the Computer Graphics Tutorial at the <a href="http://www.ima.umn.edu/">Institute for Mathematics and Its Applications</a> at the University of Minnesota.

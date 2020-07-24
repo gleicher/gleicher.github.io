@@ -11,5 +11,6 @@ desc: "Invited talk at the University of Vienna, May 30, 2018."
 old_desc: "Invited talk at the University of Vienna, May 30, 2018. This talk is similar to the previous talk of the same title."
 old_oldtagname: "vienna.tag"
 old_key: "vienna"
+extpdfs: ["Talks/2018_vienna.pdf"]
 ---
 Invited talk at the University of Vienna, May 30, 2018. This talk is similar to the previous talk of the same title.

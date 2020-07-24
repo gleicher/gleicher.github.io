@@ -10,6 +10,7 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2008/utah-47.png"
 old_desc: "Distinguished Lecture at the University of Utah"
 old_oldtagname: "utah.tag"
 old_key: "utah"
+extpdfs: ["Talks/2008_utah.pdf"]
 ---
 
 Distinguished Lecture at the University of Utah Computer Sciences Department. Note: because of the slide animation, some of this doesn't look so great in print form.

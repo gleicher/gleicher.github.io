@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2008/Utrecht.png"
 desc: "Presentation at the Motion in Games Workshop"
 old_oldtagname: "Utrecht.tag"
 old_key: "utrecht"
+extpdfs: ["Talks/2008_utrecht.pdf"]
 ---
 Presentation at the Motion in Games Workshop, Utrecht, June 2008.

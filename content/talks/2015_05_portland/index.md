@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/arc6-180.png"
 desc: "Invited talk at Portland State University, May 2015."
 old_oldtagname: "portland.tag"
 old_key: "portland"
+extpdfs: ["Talks/2015_portland.pdf"]
 ---
 Invited talk at Portland State University, May 2015. This talk is an update of the earlier talk with a similar title.

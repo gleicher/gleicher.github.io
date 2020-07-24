@@ -3,7 +3,7 @@ title: "Advice: Undergrad Research, Projects and Directed Studies"
 description: ""
 date: "2020-06-29T08:25:36-05:00"
 toc: true
-draft: true
+draft: false
 thumbnail: ""
 categories:
   - ""
@@ -13,11 +13,19 @@ tags:
 
 If you are currently an undergraduate and interested in getting involved in a project, please read this. A lot of students seem to be interested in doing "research" these days, and I'd like to set the expectations correctly. 
 
-Short version: don't do research / directed study until you've done the requisite coursework; and, I will say no if you are not a Wisconsin student. But consider things to build your portfolio on your own.
+Short version: (1) understand research vs. projects; (2) don't do research / directed study until you've done the requisite coursework; (3) I will say no if you are not a Wisconsin student; (4) consider things to build your portfolio on your own.
 
 <!--more-->
 
+{{% dimbox %}}
+Warning: This is a work in progress, but I am letting out the early version since people are asking. 
+
+It is unclear how many undergrad projects I can work with given the COVID-19 situation.
+{{% /dimbox %}}
+
 Warning, this is a disorganized stream of thoughts... But the answer to your question is probably hidden in here.
+
+And, you may want to see my {{% link "gradschoolfaq" %}}
 
 ### Undergraduate Research?
 
@@ -36,6 +44,23 @@ The biggest difference is the goal. The goal of research is to create new knowle
 Note that the coursework at the university is *directed study* it is not necessarily "reserarch."
 
 If you are an undergrad, you probably want to do a project - you want the experience to learn from, and to show that you have had project experience. If you create new knowledge (or help a team create new knowledge) that's a bonus. A more realistic goal might be to prepare yourself to work on longer term research someday.
+
+### Why do a Project / Research?
+
+Make sure you know why you want to do this, not just take a class. 
+
+A few (good) answers:
+
+1. It's a way to learn about something you cannot learn about in class.
+2. It's a way to apply what you've learned to make something bigger.
+3. It's a chance to experience having to work in a more project-oriented (self-directed, open-ended) way.
+4. It's a chance to get more real practice with the skills you are trying to pick up.
+5. It's a way to get really deep into something that you are really interesting in / passionate about.
+6. It's a way to get experience working with people who are also passionate about these topics. (Yes, there is irony that independent projects are a good way to work with others).
+
+There are many more good answers. Less good answers include "I want to learn something that I could have learned in a class in a different setting" or "I don't want to learn in the structured environment of a class." 
+
+If your answer is "because it will help me get into grad school" - be careful, since the next question is "why do you want to go to grad school?" (which gets back to the answers above).
 
 ### What kinds of projects?
 

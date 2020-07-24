@@ -10,6 +10,7 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2019/mimic.png"
 desc: "Invited Keynote at the AI-HRI Symposium"
 old_oldtagname: "aihri.tag"
 old_key: "aihri"
+extpdfs: ["Talks/2019_aihri.pdf"]
 ---
 Invited Keynote at the AI-HRI Symposium (AAAI Fall Symposium Series)
 

@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2012/france.png"
 desc: "Talk given at INRIA Rhone-Alps and INRIA Sophia Antipolis "
 old_oldtagname: "france.tag"
 old_key: "france"
+extpdfs: ["Talks/2012_france.pdf"]
 ---
 Talk given at INRIA Rhone-Alps (Grenoble, FR) and INRIA Sophia Antipolis (Sophia-Antipolis, FR).
