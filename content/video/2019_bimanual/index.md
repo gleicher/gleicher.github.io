@@ -8,6 +8,7 @@ shortdesc: "Video accompaniment to our 2019 paper on interactive control of bima
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2019/RMGH19/
 youtube: cGh0UncVxck
+extvideos: ["Videos/2019/bimanual.mp4"]
 ---
 
 This video demonstrates our system for interactive control of bimanual robots, published in [Science Robotics, June 2019](https://graphics.cs.wisc.edu/Papers/2019/RMGH19/).

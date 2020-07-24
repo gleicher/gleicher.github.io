@@ -9,6 +9,7 @@ shortdesc: "Virtual talk for EuroVis 2020 about the Boxer system for comparing m
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2020/GBYH20/
 youtube: ed1Rp-oYjy8
+extvideos: ["Videos/EV-FP-1180_v2.mp4"]
 ---
 
 This video was the "talk" for EuroVis 2020 that presented our paper [Boxer: Interactive Comparison of Classifier Results](https://graphics.cs.wisc.edu/Papers/2020/GBYH20/). Because EuroVis was held virtually (due to COVID-19), the talk is this 12 minute video.

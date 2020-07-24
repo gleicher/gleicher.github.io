@@ -8,4 +8,5 @@ shortdesc: "Video accompaniment to our ICRA 2019 paper on Pathwise Inverse Kinem
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2019/RMG19/
 youtube: utV3VV1oLm4
+extvideos: ["Videos/2019/2019_stampede.mp4"]
 ---

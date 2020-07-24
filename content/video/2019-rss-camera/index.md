@@ -8,4 +8,5 @@ shortdesc: "Video for our RSS 2019 paper on interactive manipulation using real 
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2019/RMG19a/
 youtube: 2JyNU2O5onc
+extvideos: ["Videos/2019/2019_rsscamera.mp4"]
 ---
