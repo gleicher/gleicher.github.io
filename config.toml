@@ -47,6 +47,7 @@ copyright = "Michael Gleicher"
 # subtitle = "Michael Gleicher's Web Page"
 customCss = ["css/home.scss"]
 assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
+top_pagination = true
 
 [Params.sidebar]
 home = "right"
