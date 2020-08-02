@@ -1,3 +1,6 @@
 vlc-help.txt
 resources/_gen/
 trash/
+moves.sh
+.idea/
+__pycache__/

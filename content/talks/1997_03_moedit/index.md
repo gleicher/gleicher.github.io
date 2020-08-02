@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/1998/spacetime06.png"
 desc: "I3D 1997 talk (scanned from 35mm slides)"
 old_oldtagname: "moedit.tag"
 old_key: "moedit"
+extpdfs: ["Talks/1997_03_spacetime-6up.pdf"]
 ---
 I3D 1997 talk (scanned from 35mm slides)

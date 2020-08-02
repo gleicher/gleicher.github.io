@@ -10,5 +10,6 @@ old_desc: "Lecture given at the Workshop on Image Processing and Related Issues 
 old_oldtagname: "4.tag"
 old_key: "4"
 desc: "Lecture as part of a tutorial on animation at Zhejiang University"
+extpdfs: ["Talks/2004_05_4.pdf"]
 ---
 Lecture given at the Workshop on Image Processing and Related Issues at Zhejiang University. This lecture was part 5 of 5. 

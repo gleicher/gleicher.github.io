@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2002/Summer/Npar.htm"
 desc: "Presented at NPAR 2002"
 old_oldtagname: "Npar.tag"
 old_key: "npar"
+extpdfs: ["Talks/2002_06_Npar.pdf"]
 ---
 Presented at NPAR 2002

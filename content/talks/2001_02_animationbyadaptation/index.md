@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/AnimationByAdaptation.
 desc: "Distinguished Lecture, University of Virginia"
 old_oldtagname: "AnimationByAdaptation.tag"
 old_key: "animationbyadaptation"
+extpdfs: ["Talks/2001_02_AnimationByAdaptation.pdf"]
 ---
 Distinguished Lecture, Department of Computer Science, University of Virginia

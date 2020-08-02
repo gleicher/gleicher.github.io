@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/1998/retarget-both.png"
 desc: "SIGGRAPH 98 talk (both left and right slide decks in one file)"
 old_oldtagname: "retarget.tag"
 old_key: "retarget"
+extpdfs: ["Talks/1998_07_retarget-both.pdf"]
 ---
 SIGGRAPH '98 talk (both left and right slide decks in one file)

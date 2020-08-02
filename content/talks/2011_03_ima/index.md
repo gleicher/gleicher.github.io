@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2011/ima.png"
 desc: "A Talk at the Institute for Mathematics and its Applications (IMA)"
 old_oldtagname: "ima.tag"
 old_key: "ima"
+extpdfs: ["Talks/2011_03_ima.pdf"]
 ---
 A Talk at the Institute for Mathematics and its Applications (IMA) at the University of Minnesota. 

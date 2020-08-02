@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2017/ttl.jpg"
 desc: "Invited Keynote at WICED 2017"
 old_oldtagname: "ttl.tag"
 old_key: "ttl"
+extpdfs: ["Talks/2017_04_ttl.pdf"]
 ---
 Invited Keynote at WICED 2017 (6th Workshop on Intelligent Cinematography and Editing), Lyon, France.

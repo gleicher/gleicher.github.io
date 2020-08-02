@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2014/predict-wkshp.png"
 desc: "Talk at the VisWeek 2014 Workshop on Visualization for Predictive Analytics"
 old_oldtagname: "predict.tag"
 old_key: "predict"
+extpdfs: ["Talks/2014_11_predict-workshop.pdf"]
 ---
 Talk at the VisWeek 2014 Workshop on Visualization for Predictive Analytics

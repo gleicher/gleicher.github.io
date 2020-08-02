@@ -10,5 +10,6 @@ desc: "A Talk Given at the Game Technologies Seminar"
 old_desc: "A Talk Given at the Game Technologies Seminar. This is really the first part of a tag-team talk given with Lucas. Originally it was scheduled for a longer period of time, so most of the slides were skipped in order to cram it into 75 minutes."
 old_oldtagname: "gametech.tag"
 old_key: "gametech"
+extpdfs: ["Talks/2004_11_Gdsem-notes.pdf"]
 ---
 A Talk Given at the Game Technologies Seminar. This is really the first part of a tag-team talk given with Lucas. Originally it was scheduled for a longer period of time, so most of the slides were skipped in order to cram it into 75 minutes.

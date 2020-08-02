@@ -11,5 +11,6 @@ old_desc: "Conference Talk at InfoVis 2017"
 old_oldtagname: "viscomp.tag"
 old_key: "viscomp"
 desc: "Conference Talk at InfoVis 2017"
+extpdfs: ["Talks/2017_10_VisComp-given.pdf"]
 ---
 

@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2007/recin.jpg"
 desc: "Presentation at ACM Multimedia 2007 in the Best Papers Session"
 old_oldtagname: "recin.tag"
 old_key: "recin"
+extpdfs: ["Talks/2007_09_recin.pdf"]
 ---
 Presentation at ACM Multimedia 2007 in the Best Papers Session.

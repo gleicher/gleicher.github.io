@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/AsiaSpring2004/korea.htm"
 desc: "Talk given at Seoul National University and KAIST"
 old_oldtagname: "korea.tag"
 old_key: "korea"
+extpdfs: ["Talks/2004_06_korea.pdf"]
 ---
 An overview talk given at both Seoul National University and KAIST (Korean Advanced Institute for Science and Technology).

@@ -10,6 +10,7 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2014/dagstuhl180.png"
 desc: "Talk at the Dagstuhl Seminar \"Scientific Visualization\""
 old_oldtagname: "dag.tag"
 old_key: "dag"
+extpdfs: ["Talks/2014_06_dagstuhl.pdf"]
 ---
 
 Talk at the Dagstuhl Seminar "Scientific Visualization", June 2, 2014

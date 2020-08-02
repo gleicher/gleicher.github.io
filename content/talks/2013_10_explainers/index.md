@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/Explainers180.png"
 desc: "Talk given at VIS 2013 conference for a VAST paper (best paper runner up)"
 old_oldtagname: "explainers.tag"
 old_key: "explainers"
+extpdfs: ["Talks/2013_10_ExplainersPostVis-1up.pdf"]
 ---
 Talk given at VIS 2013 conference for a VAST (TVCG) paper.

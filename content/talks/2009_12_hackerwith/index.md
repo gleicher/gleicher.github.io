@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2009/conv-vis-small.png"
 desc: "A talk at The Hacker Within monthly meeting."
 old_oldtagname: "hackerwith.tag"
 old_key: "hackerwith"
+extpdfs: ["Talks/2009_12_AConvAboutVis.pdf","Talks/2009_12_hackerwithin.pdf"]
 ---
 A talk at <a href="http://hackerwithin.org">The Hacker Within</a> monthly meeting.

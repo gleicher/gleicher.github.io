@@ -10,5 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2013/Splatter180.png"
 desc: "Talk given at VIS 2013 conference for a TVCG journal paper"
 old_oldtagname: "splatter.tag"
 old_key: "splatter"
+extpdfs: ["Talks/2013_10_Splatter-1up.pdf"]
 ---
 Talk given at VIS 2013 conference for a TVCG journal paper.

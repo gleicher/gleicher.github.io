@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/csclub.pdf"
 desc: "Talk for the CS Club"
 old_oldtagname: "csclub.tag"
 old_key: "csclub"
+extpdfs: ["Talks/2001_12_csclub.pdf"]
 ---
 Talk for the CS Club to introduce what we do at Wisconsin.

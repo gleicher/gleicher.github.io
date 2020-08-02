@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2002/Summer/VideoMocap.htm"
 desc: "Presented at Computer Animation 2002"
 old_oldtagname: "VideoMocap.tag"
 old_key: "videomocap"
+extpdfs: ["Talks/2002_06_VideoMocap.pdf"]
 ---
 Presented at Computer Animation 2002

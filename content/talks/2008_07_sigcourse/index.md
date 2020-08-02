@@ -10,6 +10,7 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2008/sigcourse-synthesis.pd
 old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/2008/SIGCourse.jpg"
 old_oldtagname: "sigcourse.tag"
 old_key: "sigcourse"
+extpdfs: ["Talks/2008_07_sigcourse-synthesis.pdf"]
 ---
 
 Presentation at SIGGRAPH 2008 course "Motion Planning and Autonomy for Virtual Humans."

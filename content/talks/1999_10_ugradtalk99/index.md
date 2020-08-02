@@ -9,4 +9,5 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/1999/UgradTalk99.pdf"
 old_oldtagname: "UgradTalk99.tag"
 old_key: "ugradtalk99"
 desc: "Talk for the Computer Science Club"
+extpdfs: ["Talks/1999_10_UgradTalk99.pdf"]
 ---

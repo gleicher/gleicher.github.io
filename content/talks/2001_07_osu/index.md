@@ -9,5 +9,6 @@ old_pdf: "http://graphics.cs.wisc.edu/Talks/Gleicher/2001/osu.pdf"
 desc: "Presented at Ohio State University"
 old_oldtagname: "osu.tag"
 old_key: "osu"
+extpdfs: ["Talks/2001_07_osu.pdf"]
 ---
 Presented at Advanced Center for Computing in the Arts and Design,Ohio State University, July 2001

@@ -10,6 +10,7 @@ desc: "Lecture as part of a tutorial on animation at Zhejiang University"
 old_desc: "Lecture given at the Workshop on Image Processing and Related Issues at Zhejiang University. This lecture was the 3 part of 5. A pdf of the handouts is &lt;a href=&quot;http://graphics.cs.wisc.edu/Talks/Gleicher/AsiaSpring2004/2.pdf&quot;&gt;here.&lt;/a&gt;"
 old_oldtagname: "2.tag"
 old_key: "2"
+extpdfs: ["Talks/2004_05_2.pdf"]
 ---
 
 Lecture given at the Workshop on Image Processing and Related Issues at Zheziang University. This lecture was the 3 part of 5. 
