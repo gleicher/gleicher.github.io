@@ -9,7 +9,7 @@ categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2014/AKVWG14/
 youtube: C8MxGFmJIvY
 duration: "4:01 with sound"
-extpdfs: ["Videos/2015_Serendip-_RankViewer.mp4"]
+extvideos: ["Videos/2015_Serendip-_RankViewer.mp4"]
 ---
 
 A demonstration of Serendip's RankViewer. Serendip is a corpus exploration tool that uses probabilistic topic modeling as a lens through which to view documents. The demonstration uses a topic model generated on a corpus of 1,080 digitized English texts published between 1530 and 1799.

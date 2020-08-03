@@ -10,6 +10,6 @@ shortdesc: "Video demonstration of my thesis. Full of demos of various systems I
 youtube: 2s3q7VeAjPQ
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/1994/Gle94a/
-extpdfs: ["Videos/1994_thesis.avi"]
+extvideos: ["Videos/1994_thesis.avi"]
 ---
 

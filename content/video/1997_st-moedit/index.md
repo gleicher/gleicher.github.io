@@ -9,7 +9,7 @@ shortdesc: "Video Accompaniment for the 1997 I3D paper."
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/1997/Gle97a/
 youtube: 3pOKZepASd8
-extpdfs: ["Videos/1997_st-moedit.avi"]
+extvideos: ["Videos/1997_st-moedit.avi"]
 ---
 
 Yes. This really was all in real-time on a circa 1996 Macintosh. I have no idea how I made it go so fast.

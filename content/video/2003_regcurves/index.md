@@ -10,6 +10,6 @@ shortdesc: "Many motion editing algorithms are forms of a general operation call
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2003/KG03/
 youtube: oEtMk9-LPr8
-extpdfs: ["Videos/2003_Registration_Curves.mp4", "Videos/2003_regcurves.avi"]
+extvideos: ["Videos/2003_Registration_Curves.mp4", "Videos/2003_regcurves.avi"]
 ---
 

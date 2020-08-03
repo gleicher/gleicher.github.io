@@ -7,6 +7,6 @@ duration: "4:03 sound"
 vidfile: 1998_st-retarget.avi
 shortdesc: "No description"
 categories: ["video"]
-extpdfs: ["Videos/1998_st-retarget.avi"]
+extvideos: ["Videos/1998_st-retarget.avi"]
 ---
 

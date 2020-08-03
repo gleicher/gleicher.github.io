@@ -9,5 +9,5 @@ Ponto, K., Kohlmann, J., & Gleicher, M. (2012). Effective replays and summarizat
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2012/PKG12/
 youtube: 6aEus_KJYiQ
-extpdfs: ["Videos/2012_Effective_replays_and_summarization_of_virtual_experiences.mp4"]
+extvideos: ["Videos/2012_Effective_replays_and_summarization_of_virtual_experiences.mp4"]
 ---

@@ -7,6 +7,6 @@ duration: "2:26 sound"
 vidfile: 2003_decimation.avi
 shortdesc: "No description"
 categories: ["video"]
-extpdfs: ["Videos/2003_decimation.avi"]
+extvideos: ["Videos/2003_decimation.avi"]
 ---
 

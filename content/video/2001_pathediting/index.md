@@ -9,7 +9,7 @@ shortdesc: "Video demonstrration of the Motion Path Editing technique published 
 categories: ["video"]
 youtube: eu3kgiRho2g
 paperpage: https://graphics.cs.wisc.edu/Papers/2001/Gle01a/
-extpdfs: ["Videos/2001_pathediting.avi"]
+extvideos: ["Videos/2001_pathediting.avi"]
 ---
 
 Warning: this is a poor quality AVI upload.

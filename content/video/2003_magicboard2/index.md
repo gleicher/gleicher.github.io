@@ -8,6 +8,6 @@ duration: ":50 no sound"
 vidfile: 2003_magicboard2.avi
 shortdesc: "A spin off of Virtual Videography, Magic Boards is an authoring tool for allowing users to replace writing on the board with type written text, clip-art, images, etc. This video shows Magic Boards used in an actual class."
 categories: ["video"]
-extpdfs: ["Videos/2003_magicboard2.avi"]
+extvideos: ["Videos/2003_magicboard2.avi"]
 ---
 

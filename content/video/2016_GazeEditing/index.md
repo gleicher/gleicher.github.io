@@ -8,5 +8,5 @@ shortdesc: "Video for our 2016 SIGGRAPH Asia Paper on adding and editing eye mov
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2016/PRMG16/
 youtube: g1Obz2MP3QA
-extpdfs: ["Videos/16-SiggraphAsia-GazeEdit-final.mp4"]
+extvideos: ["Videos/16-SiggraphAsia-GazeEdit-final.mp4"]
 ---

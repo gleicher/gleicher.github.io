@@ -9,6 +9,6 @@ shortdesc: 1995 SIGGRAPH Paper Video"
 categories: ["video"]
 youtube: TFuzbSbfudA
 paperpage: https://graphics.cs.wisc.edu/Papers/1995/Gle95/
-extpdfs: ["Videos/1995_snapping.mp4", "Videos/1995_snapping.avi"]
+extvideos: ["Videos/1995_snapping.mp4", "Videos/1995_snapping.avi"]
 ---
 

@@ -10,6 +10,6 @@ shortdesc: "No description"
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/1994/GW94/
 youtube: jqr_KS0V1cs
-extpdfs: ["Videos/1991_briar.avi"]
+extvideos: ["Videos/1991_briar.avi"]
 ---
 

@@ -8,5 +8,5 @@ shortdesc: "Video showing the Splatterplot technique for displaying dense scatte
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2013/MG13/
 youtube: 6bjvyH6pOMM
-extpdfs: ["Videos/2013_splattermovie.mp4"]
+extvideos: ["Videos/2013_splattermovie.mp4"]
 ---

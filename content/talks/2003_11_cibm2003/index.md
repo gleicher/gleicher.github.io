@@ -11,7 +11,6 @@ desc: "CIBM seminar talk"
 old_desc: "Seminar presented at the CIBM seminar series, November 11, 2003. Garet&#x27;s slides are &lt;a href=&quot;http://graphics.cs.wisc.edu/Talks/Gleicher/2003/vv-garet.pdf&quot;&gt;here.&lt;/a&gt;"
 old_oldtagname: "cibm2003.tag"
 old_key: "cibm2003"
-extpdfs: ["Talks/2003_11_vv-talk-garet.pdf"]
-extpdfs: ["Talks/2003_11_vv-talk2.pdf"]
+extpdfs: ["Talks/2003_11_vv-talk-garet.pdf", "Talks/2003_11_vv-talk2.pdf"]
 ---
 Seminar presented at the CIBM seminar series, November 11, 2003. Talk split with co-PI Garet Lahvis.

@@ -10,7 +10,7 @@ shortdesc: "Video accompaniment to our I3D 2003 paper."
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2003/GSKJ03/
 youtube: Dxfv_SEk6f8
-extpdfs: ["Videos/2003_Snap_Together_Motion.mp4", "Videos/2003_stm.avi"]
+extvideos: ["Videos/2003_Snap_Together_Motion.mp4", "Videos/2003_stm.avi"]
 ---
 
 We present an approach to character motion called Snap-Together Motion that addresses the unique demands of virtual environments. Snap-Together Motion (STM) preprocesses a corpus of motion capture examples into a set of short clips that can be concatenated to make continuous streams of motion.

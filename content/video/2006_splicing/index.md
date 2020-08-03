@@ -10,7 +10,7 @@ shortdesc: "Video from our EuroGraphics "
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2006/HKG06/
 youtube: aQx5Fz3zKoI
-extpdfs: ["Videos/2006_Splicing_Upper-Body_Actions_with_Locomotion.mp4", "Videos/2006_splicing.avi"]
+extvideos: ["Videos/2006_Splicing_Upper-Body_Actions_with_Locomotion.mp4", "Videos/2006_splicing.avi"]
 ---
 
 We present a simple and efficient technique for synthesizing high-fidelity motions by attaching, or splicing,the upper-body action of one motion example to the lower-body locomotion of another.

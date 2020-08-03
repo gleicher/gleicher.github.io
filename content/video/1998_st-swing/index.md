@@ -7,6 +7,6 @@ duration: "0:47 sound"
 vidfile: 1998_st-swing.avi
 shortdesc: "No description"
 categories: ["video"]
-extpdfs: ["Videos/1998_st-swing.avi"]
+extvideos: ["Videos/1998_st-swing.avi"]
 ---
 

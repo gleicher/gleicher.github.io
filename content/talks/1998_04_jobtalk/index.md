@@ -10,7 +10,6 @@ old_image: "http://graphics.cs.wisc.edu/Talks/Gleicher/1998/JobTalk98.png"
 desc: "My 1998 Job Talk (good enough to get me a job at Wisconsin!)"
 old_oldtagname: "jobtalk.tag"
 old_key: "jobtalk"
-extpdfs: ["Talks/"]
 extpdfs: ["Talks/1998_04_JobTalk98.pdf"]
 ---
 My 1998 Job Talk (good enough to get me a job at Wisconsin!)

@@ -10,6 +10,6 @@ shortdesc: "HijackGL is a prototype system that allows us to non-invasively inte
 categories: ["video"]
 youtube: rdp39X0iaqk
 paperpage: https://graphics.cs.wisc.edu/Papers/2002/MG02/
-extpdfs: ["Videos/2002_hijackgl.avi"]
+extvideos: ["Videos/2002_hijackgl.avi"]
 ---
 

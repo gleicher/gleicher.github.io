@@ -9,6 +9,6 @@ shortdesc: "Video Demonstration of the UIST 2001 Paper \"Simplicial Families of 
 categories: ["video"]
 youtube: 0gRnQWeKlgY
 paperpage: https://graphics.cs.wisc.edu/Papers/2001/KG01/
-extpdfs: ["Videos/2001_simplicial.avi"]
+extvideos: ["Videos/2001_simplicial.avi"]
 ---
 

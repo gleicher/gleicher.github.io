@@ -8,7 +8,7 @@ shortdesc: "Video demonstrating our system for using a robot to operate a camera
 categories: ["video"]
 youtube: xvDwTJd8f4c
 paperpage: https://graphics.cs.wisc.edu/Papers/2018/RMG18/
-extpdfs: ["Videos/2018_Effective_replays_and_summarization_of_virtual_experiences.mp4"]
+extvideos: ["Videos/2018_Effective_replays_and_summarization_of_virtual_experiences.mp4"]
 ---
 
 This is the video accompaniment to our best-paper award winning paper [An Autonomous Dynamic Camera Method for Effective Remote Teleoperation](https://graphics.cs.wisc.edu/Papers/2018/RMG18/) from HRI 2018. It demonstrates a system that allows the user to control a robot manipulator and see what they are doing by having a second robot control a video camera that watches the action.

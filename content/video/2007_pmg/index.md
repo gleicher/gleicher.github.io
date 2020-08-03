@@ -10,7 +10,7 @@ shortdesc: "Video demonstration from our I3D 2007 Paper on real-time, high quali
 categories: ["video"]
 youtube: nYIXxT1UUK8
 paperpage: https://graphics.cs.wisc.edu/Papers/2007/HG07/
-extpdfs: ["Videos/2007_Parametric_Motion_Graphs.mp4"]
+extvideos: ["Videos/2007_Parametric_Motion_Graphs.mp4"]
 ---
 
 We present an example-based motion synthesis technique that generates continuous streams of high-fidelity, controllable motion for interactive applications, such as video games.
