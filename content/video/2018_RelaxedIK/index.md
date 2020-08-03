@@ -10,4 +10,5 @@ categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2018/RMG18a/
 youtube: AhsQFJzB8WQ
 vidfile: optional
+extpdfs: ["Videos/2018_RelaxedIK-_Real-time_Synthesis_of_Accurate_and_Feasible_Robot_Arm_Motion.mp4"]
 ---

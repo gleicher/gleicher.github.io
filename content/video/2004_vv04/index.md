@@ -10,6 +10,7 @@ shortdesc: "Early results of Virtual Videography (see the 2007 results for more 
 categories: ["video"]
 youtube: Qd7hZ91MyDw
 paperpage: https://graphics.cs.wisc.edu/Papers/2007/HWG07/
+extpdfs: ["Videos/2004_Virtual_Videography_2004_Early_Results.mp4", "Videos/2004_vv04.avi"]
 ---
 
 Note: see the {{% link "2007_vv-mm" %}} video page for a more recent result.

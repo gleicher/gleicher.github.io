@@ -9,4 +9,5 @@ Ponto, K., Shin, H. J., Kohlmann, J., & Gleicher, M. (2012). Online real-time pr
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2012/PSKG12/
 youtube: Xk5IPASZBJE
+extpdfs: ["Videos/2012_Online_Real-Time_Presentation_of_Virtual_Experiences_for_External_Viewers.mp4"]
 ---

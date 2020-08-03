@@ -7,5 +7,6 @@ duration: "4:14 sound"
 vidfile: 2003_cartoon.avi
 shortdesc: "No description"
 categories: ["video"]
+extpdfs: ["Videos/2003_cartoon.avi"]
 ---
 

@@ -8,6 +8,7 @@ vidfile: 2003_tiles.avi
 shortdesc: "Unpublished work on animation that extends Motion Paths."
 categories: ["video"]
 youtube: HPjLfzwySxc
+extpdfs: ["Videos/2003_Motion_Tiles_Demo.mp4", "Videos/2003_tiles.avi"]
 ---
 
 This video shows off work we did in 2003, but was never published. The student graduated before we were able to complete the paper.

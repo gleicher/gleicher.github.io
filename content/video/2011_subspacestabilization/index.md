@@ -9,6 +9,7 @@ shortdesc: "Video from our 2011 Transactions on Graphics Paper"
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2011/LGWJA11/
 youtube: Hqn0xop04FQ
+extpdfs: ["Videos/2011_subspace.mp4"]
 ---
 
 Video from our 2011 Transactions on Graphics Paper.

@@ -8,5 +8,6 @@ duration: "3:44 sound"
 vidfile: 2003_directskin.avi
 shortdesc: "A system for authoring linear blend skins. Provides a more standard painting interface plus our own direct manipulation method for setting vertex weights."
 categories: ["video"]
+extpdfs: ["Videos/2003_directskin.avi"]
 ---
 

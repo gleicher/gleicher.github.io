@@ -8,4 +8,5 @@ shortdesc: "Video describing our system for real-time control of a robot arm, pu
 categories: ["video"]
 paperpage: https://graphics.cs.wisc.edu/Papers/2017/RMG17/
 youtube: 6bjvyH6pOMM
+extpdfs: ["Videos/2017_A_Motion_Retargeting_Method_for_Effective_Mimicry-based_Teleoperation_of_Robot_Arms.mp4"]
 ---

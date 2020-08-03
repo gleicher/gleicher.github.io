@@ -8,5 +8,6 @@ duration: "5:05 sound"
 vidfile: 2003_efficientskins.avi
 shortdesc: "We construct high-quality skins for characters that can run on traditional runtimes from a set of examples."
 categories: ["video"]
+extpdfs: ["Videos/2003_efficientskins.avi"]
 ---
 

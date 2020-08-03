@@ -10,6 +10,7 @@ shortdesc: "Video demonstrating the Virtual Videography System. Video from the 2
 categories: ["video"]
 youtube: D0OgenghC7U
 paperpage: https://graphics.cs.wisc.edu/Papers/2007/HWG07/
+extpdfs: ["Videos/2007_Virtual_Videography_2007_Multimedia_Video.mp4"]
 ---
 
 We present automated system called Virtual Videography that employs the art of videography to mimic videographer-produced lecture videos, while being unobtrusive when recording.

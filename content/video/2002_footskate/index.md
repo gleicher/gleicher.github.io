@@ -10,6 +10,7 @@ shortdesc: "Many motion capture editing operations result in the feet of the cha
 categories: ["video"]
 youtube: uIwv2VhwmV4
 paperpage: https://graphics.cs.wisc.edu/Papers/2002/KSG02/
+extpdfs: ["Videos/2002_footskate.avi"]
 ---
 
 Video from our 2002 paper "Footskate cleanup for motion capture editing". This work was published at the Symposium on Computer Animation.

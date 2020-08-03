@@ -10,6 +10,7 @@ shortdesc: "Video from our SIGGRAPH 2004 Paper"
 categories: ["video"]
 youtube: MciKR1ZEVwA
 paperpage: https://graphics.cs.wisc.edu/Papers/2004/KG04/
+extpdfs: ["Videos/2004_Automated_Extraction_and_Parameterization_of_Motions_in_Large_Data_Sets.mp4", "Videos/2004_parammotions.avi"]
 ---
 
  We provide automated methods for identifying logically similar motions in a data set and using them to build a continuous and intuitively parameterized space of motions.
