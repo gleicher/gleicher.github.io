@@ -4,7 +4,9 @@ import glob
 import os.path
 
 # find all PDF files so we can deal with them...
-def findPDFs(root="content/talks", target="Talks", movebase="/p/graphics/public/htdocs/GleicherAssets"):
+# this makes them all external links
+def findPDFs(root="content/talks", target="Talks",
+             movebase="/p/graphics/public/htdocs/GleicherAssets"):
     flist = glob.glob(root+"/**/*.pdf")
     # switch from Window to Univ slashes
     flist = [i.replace("\\","/") for i in flist]
@@ -46,3 +48,12 @@ def findPDFs(root="content/talks", target="Talks", movebase="/p/graphics/public/
     with open("moves.sh","w") as fo:
         for m in moves:
             fo.write("mv {} {}\n".format(m[0],m[1]))
+
+def delPDFs(root="content/talks"):
+    flist = glob.glob(root+"/**/*.pdf")
+    # switch from Window to Univ slashes
+    flist = [i.replace("\\","/") for i in flist]
+
+    for file in flist:
+        print(file)
+        os.remove(file)
