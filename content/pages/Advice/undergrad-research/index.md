@@ -41,7 +41,7 @@ Not all cool projects are "research". Often, you make something which isn't nece
 
 The biggest difference is the goal. The goal of research is to create new knowledge. The goal of a project might be to create new knowledge (in which case it is a research project), but there might be some other goal. A goal might be to learn something, or to get experience, or to make something useful, or...
 
-Note that the coursework at the university is *directed study* it is not necessarily "reserarch."
+Note that the coursework at the university is *directed study* it is not necessarily "research."
 
 If you are an undergrad, you probably want to do a project - you want the experience to learn from, and to show that you have had project experience. If you create new knowledge (or help a team create new knowledge) that's a bonus. A more realistic goal might be to prepare yourself to work on longer term research someday.
 
@@ -72,7 +72,7 @@ If you aren't driven by curiosity and interests, then you might want to question
 
 ### Do I need to do a project with a Professor?
 
-There are advantages to doing a project in a formal setting. It is good to show that you can work well when supervised. That you can solve problems that someone else gives you (otherwise, you might just pick easy things). To have someome who can force you to follow through...
+There are advantages to doing a project in a formal setting. It is good to show that you can work well when supervised. That you can solve problems that someone else gives you (otherwise, you might just pick easy things). To have someone who can force you to follow through...
 
 That said: there is a lot to be said for doing a project on your own or with your friends.
 
@@ -94,7 +94,7 @@ To be blunt, supervising undergrad projects isn't an efficient use of my time. I
 
 Therefore, with a project, there is usually something you are already able to do that we build on.
 
-Also, I probably do not have enough time myself to adequately mentor and supervise you. Therefore, if we work together, I will have some other person involved to help me mentor you.
+Also, I probably do not have enough time myself to adequately mentor and supervise you. Therefore, if we work together, I will have some other person (a graduate student or post-doc) involved to help me mentor you.
 
 ### Undergrad Research in Other Fields
 
@@ -102,7 +102,7 @@ In many other fields, there is pressure / incentive to get "younger" students in
 
 1. In CS, there is less you can do without training. In other fields, there are often tasks that you can do with limited skills. For example, in a biology / chemistry lab you can always wash test tubes.
 
-2. In CS, we aren't so desperate for students to do menial labor. In a biology / chemistry lab, they are often looking for cheap testtube washers.
+2. In CS, we aren't so desperate for students to do menial labor. In a biology / chemistry lab, they are often looking for cheap test tube washers.
 
 3. In CS, there are plenty of "personal projects" you can do to develop your skills and explore your interests. You can make stuff yourself. This is much harder to do in other fields.
 
@@ -135,9 +135,9 @@ Some thoughts:
 3. Have some project experience that shows your skills and interests. You personal hobby project is possibly more relevant than good grades in a bunch of classes. It shows you have enough interest to do something on your own, and often involves relevant skills. Knowing how to do 3D modeling,
 4. Do things to explore your interests. The fact that you take initiative to learn about your interests shows that you really are interested.
 
-Some thoughts on persuing graphics/robotics/vr/vis related topics on your own:
+Some thoughts on pursuing graphics/robotics/vr/vis related topics on your own:
 
-- Learn art tools. You will need to be able to use tools to make stuff, even if your focus is on building your own software. Learn to use a 3D modeling program (blender or maya). Learn to make web pages since you'll want to show off anything you make (I've been trying to use static web page generators). Learn to edit video, ... Lots of the best software is available to students for free. You aren't going to be taught these things in a class, but they are really useful skills.
+- Learn art tools. You will need to be able to use tools to make stuff, even if your focus is on building your own software. Learn to use a 3D modeling program (Blender or Maya). Learn to make web pages since you'll want to show off anything you make (I've been trying to use static web page generators). Learn to edit video, ... Lots of the best software is available to students for free. You aren't going to be taught these things in a class, but they are really useful skills.
 
 - Learn libraries/frameworks/engines.
   - Unity Game Engine (or Unreal) Being able to work with a game engine (we tend to use Unity since its easier to get started with) is a great way to do 3D projects. A lot of things we do in research we like to do in a game engine. It's the best way to make VR experiences.
@@ -151,6 +151,6 @@ With any of these things: don't just learn the thing for its own sake. Pick some
 
 ### If you are not a Wisconsin student...
 
-I cannot host visiting "interns" - in order to work with me on an undergraduate project you must be an enrolled Wisconsin student. Limited exceptions might be possible for students who either were recently Wisconsin students (e.g., after you graduate) or going to be Wisconsin students (e.g., about to matriculate). And, in really unnusual cases, there are REU opportunities. 
+I cannot host visiting "interns" - in order to work with me on an undergraduate project you must be an enrolled Wisconsin student. Limited exceptions might be possible for students who either were recently Wisconsin students (e.g., after you graduate) or going to be Wisconsin students (e.g., about to matriculate). And, in really unusual cases, there are REU opportunities. 
 
 From time to time, I may have funding to support "Research Experiences for Undergraduates" (REUs) - the funding that supports this only applies to students who are (1) U.S. citizens (or permanent residents) and (2) enrolled at a U.S. University. This is one case where I can work with someone who is not a Wisconsin student. 
