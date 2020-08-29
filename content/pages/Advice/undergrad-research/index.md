@@ -6,9 +6,7 @@ toc: true
 draft: false
 thumbnail: ""
 categories:
-  - ""
 tags:
-  - ""
 ---
 
 If you are currently an undergraduate and interested in getting involved in a project, please read this. A lot of students seem to be interested in doing "research" these days, and I'd like to set the expectations correctly. 
