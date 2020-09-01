@@ -22,7 +22,7 @@ I am a professor working in areas related to Computer Graphics. These days, my m
 
 My research these days is mainly about **robotics** and **data science.** With both, I am interested in how we can make them useful for people. 
 
-This semester (Fall 2020) I am teaching **CS765 Data Visualization** (page coming soon).
+This semester (Fall 2020) I am teaching [CS765 Data Visualization](https://graphics.cs.wisc.edu/Courses/765-f2020/).
 Last semester (Spring 2020), I taught [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
@@ -51,13 +51,13 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
-- **CS765 Visualization:** This class is taught regularly. I tuaght it in 
+- **CS765 Visualization:** This class is taught regularly. I am teaching it [Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/). I taught it in 
 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
 [Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/),
 [Fall 2017](http://graphics.cs.wisc.edu/WP/vis17/), 
 and several times before that as "special topics" experiments.
 The class is an experiment in teaching a broad class that serves a very wide range of students.
-- **CS559 Computer Graphics:** 
+- **CS559 Computer Graphics:**
 I  taught this most recently in [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 I redesigned the class in [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019). 
 My offerings include 
