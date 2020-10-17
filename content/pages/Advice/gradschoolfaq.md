@@ -55,12 +55,14 @@ Also, now that I'm using automatic numbering, it's harder to control.
 
 Short version: (pick one of these)
 
-- maybe, if its right for you
+- maybe, if it is right for you
 - yes! grad school is great!
 
 This is a tough personal question. My feeling is: you should go to graduate school if, and only if, it is the right thing for you todo. But its such a great thing, that erring on the side of going is probably wise.
 
 This defies the conventional wisdom that says that all smart people should go to graduate school. Many of my colleagues feel this way. Partially from the economic argument (it will pay off), partially from the "what's good for me is good for you" angle.
+
+Nick Feamster has a [well-written article](https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286) that has a very parallel viewpoint, focused on a Ph. D. (the reasons for a masters degree are quite different).
 
 _2001 version:_ In practice, I don't think grad school is for every one. Over the past few years, the economic argument hasn't beena s strong (although, as the economy slows, ...).
 
