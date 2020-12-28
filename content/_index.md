@@ -94,11 +94,10 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 The complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
-- RSS '18: _RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
-- EuroVis '18 - _Interactive Analysis of Word Vector Embeddings_ <span style="font-size:83%"> w/Heimerl </span>
-- EuroVis '18 - _Design Factors for Summary Visualization in Visual Analytics_ <span style="font-size:83%"> w/Sarikaya and Szafir </span>
-- ICRA '18 - _Recognizing Geometric Constraints in Human Demonstrations Using Force and Position Signals_ <span style="font-size:83%"> w/Subramani and Zinn </span>
-- HRI '18 - _An Autonomous Dynamic Camera Method for Effective Remote Teleoperation_ **(best paper award)** <span style="font-size:83%"> w/Rakita and Mutlu </span>
-- HRI '18 - _Shared Dynamic Curves: A Shared-Control Telemanipulation Method for Motor Task Training_ <span style="font-size:83%"> w/Rakita, Mutlu, and Hyatt </span>
-- TVCG '18 (InfoVis '17) - _Scatterplots: Tasks, Data, and Designs_ <span style="font-size:83%"> w/Sarikaya </span>
-- TVCG '18 (InfoVis '17) - _Considerations for Visualizing Comparisons_
+- TVCG '21 (VAST '20): _CAVA: A Visual Analytics System for Exploratory Columnar Data Augmentation Using Knowledge Graphs_ <span style="font-size:83%"> w/Cashman et al.</span>
+- iScience '21: _CellO: Comprehensive and hierarchical cell type classification of human cells with the Cell Ontology_ <span style="font-size:83%"> w/Bernstein, Ma and Dewey</span>
+- HRI '20: _Effects of Onset Latency and Robot Speed Delays on Mimicry-Control Teleoperation_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
+- HRI '20: Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation <span style="font-size:83%"> w/Praveena, Rakita and Mutlu </span>
+- EuroVis '20: _Boxer: Interactive Comparison of Classifier Results_ <span style="font-size:83%"> w/Barve, Yu, and Heimerl</span>
+- Science Robotics '19: _Shared-Control-Based Bimanual Robot Manipulation_ <span style="font-size:83%">w/Rakita, Mutlu and Hiatt</span>
+
