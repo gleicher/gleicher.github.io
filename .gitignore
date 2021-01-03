@@ -5,3 +5,4 @@ moves.sh
 .idea/
 __pycache__/
 Videos/
+layouts/shortcodes/test.html
