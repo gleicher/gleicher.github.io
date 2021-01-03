@@ -16,12 +16,17 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 <!--more-->
 
 
-{{% bold-red %}}Warning: This is a work in progress, but I am letting out the early version since people are asking. {{% /bold-red %}}
+{{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 
 
 {{% dimbox %}}
-It is unclear how many undergrad projects I can work with given the COVID-19 situation.
+**COVID-19 Update (January 3, 2020)**:
+It is unclear how many undergrad projects I can work with given the remote working situation. It turns out that working remotely is surprisingly challenging for supervising and mentoring students.
+
+There are REU (NSF Research Experiences for Undergraduates) opportunities, which require students to be U.S. citizens or permanent residents. If you contact me, please be clear if you qualify. 
+
+My initial experience with working with undergraduates remotely has not been as successful as I would have liked. I am trying to think about how to improve the process, but I probably will not take on new (non-REU) students until I have a plan to make it work better. 
 {{% /dimbox %}}
 
 Warning, this is a disorganized stream of thoughts... But the answer to your question is probably hidden in here.
@@ -135,6 +140,7 @@ Some thoughts:
 2. Take classes with me. I tend to prefer students who have been through a class with me (it's not a requirement). It means that you know me, and I know you at least a little. Plus, my classes are usually relevant.
 3. Have some project experience that shows your skills and interests. You personal hobby project is possibly more relevant than good grades in a bunch of classes. It shows you have enough interest to do something on your own, and often involves relevant skills. Knowing how to do 3D modeling,
 4. Do things to explore your interests. The fact that you take initiative to learn about your interests shows that you really are interested.
+5. Build your portfolio, and present it well. Having a nice web page that shows off your projects is often more useful than a resume listing that you took standard courses. 
 
 Some thoughts on pursuing graphics/robotics/vr/vis related topics on your own:
 
