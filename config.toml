@@ -55,6 +55,8 @@ list = "right"
 single = "right"
 widgets = ["lunr","sections","links","categories","taglist"]
 
+[Params.logo]
+image = "/svg/crest.svg"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
