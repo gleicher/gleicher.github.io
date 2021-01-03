@@ -15,9 +15,12 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 
 <!--more-->
 
-{{% dimbox %}}
-Warning: This is a work in progress, but I am letting out the early version since people are asking. 
 
+{{% bold-red %}}Warning: This is a work in progress, but I am letting out the early version since people are asking. {{% /bold-red %}}
+
+
+
+{{% dimbox %}}
 It is unclear how many undergrad projects I can work with given the COVID-19 situation.
 {{% /dimbox %}}
 
@@ -120,7 +123,7 @@ Having a directed study experience is probably good for you (see above).
 
 If you want to go to do something after graduation (graduate school, a good job, ...), project experience is really valuable since it provides a different set of skills (the ability to be self-directed yet work as part of a team, ...). 
 
-The blunt thing: if all you do is take classes, if you need reference letters (for graduate school or a job), (at best) all you can get is a "did well in class" (DWIC) letter. This is probably not good enough for what you want. Especially since at Wisconsin, our undergraduate classes are so large, and grades alone don't tell us much (especially in these big classes).
+The blunt thing: if all you do is take classes, if you need reference letters (for graduate school or a job), (at best) all you can get is a "did well in class" (DWIC) letter. This is probably not good enough for what you want. Especially since at Wisconsin, our undergraduate classes are so large, and grades alone don't tell us much (especially in these big classes). See {{% link "no-dwic" %}}
 
 So, I understand your pain: you need to demonstrate your abilities to someone so they can be a reference, but with so many students in a similar situation, we can't do this for everyone.
 
