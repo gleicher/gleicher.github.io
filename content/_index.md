@@ -27,7 +27,7 @@ Last semester (Spring 2020), I taught [CS559 Computer Graphics](https://graphics
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
-You might be interested in my [grad school FAQ]({{< relref "gradschoolfaq" >}}). Come and talk to me if you're interested in data visualization, robotics, computer graphics or related topics. If you are an undergrad and looking to work on a project, please see {{% link "undergrad-research" %}}
+You might be interested in my [grad school FAQ]({{< relref "gradschoolfaq" >}}). Come and talk to me if you're interested in data visualization, robotics, computer graphics or related topics. If you are an undergrad and looking to work on a project, please see {{% link "undergrad-research" %}}. If you are asking about a reference letter, please see {{% link "no-dwic" %}}.
 
 If you're interested in joining our group, come talk to me! If you aren't a student at Wisconsin yet, please look at my [grad school FAQ]({{< relref "gradschoolfaq" >}}), particularly the last few questions.
 
