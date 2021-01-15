@@ -13,17 +13,15 @@ University of Wisconsin, Madison
 Madison, WI 53706  
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)  
 
-**Office Hours:** Suspended because of COVID. Please send me email.
+**Office Hours:** (Spring 2021) Wednesday 1-2pm, or by appointment. Office Hours held virtually in my Zoom "personal meeting ID" (send email for a link). 
 {{< /leftpic >}}
 
 I am a professor working in areas related to Computer Graphics. These days, my main things are Data Visualization and Robotics, but I remain interested in animation, virtual reality, multimedia, ...A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), or [videos]({{< relref "video" >}}).
 
-
-
 My research these days is mainly about **robotics** and **data science.** With both, I am interested in how we can make them useful for people. 
 
-This semester (Fall 2020) I am teaching [CS765 Data Visualization](https://graphics.cs.wisc.edu/Courses/765-f2020/).
-Last semester (Spring 2020), I taught [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
+Last semester (Spring 2020), I am teaching [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2021/).
+Last semester (Fall 2020) I taught [CS765 Data Visualization](https://graphics.cs.wisc.edu/Courses/765-f2020/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
