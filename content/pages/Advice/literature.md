@@ -13,7 +13,7 @@ Just talking about "Related Work" (for a paper) is a little weird - while that's
 
 A related work section in a research paper should be that: it should explain the **relation** between other work and yours. 
 
-There are many different kinds of relationships:
+There are many different kinds of relationships (see discussion below, this is my list, a more official list is below):
 
 1. Background (for you): things you needed to know in order to do the work.
 2. Background (for the reader): things the reader needs to know in order to read your paper.
@@ -29,5 +29,14 @@ Some commentary:
 + Don't overlook #1 and #2 - it is important, but it is different from #4. 
 + #3 often turns into #1, #2 or #4. If you got an idea from somewhere, the reader might need to understand it, you needed to figure out how to build off of it, and you need to explain why it didn't solve your problem.
 
+## More on Relations in Related Work
 
+In the field of citation analysis, they distinguish between different categories of citations (relations above in the "Related work" section). These parallel the list I made up myself.
 
+From [A Conference Paper Exploring System Based on Citing Motivation and Topic](https://doi-org.ezproxy.library.wisc.edu/10.1109/PacificVis48177.2020.1010) (which cites a prior paper), citations can have a number of different "motivations":
+
++ Background: Citation that describes the background of a complete topic or provides a recent study or cutting-edge approach for a general method.
++ Fundamental: Citations of major previous articles that inspire or give concrete implications for current works.
++ Technique: Citations of important tools, methods, data and other resources used or reapplied in the current study.
++ Comparison: Citations comparing methods or results with current research.
++ Neutral: A paper that exists in the bibliography but does not appear in a substantial sentence. In other words, the related text information cannot be checked in the text.
