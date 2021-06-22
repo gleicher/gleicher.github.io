@@ -1,5 +1,5 @@
 ---
-title: "Reference Letters for students in Classes"
+title: "Reference Letters for Students in Classes"
 date: 2020-12-28T15:06:50-06:00
 draft: false
 ---
