@@ -94,10 +94,10 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 The complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
+- RAL '21 (ICRA '21): _Single-query Path Planning Using Sample-efficient Probability Informed Trees_ <span style="font-size:83%">w/Rakita and Mutlu</span>
+- RAL '21 (ICRA '21): _Corrective Shared Autonomy for Addressing Task Variability_ <span style="font-size:83%">w/Hagenow et al.</span>
+- ICRA '21: _CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with Environment Collision Avoidance_ <span style="font-size:83%">w/Rakita, Shi and Mutlu</span>
+- ICRA '21: _Recognizing Orientation Slip in Human Demonstrations_ <span style="font-size:83%">w/Hagenow et al.</span>
+- TVCG '21: _embComp: Visual Interactive Comparison of Vector Embeddings_ <span style="font-size:83%"> w/Heimerl et al.</span>
 - TVCG '21 (VAST '20): _CAVA: A Visual Analytics System for Exploratory Columnar Data Augmentation Using Knowledge Graphs_ <span style="font-size:83%"> w/Cashman et al.</span>
 - iScience '21: _CellO: Comprehensive and hierarchical cell type classification of human cells with the Cell Ontology_ <span style="font-size:83%"> w/Bernstein, Ma and Dewey</span>
-- HRI '20: _Effects of Onset Latency and Robot Speed Delays on Mimicry-Control Teleoperation_ <span style="font-size:83%"> w/Rakita and Mutlu </span>
-- HRI '20: Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation <span style="font-size:83%"> w/Praveena, Rakita and Mutlu </span>
-- EuroVis '20: _Boxer: Interactive Comparison of Classifier Results_ <span style="font-size:83%"> w/Barve, Yu, and Heimerl</span>
-- Science Robotics '19: _Shared-Control-Based Bimanual Robot Manipulation_ <span style="font-size:83%">w/Rakita, Mutlu and Hiatt</span>
-
