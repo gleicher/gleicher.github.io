@@ -41,4 +41,4 @@ jobs:
           allow_empty_commit: true
           emable_jekyll: false
           publish_branch: gh-pages
-          external_repository: gleicher/gleicher
+          external_repository: gleicher/gleicher.github.io
