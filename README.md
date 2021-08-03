@@ -1,4 +1,6 @@
-### Hi there 👋
+# Mike Gleicher's GitHub "home repo"
+
+The actual pages will be built by Hugo from another repo. I have no idea why it doesn't show up!
 
 <!--
 **gleicher/gleicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
