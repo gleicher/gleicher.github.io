@@ -1,0 +1,275 @@
+<!doctype html><html class=no-js lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<title> - Michael Gleicher's Web Page</title>
+<script>(function(a,b){a[b]=a[b].replace("no-js","js")})(document.documentElement,"className")</script>
+<meta name=description content>
+<link rel=dns-prefetch href=//fonts.googleapis.com>
+<link rel=dns-prefetch href=//fonts.gstatic.com>
+<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+<link rel=stylesheet href=../css/style.css>
+<link rel=stylesheet href=../css/559.css>
+<link rel=stylesheet href=../css/home.css crossorigin=anonymous><link rel="shortcut icon" href=../favicon.ico>
+</head>
+<body class=body>
+<div class="container container--outer">
+<header class=header>
+<div class="container header__container">
+<div class=logo><a class=logo__link href=../ rel=home>
+<img class=logo__img src=../svg/crest.svg>
+</a><a class=logo__link href=../ title="Michael Gleicher's Web Page" rel=home>
+<div class=logo__title>Michael Gleicher's Web Page</div>
+</a>
+</div>
+<nav class=menu>
+<button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
+<span class=menu__btn-title tabindex=-1>Menu</span>
+</button>
+<ul class=menu__list>
+<li class=menu__item>
+<a class=menu__link href=../>
+<span class=menu__text>Home</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href="https://graphics.cs.wisc.edu/Papers/?author=Gleicher">
+<span class=menu__text>Papers</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../talks>
+<span class=menu__text>Talks</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../video>
+<span class=menu__text>Videos</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../pages/advice>
+<span class=menu__text>Advice</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</header><div class="wrapper flex">
+<div class=primary>
+<main class=main role=main>
+<article class=post>
+<header class=post__header>
+<h1 class=post__title></h1>
+<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2020-07-01T00:00:00Z>July, 2020</time></div>
+</div>
+</header><div class="content post__content clearfix">
+<h2>Search Results</h2>
+<div id=#app>
+Waiting for search script to run...
+</div>
+<script src=https://unpkg.com/lunr/lunr.js></script>
+<script type=module>
+/**
+  * Call a function on window.onload
+  * - calls any previous function that was there
+  * - by placing it in a function, the old function can be easily stored in closure
+  */
+  function onWindowOnload(newFunction)
+ {
+    let oldFunction = window.onload;
+    window.onload = function(ev) {
+        // technically, window.onload is an event handler and can expect that 
+        // "this" is the window, so we have to use apply
+        if (oldFunction) 
+            oldFunction.apply(window,ev);
+        newFunction();
+    };
+ }
+
+onWindowOnload(function() {
+  const query = new URLSearchParams(window.location.search);
+  const searchString = query.get('q');
+  const target = document.getElementById('#app');
+
+  // helpers to avoid using innerHTML (which may be unsafe)
+  function addText(node,text) {
+    let textNode = document.createTextNode(text);
+    node.appendChild(textNode);
+    return node;
+  }
+  function addSearchString(node,text) {
+    let searchSpan = document.createElement("span");
+    searchSpan.classList.add("search__string");
+    searchSpan.appendChild(document.createTextNode(text));
+
+    addText(node,' "');
+    node.appendChild(searchSpan);
+    addText(node,'" ');
+  }
+  function addAndAppendPar(etype="P",parclass=null) {
+    let node = document.createElement(etype);
+    if (parclass) {
+      node.classList.add(parclass)
+    }
+    target.appendChild(node);
+    return node;
+  }
+
+  // clear out the DIV
+  target.innerHTML = "";
+
+  // an initial message while we load and build...
+  let message = addAndAppendPar("P","search__message");
+  addText(message,"Searching for string");
+  addSearchString(message,searchString);
+  addText(message,"  ... Loading index data");
+
+  // this page is only used for search, so it's OK to take time to load the index
+  fetch('/index.json').then(function (res) {
+    return res.json();
+  }).then(function (data) {
+    // message.innerText = null;
+    addText(message, `Loaded index data - building index for ${data.length} pages`);
+
+    // build the index
+    // this is based on https://lunrjs.com/docs/index.html
+    // and hugo-theme-learn/search.js
+    let index = lunr(function () {
+      this.ref("uri");
+      this.field('title', { boost: 15 });
+      this.field('tags', { boost: 10 });
+      this.field("content", { boost: 5 });
+
+      data.forEach(function(page) {
+          this.add(page);
+        }, this);
+    });
+    message.innerText = null;
+
+
+    // do the search
+    const matches = index.search(searchString);
+    console.log(matches);
+
+    if (matches.length) {
+      // turn data into a dictionary so we can find the info
+      let dataDict = {};
+      data.forEach(function(page) {
+        dataDict[page.uri] = page;
+      });
+
+      addText(message,"String");
+      addSearchString(message,searchString);
+      addText(message,`found on ${matches.length} of ${data.length} pages`);
+
+      let listElem = addAndAppendPar("UL","search__resultlist");
+      matches.forEach(function(match) {
+        let link = match.ref;
+        let page = dataDict[link];
+        let title = page.title;
+
+        // get the context of the match
+        let contextSize = 20;
+        let content = page.content;
+        let re = RegExp(searchString,"i");
+        let index = content.search(re);
+        let context = "&nbsp;(inexact match)";
+        if (index>=0) {
+          let preindex = index>contextSize ? index-contextSize : 0;
+          let endindex = index + searchString.length;
+          let post = endindex + contextSize;
+
+          context = "&nbsp;&quot;" + content.slice(preindex,index);
+          context += '<span class="search__string">' + content.slice(index,endindex) + "</span>";
+          context += content.slice(endindex,post) +"&quot;";
+        } // index >=0
+
+        let elem = document.createElement("LI");
+        elem.classList.add("search__result");
+        listElem.appendChild(elem);
+        let aElem = document.createElement("A");
+        aElem.href = link;
+        aElem.title = title;
+        addText(aElem,title)
+        elem.appendChild(aElem);
+        let span = document.createElement("SPAN");
+        span.classList.add("search__context");
+        span.innerHTML = context;
+        elem.appendChild(span);
+      });
+    } else {  // matches.length == 0
+      console.log("No results");
+      message.innerText = null;
+      addText(message,"String");
+      addSearchString(message,searchString);
+      addText(message,`not found in ${data.length} pages`);
+    } // matches.length
+  }).catch(function(rejected) {
+    addText(addAndAppendPar("P", "search__message"),"Search Failed - failed to load and build index");
+  }); // then(data) 
+});
+
+</script>
+</div>
+</article>
+</main>
+</div>
+<aside class=sidebar>
+<div class="widget-search widget">
+<form class=widget-search__form role=search method=get action=../lunr-search/>
+<label>
+<input class=widget-search__field type=search placeholder="lunr search ..." name=q aria-label="lunr search">
+</label>
+</form>
+</div>
+<div class="widget-links widget">
+<h4 class=widget__title>Sections</h4>
+<div class="widget__content widget__list">
+<ul>
+<li><a href=../>Home</a></li>
+<li><a href="https://graphics.cs.wisc.edu/Papers/?author=Gleicher">Papers</a></li>
+<li><a href=../talks/>Talks</a></li>
+<li><a href=../video/>Videos</a></li>
+<li><a href=../pages/advice/>Advice</a></li>
+</ul>
+</div>
+</div>
+<div class="widget-links widget">
+<h4 class=widget__title>Useful Links</h4>
+<div class="widget__content widget__list">
+<ul>
+<li><a href=https://graphics.cs.wisc.edu/Courses/559-sp2021/>CS559 2021</a></li>
+<li><a href=https://graphics.cs.wisc.edu/Courses/765-f2020/>CS765 2020</a></li>
+<li></li>
+</ul>
+<p><a href=../allpages/>List of all pages</a></p>
+</div>
+</div>
+<div class="widget-categories widget">
+<h4 class=widget__title>Categories</h4>
+<div class=widget__content>
+<ul class=widget__list>
+<li class=widget__item>
+<a class=widget__link href=../categories/video/>video</a></li>
+</ul>
+</div>
+</div>
+</aside>
+</div>
+<footer class=footer>
+<div class="container footer__container flex">
+<div class=footer__copyright>
+&copy; 2021 Michael Gleicher.
+<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and a heavily hacked fork of the <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span>
+</div>
+This page was last modified on Jul 1 2020
+</div>
+</footer>
+</div>
+<script async defer src=../js/menu.js></script>
+</body>
+</html>

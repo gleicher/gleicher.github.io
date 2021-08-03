@@ -1,0 +1,207 @@
+<!doctype html><html class=no-js lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<title>Re-cinematography - Michael Gleicher's Web Page</title>
+<script>(function(a,b){a[b]=a[b].replace("no-js","js")})(document.documentElement,"className")</script>
+<meta name=description content>
+<link rel=dns-prefetch href=//fonts.googleapis.com>
+<link rel=dns-prefetch href=//fonts.gstatic.com>
+<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+<link rel=stylesheet href=../../../css/style.css>
+<link rel=stylesheet href=../../../css/559.css>
+<link rel=stylesheet href=../../../css/home.css crossorigin=anonymous><link rel="shortcut icon" href=../../../favicon.ico>
+</head>
+<body class=body>
+<div class="container container--outer">
+<header class=header>
+<div class="container header__container">
+<div class=logo><a class=logo__link href=../../../ rel=home>
+<img class=logo__img src=../../../svg/crest.svg>
+</a><a class=logo__link href=../../../ title="Michael Gleicher's Web Page" rel=home>
+<div class=logo__title>Michael Gleicher's Web Page</div>
+</a>
+</div>
+<nav class=menu>
+<button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
+<span class=menu__btn-title tabindex=-1>Menu</span>
+</button>
+<ul class=menu__list>
+<li class=menu__item>
+<a class=menu__link href=../../../>
+<span class=menu__text>Home</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href="https://graphics.cs.wisc.edu/Papers/?author=Gleicher">
+<span class=menu__text>Papers</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../../../talks>
+<span class=menu__text>Talks</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../../../video>
+<span class=menu__text>Videos</span>
+</a>
+</li>
+<li class=menu__item>
+<a class=menu__link href=../../../pages/advice>
+<span class=menu__text>Advice</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</header><div class="wrapper flex">
+<div class=primary>
+<main class=main role=main>
+<article class=post>
+<header class=post__header>
+<h1 class=post__title>Re-cinematography</h1>
+<div class="post__meta meta">
+<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2020-06-20T18:41:03-05:00>(Last Modified: June, 2020)</time>
+</div>
+</header>
+<div class="post__toc toc">
+<div class=toc__title>Page content</div>
+<div class=toc__menu>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#1-abstract>1. Abstract</a></li>
+<li><a href=#2-papers>2. Papers</a></li>
+<li><a href=#3-videos>3. Videos</a>
+<ul>
+<li><a href=#31-examples>3.1 Examples</a></li>
+<li><a href=#32-illustrative-examples-animated-diagrams-from-paper>3.2 Illustrative Examples (animated diagrams from paper)</a></li>
+<li><a href=#33-extra-examples>3.3 Extra Examples</a></li>
+<li><a href=#34-artifacts>3.4 Artifacts</a></li>
+</ul>
+</li>
+<li><a href=#4-follow-on-work>4. Follow on work</a></li>
+</ul>
+</nav>
+</div>
+</div><div class="content post__content clearfix">
+<div class=dimbox>
+<p>Re-Cinematography was our circa 2007 video stabilization system.
+At the time, it was way better than anything else.
+It inspired later techniques, notably our
+<a href=../../../video/2009_warp_stable/>2009 3D Warping technique</a>, and our
+<a href=../../../video/2011_subspacestabilization/>2010 Subspace Warping</a>
+technique (which evolved into the Adobe Warp Stabilizer.).</p>
+<p>Re-Cinematography pushed the limits of what could be done with 2D global warps (using a single, 8 parameter projective warp over the entire image). The later techniques (e.g.
+<a href=../../../video/2011_subspacestabilization/>SubSpace Video Stabilization (ToG 2011)</a>) went beyond it by allowing for warping the image, not just global deformations.</p>
+<p>However, Re-Cinematography&rsquo;s key insight was to try to make good camera movements. The ideas were really good: but the implementation is a bit of a hack (it works by piecing together spline segments with heuristics). Later work by Grundmann et. al gave a nice mathematical formulation to get the same dynamics. We used this L1 optimization approach in some of our later work (<a href=https://graphics.cs.wisc.edu/Papers/2017/KGRG17/>Zooming on All Actors</a> and <a href=https://graphics.cs.wisc.edu/Papers/2014/GRG14/>Multi-Clip Editing</a>).</p>
+<ul>
+<li>Matthias Grundmann, Vivek Kwatra, and Irfan Essa. 2011. Auto-directed video stabilization with robust L1 optimal camera paths. In CVPR 2011, 225–232. <a href=https://doi.org/10.1109/CVPR.2011.5995525>DOI:10.1109/CVPR.2011.5995525</a>.</li>
+</ul>
+</div>
+<p>Re-Cinematography is video stabilization taken to the next level: rather than just getting rid of some of the jitter, the methods try to figure out what camera movements might have been done by a professional with good equipment, and then alter the video to look like that.</p>
+<p>If you don&rsquo;t believe me, look at the video examples below! (or on <a href=../../../video/2008_recinematography/>the video page</a>)</p>
+<h2 id=1-abstract>1. Abstract</h2>
+<p>This article presents an approach to postprocessing casually captured videos to improve apparent camera movement. Re-cinematography transforms each frame of a video such that the video better follows cinematic conventions. The approach breaks a video into shorter segments. Segments of the source video where there is no intentional camera movement are made to appear as if the camera is completely static. For segments with camera motions, camera paths are keyframed automatically and interpolated with matrix logarithms to give velocity-profiled movements that appear intentional and directed. Closeups are inserted to provide compositional variety in otherwise uniform segments. The approach automatically balances the tradeoff between motion smoothness and distortion to the original imagery. Results from our prototype show improvements to poor quality home videos.</p>
+<h2 id=2-papers>2. Papers</h2>
+<p>The final journal paper:</p>
+<ul>
+<li>Michael Gleicher and Feng Liu. Re-Cinematography: Improving the Camerawork of Casual Video. <em>ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP), 5, 1, 2.</em> October 2008. <a href=http://www.cs.wisc.edu/graphics/Papers/Gleicher/Video/tomccap-proof.pdf>PDF</a> <a href=http://doi.acm.org/10.1145/1404880.1404882>EE/DOI</a></li>
+</ul>
+<p>The original conference paper (that was best-in-track winner). <em>Note:</em> the journal paper (above) really is a big improvement. Some of the methods in the original paper are significantly improved, and there are new things added.</p>
+<ul>
+<li>Michael Gleicher and Feng Liu. Re-Cinematography: Improving the Camera Dynamics of Casual Video. <em>ACM Multimedia 2007, best paper nominee.</em> September 2007. <a href=http://www.cs.wisc.edu/graphics/Papers/Gleicher/Video/mm07-recin.pdf>PDF</a> <a href=http://doi.acm.org/10.1145/1291233.1291246>EE/DOI</a></li>
+</ul>
+<h2 id=3-videos>3. Videos</h2>
+<p>All source video was taken with a Sanyo Xacti C5 digicam (MPEG4, 640x480) with its default image stabilization on. So, all of these examples can be considered a comparison with the state of the art. Most videos include a side-by-side comparison with the source, as well as a 2X comparison.</p>
+<p>Note that the examples are all full frame: we don&rsquo;t crop artifacts at the edges (like we did in some later work). The problem is that the method often has to guess what is off the frame, and these artifacts come from guessing badly.</p>
+<p>There is a &ldquo;video paper&rdquo; that is almost 9 minutes long that was used to explain what was in the paper (it was targeted towards reviewers). It includes the examples below (but not in the order on the web page).</p>
+<p>Unfortunately, the short clips only exist in an old video format. Please see the <a href=../../../video/2008_recinematography/>the video page</a></p>
+<h3 id=31-examples>3.1 Examples</h3>
+<p>see the video</p>
+<h3 id=32-illustrative-examples-animated-diagrams-from-paper>3.2 Illustrative Examples (animated diagrams from paper)</h3>
+<p>see the video</p>
+<h3 id=33-extra-examples>3.3 Extra Examples</h3>
+<p>(lost to history &mldr;)</p>
+<h3 id=34-artifacts>3.4 Artifacts</h3>
+<p>If you look at the video, you will undoubtedly notice artifacts. The biggest ones come from the fact that when we move the camera viewpoint, a portion of the frame becomes uncovered. In re-cinematography, we choose to &ldquo;fill in&rdquo; these portions of the frame from previous frames - in the future or the past. Here&rsquo;s a dramatic example from the &ldquo;swing&rdquo; video above:</p>
+<table><tr>
+<td align=center valign=top width=250>
+<div class=img>
+<img alt=source src=pub_pics_ReCin_swing-source-220.jpg>
+<br clear=all>
+source frame
+</div>
+</td>
+<td align=center valign=top width=250>
+<div class=img>
+<img alt=result src=pub_pics_ReCin_swing-result-220.jpg>
+<br clear=all>
+result frame
+</div>
+</td>
+</tr></table>
+<p>Notice that the woman in the red hat doesn&rsquo;t appear in the source image - we had to pull here from another part of the video!</p>
+<p>Our system uses a simple method for fill in, however, the system will look up to 3 seconds in the past or future to find things to use for fill in. The alternative would be to crop the frame - and make the resulting video tiny. This is what we did in the later 3D stabilization work. Its a tradeoff.</p>
+<h2 id=4-follow-on-work>4. Follow on work</h2>
+<p>In follow on work, we are developing better methods to fix camera motions. Our first is a &ldquo;3D Warping&rdquo; method (<a href=http://pages.cs.wisc.edu/~fliu/project/3dstab.htm>Siggraph 2009 paper</a>). It provides better results, when it works. Re-Cinematography gets decent/good results on hard examples, while 3D warping gets great results on not-so-hard examples. For some technical (and some pragmatic) reasons, we really haven&rsquo;t been able to run both methods on the same examples.</p>
+</div>
+</article>
+</main>
+</div>
+<aside class=sidebar>
+<div class="widget-search widget">
+<form class=widget-search__form role=search method=get action=../../../lunr-search/>
+<label>
+<input class=widget-search__field type=search placeholder="lunr search ..." name=q aria-label="lunr search">
+</label>
+</form>
+</div>
+<div class="widget-links widget">
+<h4 class=widget__title>Sections</h4>
+<div class="widget__content widget__list">
+<ul>
+<li><a href=../../../>Home</a></li>
+<li><a href="https://graphics.cs.wisc.edu/Papers/?author=Gleicher">Papers</a></li>
+<li><a href=../../../talks/>Talks</a></li>
+<li><a href=../../../video/>Videos</a></li>
+<li><a href=../../../pages/advice/>Advice</a></li>
+</ul>
+</div>
+</div>
+<div class="widget-links widget">
+<h4 class=widget__title>Useful Links</h4>
+<div class="widget__content widget__list">
+<ul>
+<li><a href=https://graphics.cs.wisc.edu/Courses/559-sp2021/>CS559 2021</a></li>
+<li><a href=https://graphics.cs.wisc.edu/Courses/765-f2020/>CS765 2020</a></li>
+<li></li>
+</ul>
+<p><a href=../../../allpages/>List of all pages</a></p>
+</div>
+</div>
+<div class="widget-categories widget">
+<h4 class=widget__title>Categories</h4>
+<div class=widget__content>
+<ul class=widget__list>
+<li class=widget__item>
+<a class=widget__link href=../../../categories/video/>video</a></li>
+</ul>
+</div>
+</div>
+</aside>
+</div>
+<footer class=footer>
+<div class="container footer__container flex">
+<div class=footer__copyright>
+&copy; 2021 Michael Gleicher.
+<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and a heavily hacked fork of the <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span>
+</div>
+This page was last modified on Jun 20 2020
+</div>
+</footer>
+</div>
+<script async defer src=../../../js/menu.js></script>
+</body>
+</html>

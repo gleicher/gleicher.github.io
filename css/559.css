@@ -1,0 +1,177 @@
+/* CS559 Theme - 559.scss */
+.inlinebtn {
+  padding: 1px 5px 2px;
+  font-weight: 700;
+  color: #fff;
+  white-space: pre-line;
+  background: darkred;
+  white-space: nowrap; }
+
+.inlinebtn:hover {
+  color: #fff;
+  background: black; }
+
+/* Animation */
+.inlinebtn {
+  transition: background-color .25s ease-out; }
+
+/* for some reason, ordered list items are marked as paragraphs by hugo's markdown? */
+ol p {
+  margin-bottom: 0; }
+
+/* important to make the teaser look like a list (undoing what is in content)
+*/
+.teaser .meta a {
+  color: gray;
+  font-weight: 400; }
+
+.teaser h3 a {
+  color: black; }
+
+.mini h3 a {
+  color: black; }
+
+/* Make the widgets have their own space */
+.widget {
+  background-color: #f7f7f7;
+  padding: 5px; }
+
+/* the padding arond the widgets looks terrible for search */
+.widget-search.widget {
+  padding: 0px; }
+
+/* Search widget */
+.widget-search__form {
+  padding: 0px;
+  margin: 10px;
+  border: 0px;
+  background-color: #f7f7f7; }
+
+.widget-search__field {
+  margin: 0px;
+  width: 100%; }
+
+/* search results page */
+.search__string {
+  font-weight: 700;
+  font-style: normal; }
+
+.search__context {
+  font-style: italic; }
+
+/* Default Widget Spacing is Ugly */
+.widget__title {
+  padding-bottom: 0px;
+  margin: 0 0 .5rem; }
+
+/* links come from MD - no easy way to style individually */
+.widget__list li {
+  display: block;
+  padding: 5px 0;
+  border-bottom: 1px dotted #ebebeb; }
+
+/* make the logo appear correctly */
+.logo__img {
+  margin-right: 20px;
+  width: 3rem; }
+
+/* Table of Contents */
+.toc {
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #0000FF;
+  background: #fff;
+  border-color: #ebebeb;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 0;
+  border-left-width: 1px; }
+
+.toc__title {
+  padding: 5px 10px;
+  color: #fff;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  background: #2a2a2a; }
+
+.toc__sidebar ul {
+  margin: 0;
+  list-style: none; }
+
+.toc__sidebar ul ul a {
+  padding-left: 25px; }
+
+.toc__sidebar ul ul ul a {
+  padding-left: 45px; }
+
+.toc__sidebar ul ul ul ul ul a {
+  padding-left: 65px; }
+
+.toc__sidebar ul ul ul ul ul ul a {
+  padding-left: 85px; }
+
+.toc__sidebar li {
+  margin: 0; }
+
+.toc__sidebar a {
+  display: block;
+  padding: 1px 5px; }
+
+.myexpand {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e9ecef;
+  border-radius: 0.15rem; }
+  .myexpand .myexpand-head {
+    background: #f8f9fa;
+    padding: 0.5rem 1rem;
+    cursor: pointer; }
+  .myexpand .myexpand-content {
+    padding: 1rem; }
+
+.book-expand {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e9ecef;
+  border-radius: 0.15rem;
+  overflow: hidden; }
+  .book-expand .book-expand-head {
+    background: #f8f9fa;
+    padding: 0.5rem 1rem;
+    cursor: pointer; }
+  .book-expand .book-expand-content {
+    display: none;
+    padding: 1rem; }
+  .book-expand input[type="checkbox"]:checked + .book-expand-content {
+    display: block; }
+
+.expand__button {
+  color: #c5050c;
+  font-style: italic; }
+
+/** from the 2008 class */
+.dimbox {
+  background-color: #ffd;
+  border: 1px solid #bbd;
+  margin: 10pt;
+  padding: 6pt; }
+
+table pre {
+  border: 0;
+  margin: 0;
+  padding: 1em; }
+
+.footer__copyright {
+  text-align: left; }
+
+.footer__lastmod {
+  text-align: right; }
+
+.boldred {
+  color: #e22d30;
+  font-weight: bold; }

@@ -1,0 +1,41 @@
+div.announce {
+  border: 1px solid;
+  margin: 5px;
+  padding-bottom: 5px;
+  background-color: #eeeeee; }
+
+span.announcehead {
+  padding: 0px 6pt;
+  margin-bottom: 10px;
+  background-color: #880000;
+  color: white; }
+
+div.announce p.vspace {
+  padding: 0px 10px 5px 10px;
+  margin: 0px;
+  background-color: transparent;
+  color: #000; }
+
+div.research__summarybody a {
+  color: black;
+  font-size: 110%; }
+
+/** the researchtheme summaries are tight - since they mainly appear on the home page */
+div.research__summarybody {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  vertical-align: top; }
+
+/** if the top of the image aligns with the text, it looks like its too high (since the dominant thing in the letters is the x height */
+div.research__thumbnail {
+  padding-top: 8px; }
+
+/** on the home page, don't have the lines between entries, and make thing relatively tight */
+div.inline__summary .list__item {
+  /* List content */
+  padding-bottom: 20px;
+  padding-bottom: 1.25rem;
+  margin-bottom: 0px;
+  margin-bottom: 0px;
+  border-bottom: 0px; }
