@@ -8,21 +8,21 @@ noheader: true
 
 ## Michael Gleicher
 
-Professor  
-Department of Computer Sciences  
-University of Wisconsin, Madison  
-1210 West Dayton St.  
-Madison, WI 53706  
-[`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)  
+Professor
+Department of Computer Sciences
+University of Wisconsin, Madison
+1210 West Dayton St.
+Madison, WI 53706
+[`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hours:** (Summer 2021) By appointment only.
+**Office Hours:** (Fall 2021) To be determined.
 {{< /leftpic >}}
 
 I am a professor working in areas related to Computer Graphics. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** Next semester (Fall 2021), I will teach **CS765 Data Visualization**. There is no web page for the class yet
+**Teaching:** This semester (Fall 2021), I will teach **CS765 Data Visualization**. There is no web page for the class yet
 (you can see the [Fall 2020 page](https://graphics.cs.wisc.edu/Courses/765-f2020/)).
 Last spring (Spring 2021) I taught [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2021/).
 
@@ -51,7 +51,7 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
-- **CS765 Visualization:** This class is taught regularly. I am teaching it [Fall 2021](https://graphics.cs.wisc.edu/Courses/765-f2020/). I taught it in
+- **CS765 Visualization:** This class is taught regularly. I am teaching it [Fall 2021](https://graphics.cs.wisc.edu/Courses/765-f2021/). I taught it in
 [Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/)
 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
 [Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/),

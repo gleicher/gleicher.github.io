@@ -6,13 +6,13 @@ draft: false
 
 **I will not provide reference letters for students that I know only through a class (as a student).**
 
-I get many requests from students from my classes to provide reference letters for graduate school applications. I will not provide these letters.
+I get many requests from students from my classes to provide reference (recommendation) letters for graduate school applications. I will not provide these letters.
 
-I will provide letters for students that I get to know outside of regular classes. For example, if you are involved in a directed study project or work with me as a peer mentor for a class (that's why it says "as a student"). 
+I will provide letters for students that I get to know outside of regular classes. For example, if you are involved in a directed study project or work with me as a peer mentor for a class (that's why it says "as a student").
 
 In the past I offered to provide a generic "Did well in class letter". I will not do this anymore (for reasons described below). **I will not provide reference letters for students that I know only through a class (as a student).** It is unfair for me to write letters for just some of the students in class (see below), so I need to have this as a blanket policy.
 
-Included in this: I will not provide reference letters for admissions into the CS 2nd Masters program for students who only know me through a class. The reasons are slightly different, although the fairness arguments below do apply. With this, since I know the committee, I know that they are looking for evidence beyond just "student can get a decent grade in the class." 
+Included in this: I will not provide reference letters for admissions into the CS 2nd Masters program for students who only know me through a class. The reasons are slightly different, although the fairness arguments below do apply. With this, since I know the committee, I know that they are looking for evidence beyond just "student can get a decent grade in the class."
 
 Yes, I know this is a problem for many of our students: you only meet professors in large classes, and you want a professor to write a letter for you. See {{% link "undergrad-research" %}} for some thoughts on this.
 
@@ -20,7 +20,7 @@ Yes, I know this is a problem for many of our students: you only meet professors
 
 With our large classes, I do not have the opportunity to get to know students well enough to write letters. Yes, there are a few students that I get to know - but it is unfair to everyone else for me to provide letters only to those students. While sometimes I get to know a few students in a large class, this isn't a good measure of which students are good. Usually, the few I get to know are either (1) end up working with me beyond class anyway, (2) lucky to have a situation where I got to know them, (2) problem cases (in which case I often don't remember the good work - only the problems they had), (3) intentionally trying to be noticed to get a letter, or (4) I don't actually remember them correctly and am relying on my own faulty memory.
 
-> A story ... I got a request from a student in a mid-sized grad class (CS765 with about 60 people). All I could remember was that he came to class late which was disruptive. Of course, my memory is skewed (see the literature on cognitive biases) - it could be that it was just a few times that stuck in my head. I certainly didn't remember his projects (there were lots of people who got As - I cannot remember all of them). And even when he clogged my mailbox with a copy of his project he was so proud of, I didn't have the context of other projects to remember why it was so great, and I really couldn't re-grade it.  
+> A story ... I got a request from a student in a mid-sized grad class (CS765 with about 60 people). All I could remember was that he came to class late which was disruptive. Of course, my memory is skewed (see the literature on cognitive biases) - it could be that it was just a few times that stuck in my head. I certainly didn't remember his projects (there were lots of people who got As - I cannot remember all of them). And even when he clogged my mailbox with a copy of his project he was so proud of, I didn't have the context of other projects to remember why it was so great, and I really couldn't re-grade it.
 
 The generic did well in class letter probably doesn't help your application. How would you, as an admissions person feel if you read something like:
 
@@ -33,7 +33,7 @@ Even if all I do is provide this generic letter, it is still a lot of work for m
 3. Deal with issues where things are not handled correctly (lost emails, broken web links, etc.)
 4. Remember which ones have been done or not (since requests get sent multiple times)
 
-And then, even the act of sending a reference letter is not a simple act of just sending a letter. Each reference requires dealing with some web service, each one with different requirements. 
+And then, even the act of sending a reference letter is not a simple act of just sending a letter. Each reference requires dealing with some web service, each one with different requirements.
 
 Increasingly, the burden of simply uploading a letter is becoming prohibitive. Even though a DWIC letter won't help your application, providing it requires:
 
@@ -43,4 +43,3 @@ Increasingly, the burden of simply uploading a letter is becoming prohibitive. E
 4. Keeping track of which requests I've already done (since inevitably, they ask multiple times).
 5. Entering the same information multiple times (for each different program)
 6. Dealing with "verification procedures" - where they have to verify that it is really me sending the reference. (not many places do this - but the fact that some are starting leads me to believe it will be a trend)
-
