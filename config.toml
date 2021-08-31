@@ -48,6 +48,7 @@ copyright = "Michael Gleicher"
 customCss = ["css/home.scss"]
 assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
 top_pagination = true
+themestyle = "old"
 
 [Params.sidebar]
 home = "right"
