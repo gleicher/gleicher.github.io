@@ -16,6 +16,8 @@ Madison, WI 53706
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
 **Office Hour:** (Fall 2021) Wednesdays 2-3pm or by appointment (in my office 6385CS). Online by arrangement.
+
+No office hour 10/26.
 {{< /leftpic >}}
 
 I am a professor working in areas related to Computer Graphics. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
