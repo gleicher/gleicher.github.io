@@ -43,3 +43,5 @@ Increasingly, the burden of simply uploading a letter is becoming prohibitive. E
 4. Keeping track of which requests I've already done (since inevitably, they ask multiple times).
 5. Entering the same information multiple times (for each different program)
 6. Dealing with "verification procedures" - where they have to verify that it is really me sending the reference. (not many places do this - but the fact that some are starting leads me to believe it will be a trend)
+
+Back in the old days, I could ask for help: the burden could be shifted to the students (I used to ask for you to stamp and address the envelopes), and I could get administrative help. But now, I have to do all the online work myself.
