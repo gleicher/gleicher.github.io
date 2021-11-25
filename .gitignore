@@ -6,3 +6,4 @@ moves.sh
 __pycache__/
 Videos/
 layouts/shortcodes/test.html
+public/
