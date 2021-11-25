@@ -1,6 +1,11 @@
 # Mike Gleicher's GitHub "home repo"
 
-The actual pages will be built by Hugo from another repo. I have no idea why it doesn't show up!
+The actual pages will be built by Hugo from another repo. 
+
+The Master branch has nothing in it (except for this README - and a copy of the CNAME and .nojekyll files).
+
+The hugo continuous integration (from the HugoHome repo) pushes things to the gh_pages repo. Make sure it includes the CNAME and .nojekyll as well!
+
 
 <!--
 **gleicher/gleicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
