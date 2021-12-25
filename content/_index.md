@@ -15,18 +15,15 @@ University of Wisconsin, Madison
 Madison, WI 53706
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hour:** (Fall 2021) Wednesdays 2-3pm or by appointment (in my office 6385CS). Online by arrangement.
-
-No office hour 10/26.
+**Office Hour:** (Spring 2021) To be determined.
 {{< /leftpic >}}
 
-I am a professor working in areas related to Computer Graphics. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
+I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** This semester (Fall 2021), I will teach **CS765 Data Visualization**.
-You can see the [course web page](https://pages.graphics.cs.wisc.edu/765-21/).
-Last spring (Spring 2021) I taught [CS559 Computer Graphics](https://graphics.cs.wisc.edu/Courses/559-sp2021/). I will teach CS559 again in the Spring.
+**Teaching:** This semester (Spring 2022), I will teach [CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp21/).
+Last semester (Fall 2021) I taught  [CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-21/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -53,15 +50,17 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
-- **CS765 Visualization:** This class is taught regularly. I am teaching it [Fall 2021](https://uwgraphics.github.io/765-21/). I taught it in
-[Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/)
+- **CS765 Visualization:** This class is taught regularly/ I taught it in
+[Fall 2021](https://uwgraphics.github.io/765-21/),
+[Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/),
 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
 [Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/),
 [Fall 2017](http://graphics.cs.wisc.edu/WP/vis17/),
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
-I  taught this most recently in [Spring 2021](https://graphics.cs.wisc.edu/Courses/559-sp2021/).
+I am teaching this in the [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/)
+I  taught this most recently in [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/).
 I taught the class using the current design in [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 and [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019).
 Previous offerings include
