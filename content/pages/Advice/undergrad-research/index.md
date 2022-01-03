@@ -9,24 +9,25 @@ categories:
 tags:
 ---
 
-If you are currently an undergraduate and interested in getting involved in a project, please read this. A lot of students seem to be interested in doing "research" these days, and I'd like to set the expectations correctly. 
+If you are currently an undergraduate and interested in getting involved in a project, please read this. A lot of students seem to be interested in doing "research" these days, and I'd like to set the expectations correctly.
 
 Short version: (1) understand research vs. projects; (2) don't do research / directed study until you've done the requisite coursework; (3) I will say no if you are not a Wisconsin student; (4) consider things to build your portfolio on your own.
 
 <!--more-->
 
-
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
-
-
 {{% dimbox %}}
+**Update: January 3, 2021:** As the pandemic continues, the uncertainty of working with students becomes even less clear. Our experience with remote work with undergraduate assistants has been mixed, at best. There seems to be little substitute for hands-on face time with a graduate student mentor.
+
+So, I am not sure how many new undergraduate project members we will take on this Spring. I do expect REU positions for the summer.
+
 **COVID-19 Update (January 3, 2020)**:
 It is unclear how many undergrad projects I can work with given the remote working situation. It turns out that working remotely is surprisingly challenging for supervising and mentoring students.
 
-There are REU (NSF Research Experiences for Undergraduates) opportunities, which require students to be U.S. citizens or permanent residents. If you contact me, please be clear if you qualify. 
+There are REU (NSF Research Experiences for Undergraduates) opportunities, which require students to be U.S. citizens or permanent residents. If you contact me, please be clear if you qualify.
 
-My initial experience with working with undergraduates remotely has not been as successful as I would have liked. I am trying to think about how to improve the process, but I probably will not take on new (non-REU) students until I have a plan to make it work better. 
+My initial experience with working with undergraduates remotely has not been as successful as I would have liked. I am trying to think about how to improve the process, but I probably will not take on new (non-REU) students until I have a plan to make it work better.
 {{% /dimbox %}}
 
 Warning, this is a disorganized stream of thoughts... But the answer to your question is probably hidden in here.
@@ -35,9 +36,9 @@ And, you may want to see my {{% link "gradschoolfaq" %}}
 
 ### Undergraduate Research?
 
-Research is about creating new things. How can you create new things if you don't understand the foundations and what exists? You need to know what to build off of, and you need to know what exists (otherwise, how do you know that what you are doing is new?). 
+Research is about creating new things. How can you create new things if you don't understand the foundations and what exists? You need to know what to build off of, and you need to know what exists (otherwise, how do you know that what you are doing is new?).
 
-An advantage to a "research project" is that it involves follow through: it isn't enough to just do something, you must understand it, document it, put it in the context of what else is known, make sure it is really correct, ... Projects done for others often have these properties. 
+An advantage to a "research project" is that it involves follow through: it isn't enough to just do something, you must understand it, document it, put it in the context of what else is known, make sure it is really correct, ... Projects done for others often have these properties.
 
 It is possible for undergrads to be involved in research, even without a lot of experience. The key word is "involved" - because **research is a team sport.** You may not have the experience to provide context - someone else can provide that; but that means you must have a different role on the team.
 
@@ -53,7 +54,7 @@ If you are an undergrad, you probably want to do a project - you want the experi
 
 ### Why do a Project / Research?
 
-Make sure you know why you want to do this, not just take a class. 
+Make sure you know why you want to do this, not just take a class.
 
 A few (good) answers:
 
@@ -64,7 +65,7 @@ A few (good) answers:
 5. It's a way to get really deep into something that you are really interesting in / passionate about.
 6. It's a way to get experience working with people who are also passionate about these topics. (Yes, there is irony that independent projects are a good way to work with others).
 
-There are many more good answers. Less good answers include "I want to learn something that I could have learned in a class in a different setting" or "I don't want to learn in the structured environment of a class." 
+There are many more good answers. Less good answers include "I want to learn something that I could have learned in a class in a different setting" or "I don't want to learn in the structured environment of a class."
 
 If your answer is "because it will help me get into grad school" - be careful, since the next question is "why do you want to go to grad school?" (which gets back to the answers above).
 
@@ -94,7 +95,7 @@ For example, if you are interested in graphics... make a game; make an animation
 
 I supervise a decent number of undergraduate projects (some of which are legitimately research). However, I am limited in how many I can supervise. Supervising a project takes time and effort from me (and usually from one of the graduate students who works with me as well).
 
-It is my job (as a Professor) to educate students - mentoring students doing projects is one way I do that. 
+It is my job (as a Professor) to educate students - mentoring students doing projects is one way I do that.
 
 To be blunt, supervising undergrad projects isn't an efficient use of my time. I can lecture to an undergrad class and educate many students are a time (I've taught computer graphics to close to 200). So, if I am going to do it, I have to have some other incentive. Usually, this means that the project needs to be something I am interested in, and need some help getting done.
 
@@ -112,21 +113,21 @@ In many other fields, there is pressure / incentive to get "younger" students in
 
 3. In CS, there are plenty of "personal projects" you can do to develop your skills and explore your interests. You can make stuff yourself. This is much harder to do in other fields.
 
-4. In CS, there is tons of cool and interesting stuff to do that is "making stuff" - good projects that aren't necessarily research. 
+4. In CS, there is tons of cool and interesting stuff to do that is "making stuff" - good projects that aren't necessarily research.
 
 ### Why can't I be a volunteer?
 
-I usually do not work with people who are volunteers. There are exceptions, but these are usually not for new people starting out. 
+I usually do not work with people who are volunteers. There are exceptions, but these are usually not for new people starting out.
 
-When I pay someone (either with credit or money), both sides are accountable. There is a formalization of the commitment. I am promising to provide enough mentoring/support that you can do things to get the pay. You are committing to doing enough to receive the pay. I find with volunteers, it is too easy for me (and other mentors) to ignore you. 
+When I pay someone (either with credit or money), both sides are accountable. There is a formalization of the commitment. I am promising to provide enough mentoring/support that you can do things to get the pay. You are committing to doing enough to receive the pay. I find with volunteers, it is too easy for me (and other mentors) to ignore you.
 
 Many students (see "If you are not a Wisconsin student") say they are "self-supported". This might cover the financial aspects. However, there is a significant cost to having a person work with us. The biggest resource bottleneck is our time: we only have so much time/energy to devote to mentoring project students. There are also other costs both financially (resources like computing and lab space) and conceptually (like the opportunity to do other things).
 
-### But I need to have some contact with a Professor...
+### But I need to have some contact with a Professor
 
 Having a directed study experience is probably good for you (see above).
 
-If you want to go to do something after graduation (graduate school, a good job, ...), project experience is really valuable since it provides a different set of skills (the ability to be self-directed yet work as part of a team, ...). 
+If you want to go to do something after graduation (graduate school, a good job, ...), project experience is really valuable since it provides a different set of skills (the ability to be self-directed yet work as part of a team, ...).
 
 The blunt thing: if all you do is take classes, if you need reference letters (for graduate school or a job), (at best) all you can get is a "did well in class" (DWIC) letter. This is probably not good enough for what you want. Especially since at Wisconsin, our undergraduate classes are so large, and grades alone don't tell us much (especially in these big classes). See {{% link "no-dwic" %}}
 
@@ -140,7 +141,7 @@ Some thoughts:
 2. Take classes with me. I tend to prefer students who have been through a class with me (it's not a requirement). It means that you know me, and I know you at least a little. Plus, my classes are usually relevant.
 3. Have some project experience that shows your skills and interests. You personal hobby project is possibly more relevant than good grades in a bunch of classes. It shows you have enough interest to do something on your own, and often involves relevant skills. Knowing how to do 3D modeling,
 4. Do things to explore your interests. The fact that you take initiative to learn about your interests shows that you really are interested.
-5. Build your portfolio, and present it well. Having a nice web page that shows off your projects is often more useful than a resume listing that you took standard courses. 
+5. Build your portfolio, and present it well. Having a nice web page that shows off your projects is often more useful than a resume listing that you took standard courses.
 
 Some thoughts on pursuing graphics/robotics/vr/vis related topics on your own:
 
@@ -156,8 +157,8 @@ Some thoughts on pursuing graphics/robotics/vr/vis related topics on your own:
 
 With any of these things: don't just learn the thing for its own sake. Pick something to do with it and try to do it. Make something. This can both motivate your learning as well as force you to develop some follow through. Make a game or interactive experience, or an animation, or website, or...
 
-### If you are not a Wisconsin student...
+### If you are not a Wisconsin student
 
-I cannot host visiting "interns" - in order to work with me on an undergraduate project you must be an enrolled Wisconsin student. Limited exceptions might be possible for students who either were recently Wisconsin students (e.g., after you graduate) or going to be Wisconsin students (e.g., about to matriculate). And, in really unusual cases, there are REU opportunities. 
+I cannot host visiting "interns" - in order to work with me on an undergraduate project you must be an enrolled Wisconsin student. Limited exceptions might be possible for students who either were recently Wisconsin students (e.g., after you graduate) or going to be Wisconsin students (e.g., about to matriculate). And, in really unusual cases, there are REU opportunities.
 
-From time to time, I may have funding to support "Research Experiences for Undergraduates" (REUs) - the funding that supports this only applies to students who are (1) U.S. citizens (or permanent residents) and (2) enrolled at a U.S. University. This is one case where I can work with someone who is not a Wisconsin student. 
+From time to time, I may have funding to support "Research Experiences for Undergraduates" (REUs) - the funding that supports this only applies to students who are (1) U.S. citizens (or permanent residents) and (2) enrolled at a U.S. University. This is one case where I can work with someone who is not a Wisconsin student.
