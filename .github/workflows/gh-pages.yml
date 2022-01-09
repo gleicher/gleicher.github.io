@@ -20,7 +20,9 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          token: ${{ secrets.PERSONAL_TOKEN }}
+          # this shouldn't need any private repos - so no personal token
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # token: ${{ secrets.PERSONAL_TOKEN }}
           # ssh-key: ${{ secrets.DEPLOY_READ_KEY }}
 
       - name: Setup Hugo
