@@ -40,6 +40,6 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           allow_empty_commit: true
-          emable_jekyll: false
+          enable_jekyll: false
           publish_branch: gh-pages
           external_repository: gleicher/gleicher.github.io
