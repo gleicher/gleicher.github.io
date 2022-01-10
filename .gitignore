@@ -7,3 +7,4 @@ __pycache__/
 Videos/
 layouts/shortcodes/test.html
 public/
+.hugo_build.lock
