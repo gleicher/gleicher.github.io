@@ -15,7 +15,7 @@ University of Wisconsin, Madison
 Madison, WI 53706
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hour:** (Spring 2021) To be determined.
+**Office Hour:** (Spring 2021) 11am-noon Wednesdays (usually in person).
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
