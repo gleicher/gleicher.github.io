@@ -15,7 +15,7 @@ University of Wisconsin, Madison
 Madison, WI 53706
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hour:** (Spring 2021) 11am-noon Wednesdays (usually in person).
+**Office Hour:** (Spring 2021) 11am-noon Wednesdays (usually in person). No office hour 3/16 (Spring Break), 3/30 (Madison Schools Break), or 4/20 (NSF NRI PI Meeting). CS559 Students can use the CS559 Zoom link.
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
