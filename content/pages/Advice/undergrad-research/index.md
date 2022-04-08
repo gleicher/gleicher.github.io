@@ -18,6 +18,8 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
+**Update: April 7, 2022:** I hope we are emerging from the pandemic. But the new reality of working styles (mixing remote and in-person work) is challenging for student projects. We are being cautious as we start to work with new students. I am not sure what we will be able to do this summer beyond REU positions (assuming they are funded).
+
 **Update: January 3, 2021:** As the pandemic continues, the uncertainty of working with students becomes even less clear. Our experience with remote work with undergraduate assistants has been mixed, at best. There seems to be little substitute for hands-on face time with a graduate student mentor.
 
 So, I am not sure how many new undergraduate project members we will take on this Spring. I do expect REU positions for the summer.
