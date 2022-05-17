@@ -15,14 +15,14 @@ University of Wisconsin, Madison
 Madison, WI 53706
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hour:** (Spring 2021) ~~11am-noon Wednesdays (usually in person)~~ 11am-noon Thursdays (except April 28). CS559 students can use the Zoom link in Canvas. Or by appointment.
+**Office Hour:** (Summer 2022) By appointment.
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** This semester (Spring 2022), I will teach [CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp22/).
+**Teaching:** Last semester (Spring 2022), I will teach [CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp22/).
 Last semester (Fall 2021) I taught  [CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-21/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
@@ -33,14 +33,15 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 ## Current Research Themes
 
+The projects list was more than slightly out of date. I need to revitalize it. But, there are several things going on with robotics (tele-operation, providing awareness to remote users, using novel sensors, ...) and visualization (summarization, text collection exploration, uncertainty, ...).
+
+### Selected Past (but recent) Themes
+
 {{< summary "researchtheme/CommPhysInteractions" >}}
 {{< summary "researchtheme/CommMotion" >}}
 {{< summary "researchtheme/interactlearn" >}}
 {{< summary "researchtheme/visualcomp" >}}
 {{< summary "researchtheme/usablevr" >}}
-
-### Selected Past (but recent) Themes
-
 {{< summary "researchtheme/commchar" >}}
 {{< summary "researchtheme/perceptprinc" >}}
 {{< summary "researchtheme/vep" >}}
@@ -92,7 +93,7 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 ## Selected Recent Publications
 
-The complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
+A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
 - RAL '21 (ICRA '21): _Single-query Path Planning Using Sample-efficient Probability Informed Trees_ <span style="font-size:83%">w/Rakita and Mutlu</span>
 - RAL '21 (ICRA '21): _Corrective Shared Autonomy for Addressing Task Variability_ <span style="font-size:83%">w/Hagenow et al.</span>

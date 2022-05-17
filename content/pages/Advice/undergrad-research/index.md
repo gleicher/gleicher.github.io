@@ -24,7 +24,7 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 
 So, I am not sure how many new undergraduate project members we will take on this Spring. I do expect REU positions for the summer.
 
-**COVID-19 Update (January 3, 2020)**:
+**COVID-19 Update (January 3, 2021)**:
 It is unclear how many undergrad projects I can work with given the remote working situation. It turns out that working remotely is surprisingly challenging for supervising and mentoring students.
 
 There are REU (NSF Research Experiences for Undergraduates) opportunities, which require students to be U.S. citizens or permanent residents. If you contact me, please be clear if you qualify.
