@@ -22,8 +22,11 @@ I am a professor working in areas related to Visual Computing. My research these
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** Last semester (Spring 2022), I will teach [CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp22/).
-Last semester (Fall 2021) I taught  [CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-21/).
+**Teaching:**
+This semester (Fall 2022), I will teach
+[CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-22/).
+Last semester (Spring 2022), I taught
+[CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp22/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -52,6 +55,7 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
 - **CS765 Visualization:** This class is taught regularly/ I taught it in
+[Fall 2022](https://uwgraphics.github.io/765-22/),
 [Fall 2021](https://uwgraphics.github.io/765-21/),
 [Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/),
 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
