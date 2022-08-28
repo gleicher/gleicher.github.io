@@ -54,8 +54,9 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
 
-- **CS765 Visualization:** This class is taught regularly/ I taught it in
-[Fall 2022](https://uwgraphics.github.io/765-22/),
+- **CS765 Visualization:** This class is taught regularly. I taught it in
+[Fall 2022](https://uwgraphics.github.io/765-22/).
+In the past, I taught it
 [Fall 2021](https://uwgraphics.github.io/765-21/),
 [Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/),
 [Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
@@ -64,9 +65,8 @@ These are the main classes I teach. You can see more on the [Graphics Group Cour
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
-I am teaching this in the [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/)
-I  taught this most recently in [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/).
-I taught the class using the current design in [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
+I taught this in [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/).
+I taught the class using the current design in [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 and [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019).
 Previous offerings include
 [2015](http://graphics.cs.wisc.edu/WP/cs559-fall2015/),
@@ -99,10 +99,8 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
-- RAL '21 (ICRA '21): _Single-query Path Planning Using Sample-efficient Probability Informed Trees_ <span style="font-size:83%">w/Rakita and Mutlu</span>
-- RAL '21 (ICRA '21): _Corrective Shared Autonomy for Addressing Task Variability_ <span style="font-size:83%">w/Hagenow et al.</span>
-- ICRA '21: _CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with Environment Collision Avoidance_ <span style="font-size:83%">w/Rakita, Shi and Mutlu</span>
-- ICRA '21: _Recognizing Orientation Slip in Human Demonstrations_ <span style="font-size:83%">w/Hagenow et al.</span>
-- TVCG '21: _embComp: Visual Interactive Comparison of Vector Embeddings_ <span style="font-size:83%"> w/Heimerl et al.</span>
-- TVCG '21 (VAST '20): _CAVA: A Visual Analytics System for Exploratory Columnar Data Augmentation Using Knowledge Graphs_ <span style="font-size:83%"> w/Cashman et al.</span>
-- iScience '21: _CellO: Comprehensive and hierarchical cell type classification of human cells with the Cell Ontology_ <span style="font-size:83%"> w/Bernstein, Ma and Dewey</span>
+- RAL '22 (IROS '22): _Geometric Calibration of Single-Pixel Distance Sensors_ <span style="font-size:83%">w/ Sifferman and Gupta</span>
+- RSS '22: _Proxima: An Approach for Time or Accuracy Budgeted Collision Proximity Queries_ <span style="font-size:83%">w/Rakita and Mutlu</span>
+- TVCG '22: _embComp: Visual Interactive Comparison of Vector Embeddings_ <span style="font-size:83%"> w/Heimerl et al.</span>
+- Haptics '22: _Assessing the Perceived Realism of Kinesthetic Haptic Renderings Under Parameter Variations_ <span style="font-size:83%"> w/Zhang et al.</span>
+- Visual Informatics '22: _Trinary tools for continuously valued binary classifiers_ <span style="font-size:83%"> w/Yu and Chen</span>
