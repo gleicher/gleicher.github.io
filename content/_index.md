@@ -8,14 +8,16 @@ noheader: true
 
 ## Michael Gleicher
 
-Professor
-Department of Computer Sciences
-University of Wisconsin, Madison
-1210 West Dayton St.
-Madison, WI 53706
+Professor  
+Department of Computer Sciences  
+University of Wisconsin, Madison  
+1210 West Dayton St.  
+Madison, WI 53706  
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office Hour:** (Summer 2022) By appointment.
+**Office:** 6385 Computer Sciences
+
+**Office Hour:** (Fall 2022) Wednesdays, 2:30pm-3:30pm.
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
@@ -45,9 +47,9 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 {{< summary "researchtheme/interactlearn" >}}
 {{< summary "researchtheme/visualcomp" >}}
 {{< summary "researchtheme/usablevr" >}}
-{{< summary "researchtheme/commchar" >}}
+<!-- {{< summary "researchtheme/commchar" >}} -->
 {{< summary "researchtheme/perceptprinc" >}}
-{{< summary "researchtheme/vep" >}}
+<!-- {{< summary "researchtheme/vep" >}} -->
 {{< summary "researchtheme/authoring" >}}
 
 ## Teaching
