@@ -1,6 +1,7 @@
 ---
 title: Status Reports
 draft: false
+date: 2000-09-01T12:00:00-05:00
 ---
 <div id="wikitext">
 
@@ -16,27 +17,27 @@ Your report should be sent to me by email on Friday of each week (if you choose 
 
 Your report should have the following following 6 sections:
 
-1.   What were my goals for this week?
-2.   What did I accomplish this week?
-3.   Why are numbers 1 and 2 different?
-4.   What are my goals for next week?
-5.   How does this fit in to my bigger picture? How does \#4 fit into my longer term goals? (What are the longer term goals?) What deadlines are looming beyond the week horizon?
-6.   What did I read this week?
+1. What were my goals for this week?
+2. What did I accomplish this week?
+3. Why are numbers 1 and 2 different?
+4. What are my goals for next week?
+5. How does this fit in to my bigger picture? How does \#4 fit into my longer term goals? (What are the longer term goals?) What deadlines are looming beyond the week horizon?
+6. What did I read this week?
 
 Additionally: If you are an hourly employee, please list the hours you worked. I'm curious when you worked and what you did (at least roughly). If you are also doing directed study work, I am curious what you consider "paid time" versus what you consider part of directed study? I trust that people work when they say they worked, but it's useful for me to make sure people are working on the right things, and to understand how long various things take.
 
 **Important:** Status reports are to help understand how things are progressing. It is much better to file a status report saying that little got done than it is to wait until you have something you are proud of. File one every week - whether you accomplished anything or not.
 
-## Some comments on these questions:
+## Some comments on these questions
 
-- The time management literature (especially the books by Covey and Allen) say that a week is the right size time chunk to do planning at: days are too "micro", months are too long. 
+- The time management literature (especially the books by Covey and Allen) say that a week is the right size time chunk to do planning at: days are too "micro", months are too long.
 - However, working along week by week, its way too easy to lose track of the big picture. The "macro" planning process is seperate from the weekly report. We should do semester scale planning as well, but that is independent of the weekly report.
 - Number 1 is not necessarily the previous weeks \#4 - in practice, goals change over time.
 - It's best to be honest about number 3 - it's a great place to identify roadblocks that come up.
 - Question \#5 is designed to help reconnect to the big picture. I left it out initially from my suggested format. It's not meant to take the place of periodic long-term planning.
-- Question \#6 is a new addition. It is added for a number of reasons. First, I had been concerned that many people get so caught up in hacking or the specific thing they are doing that they aren't reading - which is an important part of research. Second, I am not getting to read as much as I would like, so this is a way for me to hear about more stuff vicariously. For the purposes of the status report DON'T PUT THE WHOLE CITATION. Just give me enough information so I have an idea of what it is. For example: 
+- Question \#6 is a new addition. It is added for a number of reasons. First, I had been concerned that many people get so caught up in hacking or the specific thing they are doing that they aren't reading - which is an important part of research. Second, I am not getting to read as much as I would like, so this is a way for me to hear about more stuff vicariously. For the purposes of the status report DON'T PUT THE WHOLE CITATION. Just give me enough information so I have an idea of what it is. For example:
 
-<pre>    Interactive Video Cutout, SIGGRAPH 2005 
+<pre>    Interactive Video Cutout, SIGGRAPH 2005
 </pre>
 
 <dl><dd>Is totally sufficient.
@@ -45,4 +46,3 @@ Additionally: If you are an hourly employee, please list the hours you worked. I
 - Putting non-research stuff in 1-5 is a good idea. For exmaple, its good to know that you have an exam during the week so you might not get as much research work done, or that you didn't get enough work done on your class project because you're busy doing research. I'm less interested in non-research related readings (\#6) unless you feel that it is relevant.
 
 </div>
-

@@ -1,9 +1,10 @@
 ---
 title: Advice on Talks
 draft: false
+date: 2016-01-01T12:00:00-05:00
 ---
 
-I have written some advice on how to give a talk - that is the basis for a lecture in my grad classes. 
+I have written some advice on how to give a talk - that is the basis for a lecture in my grad classes.
 
 <!--more-->
 
@@ -14,4 +15,3 @@ My advice on how to give a talk hasn't been converted to the format for this web
 (in subsequent years I refer students to this <http://graphics.cs.wisc.edu/WP/vis12/2012/04/18/reading-20-presentations/>)
 
 In the 2015 Vis class, I asked students to look at this, but there was no additional info.<http://graphics.cs.wisc.edu/WP/vis15/2015/04/22/reading-23-videos/>
-

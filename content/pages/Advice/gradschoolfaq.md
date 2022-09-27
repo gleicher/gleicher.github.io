@@ -2,6 +2,7 @@
 title: The Graduate School FAQ
 draft: false
 toc: true
+date: 2003-09-01T12:00:00-05:00
 ---
 
 This is advice for undergraduates who are thinking about going to graduate school. There is specific advice for students who are applying to Wisconsin, and even more specifically, might like to work with me.
@@ -12,11 +13,11 @@ This is advice for undergraduates who are thinking about going to graduate schoo
 
 {{% dimbox %}}
 (added summer, 2020)
-This document is almost comically out of date. The old version was copied to the new web page. 
+This document is almost comically out of date. The old version was copied to the new web page.
 
 2003 (when a lot of this was written) seems like a different universe. But a lot of the things are timeless: the value of graduate school, how to pick a place, the fact the I play no role in admissions, ...
 
-Also, why the document refers to the area of "graphics," that's a bit of a misnomer. We call ourselves the "graphics group" but the research is robotics, vis, ... 
+Also, why the document refers to the area of "graphics," that's a bit of a misnomer. We call ourselves the "graphics group" but the research is robotics, vis, ...
 
 Someday, I will re-write this from scratch...
 {{% /dimbox %}}
@@ -28,13 +29,13 @@ This document is getting really out of date, and deserves an overhaul. A lot of 
 
 {{% dimbox %}}
 (added June, 2013):  
-The most recent update to this document was in 2010! Some of it was out of date in 2003. It's really interesting to see what is a timeless truth (and still true from when I wrote it in 2001), and what is out of date. The parts about how our admissions process works, and how I find students seem to change more slowly. 
+The most recent update to this document was in 2010! Some of it was out of date in 2003. It's really interesting to see what is a timeless truth (and still true from when I wrote it in 2001), and what is out of date. The parts about how our admissions process works, and how I find students seem to change more slowly.
 
-If you're a student who is considering applying for grad school at Wisconsin and want to work with me, you are probably most interested in the last few questions below. But the summary: 
+If you're a student who is considering applying for grad school at Wisconsin and want to work with me, you are probably most interested in the last few questions below. But the summary:
 
 - I am not on the admissions committee, so I have little control over whether you will be admitted to Wisconsin.
 - If you are accepted by the committee and are interested in the kinds of things I work on, we should talk (_after_ you are accepted). I am eager to find students that are a good fit for my group.
-- There is a growing amount of opportunity to work in graphics and visualization and related fields (HCI, VR, ...). 
+- There is a growing amount of opportunity to work in graphics and visualization and related fields (HCI, VR, ...).
 {{% /dimbox %}}
 
 I tend to get a lot of people asking me questions about grad school. It ended to get the same questions over and over, so rather than write short answers each time, I decided to compile my answers so I could say more about each request.
@@ -70,7 +71,7 @@ _2005 version:_ The job market today (2005) is quite different, and there are ma
 
 _2009 version:_ The job market is totally weird nowadays. However,things seem much better for people with CS degrees.
 
-_2013 version:_ The _'CS_ job market is incredibly hot (note that this is not necessarily true for other fields). If you're good, you can get a good job. Grad school can help make you even more attractive to (some) employers, and there are some kinds of jobs that it's easier to get with a graduate degree. 
+_2013 version:_ The _'CS_ job market is incredibly hot (note that this is not necessarily true for other fields). If you're good, you can get a good job. Grad school can help make you even more attractive to (some) employers, and there are some kinds of jobs that it's easier to get with a graduate degree.
 
 I've seen lots of smart people for whom grad school was exactly the wrong thing. One in particular was pushed into going to grad school by an advisor (partially for selfish reasons - he wanted the student to work on a project). It was the worst thing that happened to each of them. Fortunately, this particular student dropped out of grad school before they lost their enthusiasm for the field, and has had a successful career in the animation industry.
 
@@ -100,7 +101,7 @@ _2001 version:_ As a rough rule of thumb, a 3.5 GPA (from a good place) and a"ge
 
 _2003 version:_ After 2-3 years of a bad CS job market, grad school admissions has gotten crazy. All good grad schools are getting hundreds (if not thousands) of applicants. The number of spaces in the programs is not going up (if anything, its going down, since a tightened economy means less funding). Over the past 2 years, I've seen good students with good grades who have trouble getting in anywhere in the top 20. These are people who 3-4 years ago would have no problem getting in here.
 
-In this kind of admissions market, the problem changes. You need to stand out from the crowd, and you need to make it through mechanical cutting processes. 
+In this kind of admissions market, the problem changes. You need to stand out from the crowd, and you need to make it through mechanical cutting processes.
 
 _2013 version:_ The good CS job market (over the long term) has changed the admissions game, again. We get huge numbers of applications from Asia - so getting in if you're from China, India, or really any Asian country is really really hard. However, if you're from the US, the story is quite different. The admissions committee seems to be much more willing to take chances on people.
 
@@ -110,7 +111,7 @@ From an admissions point of view, I don't think it matters much. The biggest iss
 
 From a personal standpoint, this can either be a great thing, or a bad thing. Depending on your personal situation, you might need some time to experience the real world, and figure out "what you want to do with your life." Students who come back from the real world are always there for a reason: they didn't just come to grad school "because they couldn't think of what else to do."
 
-The downside is that you might get used to the real world - the real salary, the "normal" hours, the paid vacations, ... 
+The downside is that you might get used to the real world - the real salary, the "normal" hours, the paid vacations, ...
 
 ## 4. What can I do to improve my chances?
 
@@ -118,7 +119,7 @@ Well, I am assuming raising your GPA is out of the question, so...
 
 _(revised for 2013)_
 
-The biggest thing is to show some initiative. Do something out of the ordinary. A student who takes normal classes and gets good grades is common - a student who has an interesting internship, or has done a research project, or even did an interesting project just for fun, is more likely to stand out. 
+The biggest thing is to show some initiative. Do something out of the ordinary. A student who takes normal classes and gets good grades is common - a student who has an interesting internship, or has done a research project, or even did an interesting project just for fun, is more likely to stand out.
 
 Make sure that some people know you. If you just "do well in your classes" you'll get things that we call "DWIC" letters (did well in class). Having a professor say "Student was in my class and got an A" tells us little, having a professor or supervisor who worked directly with you and can give specific examples of your abilities is much more compelling. (the reference letters are important!)
 
@@ -141,7 +142,7 @@ Also, the places that are "good" for graphics, aren't necessarily good places to
 
 On the other hand, there is something to be said for being from a place with a strong group. You will learn at least as much from your peers as from anything else.
 
-(2005 Update: I used to have a list of places with graphics groups,but it had gotten woefully out of date.) 
+(2005 Update: I used to have a list of places with graphics groups,but it had gotten woefully out of date.)
 
 ## 7. Will they pay me?
 
@@ -151,7 +152,7 @@ Your best bet is to not have them pay you. If you go to grad school apply for al
 
 At most good places, most/all students are supported. Here areWisconsin, we used to have enough TA jobs that we could pay all students (that's changed recently). Generally, if you are working on aPhD, you will be funded as an RA (Research Assistant) which means that your advisor will be paying you to do research. Generally, most masters students are supported someway.
 
-## 8. Should I get a Masters degree or a PhD.
+## 8. Should I get a Masters degree or a PhD
 
 This is a tough personal question. If you don't know the answer already, you should assume that you just want a masters degree but be open minded to the fact that you will change your mind.
 
@@ -190,7 +191,7 @@ If you are not a student at Wisconsin, you first need to become one.
 
 The admissions committee is pretty much area blind: a departmental committee evaluates your application. Just because I think you'd be a good graphics student has almost no effect. Even those times that I am on the admissions committee, I am generally given responsibility for only a portion of the applicant pool, and have little influence over most graphics applicants.
 
-Getting admitted to our department is difficult. We only take people with really good records, and we don't even take all of the people who are "good enough". So, if you think you might be good enough,apply. If you're good enough, you might get in. But there are so many applications, many good people get rejected. 
+Getting admitted to our department is difficult. We only take people with really good records, and we don't even take all of the people who are "good enough". So, if you think you might be good enough,apply. If you're good enough, you might get in. But there are so many applications, many good people get rejected.
 
 And if you're good enough (and lucky enough) to get in, and serious enough about graphics, that will lead to the next answer...
 
@@ -210,11 +211,11 @@ If you are already a grad student here in another department (like ECE or ME), w
 
 ### 10.3 How do you pick students to support as an RA? (added 2013)
 
-Note: the question of how I choose RAs is not exactly the same as choosing who I work with. 
+Note: the question of how I choose RAs is not exactly the same as choosing who I work with.
 
-Generally, I prefer to work (on research) with students that I have already gotten to know well enough that I am fairly confident that we are a good fit. This is as much for them (the students) as for me: as an advisor, I have many students; as a student you have one advisor (so you better have the right one). 
+Generally, I prefer to work (on research) with students that I have already gotten to know well enough that I am fairly confident that we are a good fit. This is as much for them (the students) as for me: as an advisor, I have many students; as a student you have one advisor (so you better have the right one).
 
-Most students I work with take a class with me first. Also, I like to do small projects with students (usually as a directed study). 
+Most students I work with take a class with me first. Also, I like to do small projects with students (usually as a directed study).
 
 ## 11. Can I do Graphics at Wisconsin?
 
@@ -254,4 +255,4 @@ Usually, students are asking the same as the "openings" question. But I am alway
 
 ### 13.2 Will you accept Ph. D. students for next year?
 
-No. I do not accept students. The admissions committee does that. 
+No. I do not accept students. The admissions committee does that.

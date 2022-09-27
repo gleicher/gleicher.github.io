@@ -1,14 +1,15 @@
 ---
 title: About Michael Gleicher (Bio)
 draft: false
+date: 2019-09-01T12:00:00-05:00
 ---
 
 (or look at my [C.V.]({{< assetlink "pdf/CV.pdf" >}}))
+
 ## One paragraph standard professional bio
 
-
-
 #### One paragraph profession bio - 2019
+
 Michael Gleicher is a Professor in the Department of Computer Sciences at the University of Wisconsin, Madison.  Prof. Gleicher is founder of the Department's Visual Computing Group. He co-directs both the Visual Computing Laboratory and the Collaborative Robotics Laboratory at UW-Madison. His research interests span the range of visual computing, including data visualization, robotics, and virtual reality. Prior to joining the University, Prof. Gleicher was a researcher at The Autodesk Vision Technology Center and in Apple Computer's Advanced Technology Group. He earned his Ph. D. in Computer Science (1994) from Carnegie Mellon University, and holds a B.S.E. in Electrical Engineering from Duke University (1988). In 2013-2014, he was a visiting researcher at INRIA Rhone-Alpes. Prof. Gleicher is an ACM Distinguished Scientist.
 
 {{< expand "(Circa 2016)" >}}
@@ -44,7 +45,7 @@ after 10 years, but I just copied old stuff.
 
 {{< leftpic rsrc="pub_pics_bio_family-sm-2005-08-13.jpg" >}}
 In 2004, I was promoted to Associate Professor (i.e. tenured). I also
-married Julie Loehrl. Our son Sam was born in April of 2005. 
+married Julie Loehrl. Our son Sam was born in April of 2005.
 {{< /leftpic >}}
 
 {{< leftpic rsrc="W-logo-400.png" >}}
@@ -73,7 +74,7 @@ involving computer animation, computer vision, and user interfaces.
 I was a graduate student in the Computer Science Department of
 Carnegie Mellon University from August 1988 through August 1994. While
 I was there, I earned a PhD and an MS. My thesis, "A Differential
-Approach to Graphical Interaction" was supervised by Andy Witkin. 
+Approach to Graphical Interaction" was supervised by Andy Witkin.
 {{< /leftpic >}}
 
 {{< leftpic rsrc="pub_pics_bio_duke-chapel.gif" >}}
@@ -89,10 +90,7 @@ live there. My dad's company is [Gleicher Manufacturing](http://www.gleicher.com
 (yes, the picture to the left is me)
 {{< /leftpic >}}
 
-
 ### Some personal info
 
 I generally like things involving mountains, music, and food. I like
 to downhill ski, play guitar and bass, and cook.
-
-
