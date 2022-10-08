@@ -16,6 +16,8 @@ Included in this: I will not provide reference letters for admissions into the C
 
 Yes, I know this is a problem for many of our students: you only meet professors in large classes, and you want a professor to write a letter for you. See {{% link "undergrad-research" %}} for some thoughts on this.
 
+Granting exceptions to this rule would be unfair to all those people who read and follow the rules. Giving one person an exception would be rewarding them (for breaking rules), while penalizing the people who do the right things.
+
 #### Rationale - Why I stopped providing DWIC letters
 
 With our large classes, I do not have the opportunity to get to know students well enough to write letters. Yes, there are a few students that I get to know - but it is unfair to everyone else for me to provide letters only to those students. While sometimes I get to know a few students in a large class, this isn't a good measure of which students are good. Usually, the few I get to know are either (1) end up working with me beyond class anyway, (2) lucky to have a situation where I got to know them, (3) problem cases (in which case I often don't remember the good work - only the problems they had), (4) intentionally trying to be noticed to get a letter, or (5) I don't actually remember them correctly and am relying on my own faulty memory.
