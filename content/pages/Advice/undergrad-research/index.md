@@ -18,24 +18,14 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
+**Update: January, 2023:** If it isn't clear from below: I am unlikely to work with a student who has not done enough coursework. Most of the students I work with have taken a class with me (usually, CS559). However, we also like to work with students who have taken another relevant class (e.g., Mech Eng 439 Robotics, CS571 user interfaces, or CS??? the new undergrad data visualization class). Exceptions are possible (for example, students in the WISCERS program), but not common.
+
 **Update: May 20, 2022:** I guess it's not clear, but "REU" is an NSF program for "Research Experiences for Undergraduates" - in order to be eligible, the student must be a US citizen or permanent resident.
 
 For any opportunity (peer mentor, project, directed study, honors project), please fill out the [form](https://forms.gle/vj74vbKVVK6AK8R8A) before you send me email, and tell me (in your email) that you have filled out the form.
 
 And this summer, we are limiting the number of students we work with. There may be some REU positions. There will be more opportunities in the fall (especially for students who want to do honors projects).
 
-**Update: April 7, 2022:** I hope we are emerging from the pandemic. But the new reality of working styles (mixing remote and in-person work) is challenging for student projects. We are being cautious as we start to work with new students. I am not sure what we will be able to do this summer beyond REU positions (assuming they are funded).
-
-**Update: January 3, 2021:** As the pandemic continues, the uncertainty of working with students becomes even less clear. Our experience with remote work with undergraduate assistants has been mixed, at best. There seems to be little substitute for hands-on face time with a graduate student mentor.
-
-So, I am not sure how many new undergraduate project members we will take on this Spring. I do expect REU positions for the summer.
-
-**COVID-19 Update (January 3, 2021)**:
-It is unclear how many undergrad projects I can work with given the remote working situation. It turns out that working remotely is surprisingly challenging for supervising and mentoring students.
-
-There are REU (NSF Research Experiences for Undergraduates) opportunities, which require students to be U.S. citizens or permanent residents. If you contact me, please be clear if you qualify.
-
-My initial experience with working with undergraduates remotely has not been as successful as I would have liked. I am trying to think about how to improve the process, but I probably will not take on new (non-REU) students until I have a plan to make it work better.
 {{% /dimbox %}}
 
 Warning, this is a disorganized stream of thoughts... But the answer to your question is probably hidden in here.
