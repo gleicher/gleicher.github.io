@@ -17,7 +17,7 @@ Madison, WI 53706
 
 **Office:** 6385 Computer Sciences
 
-**Office Hour:** (Spring 2023) Wednesdays, 2:15pm-3:15pm. (except 2/22 (personal appointment),3/15 (spring break) and 3/29 (MMSD spring break)). Office hours are in person. CS559 students can join by Zoom (see the course web for instructions)
+**Office Hour:** (Spring 2023) Wednesdays, 2:15pm-3:15pm. (except 4/19). Office hours are in person. CS559 students can join by Zoom (see the course web for instructions)
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
