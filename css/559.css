@@ -196,3 +196,13 @@ table pre {
 .boldred {
   color: #e22d30;
   font-weight: bold; }
+
+.includebox {
+  overflow: hidden;
+  border: 2px solid gray;
+  border-radius: 5px;
+  width: 640px; }
+
+.galleryimagebox {
+  display: flex;
+  flex-direction: row; }
