@@ -17,18 +17,18 @@ Madison, WI 53706
 
 **Office:** 6385 Computer Sciences
 
-**Office Hour:** (Spring 2023) Wednesdays, 2:15pm-3:15pm. (except 4/19). Office hours are in person. CS559 students can join by Zoom (see the course web for instructions)
+**Office Hour:** None this year - I am on sabbatical.
 {{< /leftpic >}}
+
+**I am on sabbatical for the 2023-2024 academic year. I am generally around Madison, but am avoiding standard academic duties to focus on some projects.**
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:**
-This semester (Fall 2022), I will teach
-[CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-22/).
-Last semester (Spring 2022), I taught
-[CS559 Computer Graphics](https://pages.graphics.cs.wisc.edu/559-sp22/).
+**Teaching:** None this year - I am on sabbatical. Last year I taught
+[CS765 Data Visualization (Fall 22)](https://pages.graphics.cs.wisc.edu/765-22/) and
+[CS559 Computer Graphics (Spring 23)](https://pages.graphics.cs.wisc.edu/559-sp23/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -67,8 +67,8 @@ In the past, I taught it
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
-I taught this in [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/).
-I taught the class using the current design in [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
+I taught this in [Spring 2023](https://pages.graphics.cs.wisc.edu/559-sp23/).
+I taught the class using the current design in [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/), [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 and [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019).
 Previous offerings include
 [2015](http://graphics.cs.wisc.edu/WP/cs559-fall2015/),
