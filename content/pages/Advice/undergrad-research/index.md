@@ -18,13 +18,11 @@ Short version: (1) understand research vs. projects; (2) don't do research / dir
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
-**Update: January, 2023:** If it isn't clear from below: I am unlikely to work with a student who has not done enough coursework. Most of the students I work with have taken a class with me (usually, CS559). However, we also like to work with students who have taken another relevant class (e.g., Mech Eng 439 Robotics, CS571 user interfaces, or CS??? the new undergrad data visualization class). Exceptions are possible (for example, students in the WISCERS program), but not common.
+**Update: August, 2023:** I am on sabbatical for the 2023-2024 academic year. This means I have even less time than usual for working with undergraduates.
+
+**Update: January, 2023:** If it isn't clear from below: I am unlikely to work with a student who has not done enough coursework. Most of the students I work with have taken a class with me (usually, CS559). However, we also like to work with students who have taken another relevant class (e.g., Mech Eng 439 Robotics, CS571 user interfaces, or CS??? the new undergrad data visualization class). Exceptions are possible (for example, students in the WISCERS program, or for Mechanical Engineering students with good physical design and fabrication skills), but not common.
 
 **Update: May 20, 2022:** I guess it's not clear, but "REU" is an NSF program for "Research Experiences for Undergraduates" - in order to be eligible, the student must be a US citizen or permanent resident.
-
-For any opportunity (peer mentor, project, directed study, honors project), please fill out the [form](https://forms.gle/vj74vbKVVK6AK8R8A) before you send me email, and tell me (in your email) that you have filled out the form.
-
-And this summer, we are limiting the number of students we work with. There may be some REU positions. There will be more opportunities in the fall (especially for students who want to do honors projects).
 
 {{% /dimbox %}}
 
