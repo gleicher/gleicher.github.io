@@ -11,6 +11,16 @@ This is advice for undergraduates who are thinking about going to graduate schoo
 
 # Mike Gleicher's Graduate School FAQ
 
+{{%dimbox %}}
+(added Fall, 2023)
+
+Much here is historical. Much of what here is from 2003 (or earlier, since the 2003 version was a compendium of earlier notes). There is timeless wisdom, but it is mixed in with specific details that are linked to the cycles of the job marker, the progression of the field, and some general trends in higher education.
+
+One thing that hasn't changed: I am not on the admissions committee. I have no control over who is, or isn't, accepted as a student to our program. If the admissions committee accepts you, I can try to help you decide if this is a good place for you (probably). If you decide to come here, we can decide if its worth doing the experiment to see if we work well together.
+
+I am on sabbatical for the 2023-2024 academic year. That might give me an opportunity to re-write this.
+{{% /dimbox %}}
+
 {{% dimbox %}}
 (added summer, 2020)
 This document is almost comically out of date. The old version was copied to the new web page.
@@ -162,13 +172,19 @@ Generally, this means you should consider whether a program will allow you to do
 
 Some thoughts:
 
-- It is difficult to justify a PhD in terms of career opportunities(unless you want to work in a government lab or be a professor).
+- It is difficult to justify a PhD in terms of career opportunities (unless you want to work in a government lab or be a professor).
 - The real justification for a PhD is the personal growth experience. If you poo-poo this, then its probably not for you.
 - While the time commitment for a PhD seems huge (and it is!), it really is an investment in yourself. Besides, you will probably find grad school to be a lot of fun. In hindsight, most people look back on it as one of the best times in their lives. (while you're going through it it might seem hellish, but in hindsight)
 
 ## 9. What area of CS should I work in?
 
-Graphics, of course :-)
+~~Graphics, of course :-)~~
+
+{{% dimbox %}}
+I won't even talk about graphics, since I don't consider myself active in the area.
+
+My current advice to new students: be open minded. The coolest parts of computer science (probably) haven't been invented yet.
+{{% /dimbox %}}
 
 Seriously, you should work in an area that you enjoy working in. Especially if you are getting a PhD.
 

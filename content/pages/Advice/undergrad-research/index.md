@@ -13,11 +13,15 @@ If you are currently an undergraduate and interested in getting involved in a pr
 
 Short version: (1) understand research vs. projects; (2) don't do research / directed study until you've done the requisite coursework; (3) I will say no if you are not a Wisconsin student; (4) consider things to build your portfolio on your own.
 
+There's also the general question of "I am interested in the topics you are interested in, how do I learn more about them". If you're interested in graphics, robotics, or data vis there is some on that here too.
+
 <!--more-->
 
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
+**Update: September, 2023:** Added some information on other ways to learn about the topics, which is particularly important given that I am on sabbatical.
+
 **Update: August, 2023:** I am on sabbatical for the 2023-2024 academic year. This means I have even less time than usual for working with undergraduates.
 
 **Update: January, 2023:** If it isn't clear from below: I am unlikely to work with a student who has not done enough coursework. Most of the students I work with have taken a class with me (usually, CS559). However, we also like to work with students who have taken another relevant class (e.g., Mech Eng 439 Robotics, CS571 user interfaces, or CS??? the new undergrad data visualization class). Exceptions are possible (for example, students in the WISCERS program, or for Mechanical Engineering students with good physical design and fabrication skills), but not common.
@@ -30,7 +34,23 @@ Warning, this is a disorganized stream of thoughts... But the answer to your que
 
 And, you may want to see my {{% link "gradschoolfaq" %}}
 
-### Undergraduate Research?
+### Learning about Graphics / Robotics / Visualization / etc
+
+If you're interested in the kinds of things I am interested in (and teach), good for you! I find them to be some of the most interesting topics (which is why I chose to work on them). I do recommend that you stay open minded: the coolest stuff probably hasn't been invented yet.
+
+The general advice: if you are interested in these topics (1) take the relevant classes, (2) get a strong general background, and (3) do some outside reading/projects to learn beyond the classes.
+
+Please trust me on (1) and (2) - you might think "why do I need to learn that old-fashioned foundation stuff when I can see the fancy/modern stuff on YouTube" - but having solid foundations is really important in understanding the fancier stuff. And, learning things in a rigorous way is good practice in thinking rigorously.
+
+Some specifics:
+
+**Computer Graphics** - the obvious thing is CS559 (Computer Graphics). The class varies based on who is teaching it, but the foundations are a constant. The background to do graphics (math and programming) may not be explicit pre-requsities, but you will have a better understanding of graphics if you have good math skills. Knowing how to build interactive software (e.g., from CS571) is valuable too.
+
+**Robotics** - there is no specific robotics class in CS. I do recommend taking the graphics class because the spatial thinking is really valuable. The robotics class in Mech Eng is great - but very hands on (how to put robots together). Classes in topics related to robotics (AI, Vision, Learning, HCI) are useful background as well.
+
+**Visualization** - the CS (data) visualization classes are CS565 and CS765. You will get a bit of visualization (especially the practical aspects) from other classes (e.g., CS320). There are other "visualization" courses scattered about the university - there is a psych class that focuses on the perceptual elements, a geography class that focuses on maps, etc. Being a good interactive systems programmer is an important skill here (e.g., CS571). The methodologies of studying human-centric systems in a rigorous way (HCI - CS570/571) is valuable as well.
+
+### Undergraduate Research / Projects?
 
 Research is about creating new things. How can you create new things if you don't understand the foundations and what exists? You need to know what to build off of, and you need to know what exists (otherwise, how do you know that what you are doing is new?).
 
