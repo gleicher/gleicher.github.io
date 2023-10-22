@@ -40,7 +40,10 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 The projects list was more than slightly out of date. I need to revitalize it. But, there are several things going on with robotics (tele-operation, providing awareness to remote users, using novel sensors, ...) and visualization (summarization, text collection exploration, uncertainty, ...).
 
-<!-- {{< summarycontent "researchtheme/inspection" >}} -->
+{{< summary "researchtheme/inspection" >}}
+{{< summary "researchtheme/vis-theory" >}}
+{{< summary "researchtheme/awareness" >}}
+{{< summary "researchtheme/sensors" >}}
 
 ### Selected Past (but recent) Themes
 
