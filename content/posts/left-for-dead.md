@@ -24,6 +24,8 @@ It's not dead yet...
 - RSVP (Manfred)
 - Guitar Vis stuff (Frank & Sedlmair)
 - Comparisons redux
+- Part Whole
+- Bayesian stats for part whole
 
 Things I never followed through on
 
