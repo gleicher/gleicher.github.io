@@ -106,8 +106,8 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
-- RAL '22 (IROS '22): _Geometric Calibration of Single-Pixel Distance Sensors_ <span style="font-size:83%">w/ Sifferman and Gupta</span>
-- RSS '22: _Proxima: An Approach for Time or Accuracy Budgeted Collision Proximity Queries_ <span style="font-size:83%">w/Rakita and Mutlu</span>
-- TVCG '22: _embComp: Visual Interactive Comparison of Vector Embeddings_ <span style="font-size:83%"> w/Heimerl et al.</span>
-- Haptics '22: _Assessing the Perceived Realism of Kinesthetic Haptic Renderings Under Parameter Variations_ <span style="font-size:83%"> w/Zhang et al.</span>
-- Visual Informatics '22: _Trinary tools for continuously valued binary classifiers_ <span style="font-size:83%"> w/Yu and Chen</span>
+- Arxiv '24: [Enhancing Text Corpus Exploration with Post Hoc Explanations and Comparative Design](https://arxiv.org/abs/2406.09686) - This is the [AbstractsViewer](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/) paper (yes, you can try the [demo](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/)).
+- RAL '24 (ICRA '25): [Motion Comparator: Visual Comparison of Robot Motions](https://arxiv.org/abs/2407.02746) <span style="font-size:83%"> w/Wang, Pesekis and Jiang</span> - Visualization applied to robotics!
+- ICRA '24: IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations <span style="font-size:83%"> w/Wang and Sifferman</span>
+- CVPR '24: [Towards 3D Vision with Low-Cost Single-Photon Cameras](https://arxiv.org/abs/2403.17801) <span style="font-size:83%">w/ Mu, Sifferman, et al.</span>
+- RAL '23 (ICRA '24): [Unlocking the Performance of Proximity Sensors by Utilizing Transient Histograms](https://arxiv.org/abs/2308.13473) <span style="font-size:83%"> w/Sifferman, Wang and Gupta</span>
