@@ -20,6 +20,8 @@ There's also the general question of "I am interested in the topics you are inte
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
+**Update: July, 2024:** Added a note about personal projects.
+
 **Update: September, 2023:** Added some information on other ways to learn about the topics, which is particularly important given that I am on sabbatical.
 
 **Update: August, 2023:** I am on sabbatical for the 2023-2024 academic year. This means I have even less time than usual for working with undergraduates.
@@ -57,6 +59,8 @@ Research is about creating new things. How can you create new things if you don'
 An advantage to a "research project" is that it involves follow through: it isn't enough to just do something, you must understand it, document it, put it in the context of what else is known, make sure it is really correct, ... Projects done for others often have these properties.
 
 It is possible for undergrads to be involved in research, even without a lot of experience. The key word is "involved" - because **research is a team sport.** You may not have the experience to provide context - someone else can provide that; but that means you must have a different role on the team.
+
+Note: I generally cannot provide "consulting" for students' personal projects.
 
 ### Projects vs. Research
 
@@ -113,7 +117,7 @@ I supervise a decent number of undergraduate projects (some of which are legitim
 
 It is my job (as a Professor) to educate students - mentoring students doing projects is one way I do that.
 
-To be blunt, supervising undergrad projects isn't an efficient use of my time. I can lecture to an undergrad class and educate many students are a time (I've taught computer graphics to close to 200). So, if I am going to do it, I have to have some other incentive. Usually, this means that the project needs to be something I am interested in, and need some help getting done.
+To be blunt, supervising undergrad projects isn't an efficient use of my time. I can lecture to an undergrad class and educate many students are a time (I've taught computer graphics to over 200). So, if I am going to do it, I have to have some other incentive. Usually, this means that the project needs to be something I am interested in, and need some help getting done.
 
 Therefore, with a project, there is usually something you are already able to do that we build on.
 
