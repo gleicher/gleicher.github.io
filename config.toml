@@ -1,12 +1,12 @@
-baseURL = ""
+# baseURL = ""
 languageCode = "en-us"
 title = "Michael Gleicher's Web Page"
 
 theme = ["559Theme","mainroad"]
 paginate = 12
 
-relativeURLs = true
-canonifyURLs = true
+# relativeURLs = true
+# canonifyURLs = true
 enableGitInfo = true
 
 [[menu.main]]
