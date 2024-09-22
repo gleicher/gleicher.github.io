@@ -9,4 +9,5 @@ paperpage: https://graphics.cs.wisc.edu/Papers/2022/SMGG22/
 youtube: XInH1mUOb-g
 extvideos: ["Videos/Carter/Geometric%20Calibration%20of%20Single-Pixel%20Distance%20Sensors.mp4"]
 categories: ["video"]
+projectpage: https://cpsiff.github.io/geometric-calibration/
 ---

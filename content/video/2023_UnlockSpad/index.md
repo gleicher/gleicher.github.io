@@ -9,4 +9,5 @@ paperpage: https://graphics.cs.wisc.edu/Papers/2023/SWGG23/
 youtube: vJdfpmd6OE0
 extvideos: ["Videos/Carter/Unlocking%20the%20Performance%20of%20Proximity%20Sensors%20by%20Utilizing%20Transient%20Histograms.mp4"]
 categories: ["video"]
+projectpage: https://cpsiff.github.io/unlocking_proximity_sensors/
 ---

@@ -9,4 +9,5 @@ paperpage: https://graphics.cs.wisc.edu/Papers/2024/SSGG24/
 youtube: vtP5Ktp-oIo
 extvideos: ["Videos/Carter/Video%20Supplement_%20Using%20a%20Distance%20Sensor%20to%20Detect%20Deviations%20in%20a%20Planar%20Surface.mp4"]
 categories: ["video"]
+projectpage: https://cpsiff.github.io/using_a_distance_sensor/
 ---
