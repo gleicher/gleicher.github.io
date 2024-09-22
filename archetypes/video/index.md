@@ -6,6 +6,7 @@ vidauthor: "Authors with commas"
 duration: "5:58 sound"
 shortdesc: "Video accompanyment for the ICRA '23 paper"
 paperpage: link
+projectpage: link
 youtube: string
 extvideos: ["Videos/"]
 categories: ["video"]
