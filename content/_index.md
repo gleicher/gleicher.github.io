@@ -17,18 +17,14 @@ Madison, WI 53706
 
 **Office:** 6385 Computer Sciences
 
-**Office Hour:** None this year - I am on sabbatical.
+**Office Hour:** Wednesdays 2:30-3:30 (except 10/2 and 10/16)
 {{< /leftpic >}}
-
-**I am on sabbatical for the 2023-2024 academic year. I am generally around Madison, but am avoiding standard academic duties to focus on some projects.**
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** None this year - I am on sabbatical. Last year I taught
-[CS765 Data Visualization (Fall 22)](https://pages.graphics.cs.wisc.edu/765-22/) and
-[CS559 Computer Graphics (Spring 23)](https://pages.graphics.cs.wisc.edu/559-sp23/).
+**Teaching:** I am teaching [CS765 Data Visualization (Fall 24)](https://pages.graphics.cs.wisc.edu/765-24/). I also teach [CS559 Computer Graphics (Spring 23)](https://pages.graphics.cs.wisc.edu/559-sp23/).
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -59,48 +55,42 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 
 ## Teaching
 
-These are the main classes I teach. You can see more on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
+These are the main classes I teach. You can see more on the [Graphics Group Courses Page](https://www.cs.wisc.edu/graphics/Courses).
 
 - **CS765 Visualization:** This class is taught regularly. I taught it in
-[Fall 2022](https://uwgraphics.github.io/765-22/).
+[Fall 2022](https://pages.graphics.cs.wisc.edu/765-24/).
 In the past, I taught it
-[Fall 2021](https://uwgraphics.github.io/765-21/),
-[Fall 2020](https://graphics.cs.wisc.edu/Courses/765-f2020/),
-[Fall 2019](http://graphics.cs.wisc.edu/WP/vis19/),
-[Fall 2018](http://graphics.cs.wisc.edu/WP/vis18/),
-[Fall 2017](http://graphics.cs.wisc.edu/WP/vis17/),
+[Fall 2022](https://pages.graphics.cs.wisc.edu/765-22/)
+[Fall 2021](https://pages.graphics.cs.wisc.edu/765-21/),
+[Fall 2020](https://pages.graphics.cs.wisc.edu/765-20/),
+[Fall 2019](https://pages.graphics.cs.wisc.edu/765-f19/),
+[Fall 2018](https://pages.graphics.cs.wisc.edu/765-18/),
+[Fall 2017](https://pages.graphics.cs.wisc.edu/765-f17/),
+[Spring 2018](https://pages.graphics.cs.wisc.edu/765-sp17/)
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
 I taught this in [Spring 2023](https://pages.graphics.cs.wisc.edu/559-sp23/).
 I taught the class using the current design in [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/), [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
-and [Spring 2019](http://graphics.cs.wisc.edu/WP/cs559-sp2019).
-Previous offerings include
-[2015](http://graphics.cs.wisc.edu/WP/cs559-fall2015/),
-[2014](http://graphics.cs.wisc.edu/WP/cs559-fall2014/),
-[2010](http://graphics.cs.wisc.edu/Courses/559-f2010/),
-[2009](http://www.cs.wisc.edu/graphics/Courses/559-f2009),
-[2008](http://www.cs.wisc.edu/graphics/Courses/559-f2008),
-[2007](http://www.cs.wisc.edu/graphics/Courses/559-f2007),
-[2006](http://www.cs.wisc.edu/graphics/Courses/559-f2006),
-[2005](http://www.cs.wisc.edu/graphics/Courses/559-f2005), and others going back to
-[1999](https://research.cs.wisc.edu/graphics/Courses/638-f1999/index.htm).
+and [Spring 2019](https://graphics.cs.wisc.edu/WP/cs559-sp2019).
+There are lots of previous offereings going back to
+[1999](https://pages.graphics.cs.wisc.edu/559-f99/). (I've tried to recreate the web pages)
 
-Older classes that might not get taught again for a while:
+Older classes are so old they've been removed from the catalog!
 
-- **CS777: Computer Animation** is a graduate level CS class for people with some graphics background. This taught was taught regularly in the past ([2013](http://graphics.cs.wisc.edu/WP/animation13/),
-[2011](http://graphics.cs.wisc.edu/WP/animation11/),
-[2006](http://www.cs.wisc.edu/graphics/Courses/777-s2006),
-[2004](http://www.cs.wisc.edu/graphics/Courses/cs777-2004),
-[2003](http://www.cs.wisc.edu/graphics/Courses/cs777-2003)).
+- **CS777: Computer Animation** is a graduate level CS class for people with some graphics background. This taught was taught regularly in the past ([2013](https://pages.graphics.cs.wisc.edu/777-13/),
+[2011](https://graphics.cs.wisc.edu/WP/animation11/),
+[2006](https://www.cs.wisc.edu/graphics/Courses/777-s2006),
+[2004](https://www.cs.wisc.edu/graphics/Courses/cs777-2004),
+[2003](https://www.cs.wisc.edu/graphics/Courses/cs777-2003)).
 It kindof died off from lack of interest (student interest and my interest)
 - **CS679 Computer Games Technologies:** this class was popular, so I tried to teach it regularly for several years
-[2012](http://graphics.cs.wisc.edu/Courses/Games12/),
-[2011](http://graphics.cs.wisc.edu/WP/games11/),
-[2010](http://www.cs.wisc.edu/graphics/Courses/Games10/)).
-- **Advanced Graphics:** In the Spring of 2009, I taught an [Advanced Graphics](http://www.cs.wisc.edu/graphics/Courses/AdvancedGraphics09/) class.
+[2012](https://graphics.cs.wisc.edu/Courses/Games12/),
+[2011](https://graphics.cs.wisc.edu/WP/games11/),
+[2010](https://www.cs.wisc.edu/graphics/Courses/Games10/)).
+- **Advanced Graphics:** In the Spring of 2009, I taught an [Advanced Graphics](https://www.cs.wisc.edu/graphics/Courses/AdvancedGraphics09/) class.
 
-You can find other information on graphics group classes on the [Graphics Group Courses Page](http://www.cs.wisc.edu/graphics/Courses).
+You can find other information on graphics group classes on the [Graphics Group Courses Page](https://www.cs.wisc.edu/graphics/Courses).
 
 ## Selected Recent Publications
 
