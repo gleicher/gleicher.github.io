@@ -58,7 +58,7 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](https://www.cs.wisc.edu/graphics/Courses).
 
 - **CS765 Visualization:** This class is taught regularly. I taught it in
-[Fall 2022](https://pages.graphics.cs.wisc.edu/765-24/).
+[Fall 2024](https://pages.graphics.cs.wisc.edu/765-24/).
 In the past, I taught it
 [Fall 2022](https://pages.graphics.cs.wisc.edu/765-22/)
 [Fall 2021](https://pages.graphics.cs.wisc.edu/765-21/),
