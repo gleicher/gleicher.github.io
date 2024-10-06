@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Performance of Proximity Sensors by Utilizing Transient Histograms"
+title: "Towards 3D Vision with Low-Cost Single Photon Cameras"
 date: 2024-06-17T17:58:17-05:00
 draft: false
 vidauthor: "Fangzhou Mu, Carter Sifferman, Sacha Jungerman, Yiquan Li, Mark Han, Michael Gleicher, Mohit Gupta, Yin Li" 
