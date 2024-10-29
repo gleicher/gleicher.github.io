@@ -24,7 +24,9 @@ I am a professor working in areas related to Visual Computing. My research these
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** I am teaching [CS765 Data Visualization (Fall 24)](https://pages.graphics.cs.wisc.edu/765-24/). I also teach [CS559 Computer Graphics (Spring 23)](https://pages.graphics.cs.wisc.edu/559-sp23/).
+**Teaching:** I am teaching [CS765 Data Visualization (Fall 24)](https://pages.graphics.cs.wisc.edu/765-24/).
+
+In Spring 2025, I will teach an honors section of CS559 Computer Graphics. If you are interested see [this page]({{< relref "pages/559H-25-Announcement" >}})
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
