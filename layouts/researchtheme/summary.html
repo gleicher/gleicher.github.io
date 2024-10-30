@@ -3,6 +3,10 @@
     videoThumbSize ("180x120")
 
     taken from video ... but way simplified 
+
+    Note: we "plainify" the summary because starting in Hugo 134,
+    the summary is enclosed in a <p> tag, which we don't want.
+    */}}
 */}}
 <article class="list__item post">
 <!-- div for each video summary - a separate flexbox -->
@@ -21,7 +25,7 @@
     {{/* took out regular thumbnail */}}
     <div class="research__summarybody" style="width:300px; flex-grow:1">
        <div class="content list__excerpt post__content clearfix">
-            <a href="{{ $page.RelPermalink }}"><b> {{ .Title }}: </b></a> {{ .Summary }}
+            <a href="{{ $page.RelPermalink }}"><b> {{ .Title }}: </b></a> {{- .Summary | transform.Plainify -}}
         </div>
     </div><!-- research__summarybody -->
 </div>
