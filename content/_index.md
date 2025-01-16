@@ -24,7 +24,7 @@ I am a professor working in areas related to Visual Computing. My research these
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** I am teaching [CS765 Data Visualization (Fall 24)](https://pages.graphics.cs.wisc.edu/765-24/).
+**Teaching:** I am teaching [an Accelerated Honors section of Computer Graphics (CS559)](https://pages.graphics.cs.wisc.edu/559-sp25-honors/) and am supporting the [regular section](https://pages.graphics.cs.wisc.edu/559-sp25-regular/).
 
 In Spring 2025, I will teach an **accelerated honors** section of CS559 Computer Graphics. If you are interested see [this page]({{< relref "pages/559H-25-Announcement" >}})
 
@@ -72,8 +72,8 @@ In the past, I taught it
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
-I taught this in [Spring 2023](https://pages.graphics.cs.wisc.edu/559-sp23/).
-I taught the class using the current design in [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/), [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
+In Spring of 2025 I am teaching an [Accelerated Honors Section](https://pages.graphics.cs.wisc.edu/559-sp25-honors/), and supporting Dr. Young Wu who is teaching the [regular section](https://pages.graphics.cs.wisc.edu/559-sp25-regular/).
+I taught this in [Spring 2023](https://pages.graphics.cs.wisc.edu/559-sp23/),  [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/), [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 and [Spring 2019](https://graphics.cs.wisc.edu/WP/cs559-sp2019).
 There are lots of previous offereings going back to
 [1999](https://pages.graphics.cs.wisc.edu/559-f99/). (I've tried to recreate the web pages)
