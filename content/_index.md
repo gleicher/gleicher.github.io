@@ -17,7 +17,7 @@ Madison, WI 53706
 
 **Office:** 6385 Computer Sciences
 
-**Office Hour:** Wednesdays 2:30-3:30 (except 10/2 and 10/16)
+**Office Hour:** Wednesdays 2:30-3:30 (except 2/19)
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
@@ -25,8 +25,6 @@ I am a professor working in areas related to Visual Computing. My research these
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
 **Teaching:** I am teaching [an Accelerated Honors section of Computer Graphics (CS559)](https://pages.graphics.cs.wisc.edu/559-sp25-honors/) and am supporting the [regular section](https://pages.graphics.cs.wisc.edu/559-sp25-regular/).
-
-In Spring 2025, I will teach an **accelerated honors** section of CS559 Computer Graphics. If you are interested see [this page]({{< relref "pages/559H-25-Announcement" >}})
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -98,8 +96,15 @@ You can find other information on graphics group classes on the [Graphics Group 
 
 A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers/?author=Gleicher). Here are some selected recent ones:
 
-- Arxiv '24: [Enhancing Text Corpus Exploration with Post Hoc Explanations and Comparative Design](https://arxiv.org/abs/2406.09686) - This is the [AbstractsViewer](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/) paper (yes, you can try the [demo](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/)).
-- RAL '24 (ICRA '25): [Motion Comparator: Visual Comparison of Robot Motions](https://arxiv.org/abs/2407.02746) <span style="font-size:83%"> w/Wang, Pesekis and Jiang</span> - Visualization applied to robotics!
-- ICRA '24: IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations <span style="font-size:83%"> w/Wang and Sifferman</span>
-- CVPR '24: [Towards 3D Vision with Low-Cost Single-Photon Cameras](https://arxiv.org/abs/2403.17801) <span style="font-size:83%">w/ Mu, Sifferman, et al.</span>
-- RAL '23 (ICRA '24): [Unlocking the Performance of Proximity Sensors by Utilizing Transient Histograms](https://arxiv.org/abs/2308.13473) <span style="font-size:83%"> w/Sifferman, Wang and Gupta</span>
+#### Robotics/Sensing
+
+- RAL '24 (ICRA '25) [Using a Distance Sensor to Detect Deviations in a Planar Surface](https://graphics.cs.wisc.edu/Papers/2024/MSJLHGGL24/) {{<coauths "w/Sifferman, Sun and Gupta">}}
+- RAL '24 (ICRA '25): [Motion Comparator: Visual Comparison of Robot Motions](https://arxiv.org/abs/2407.02746) {{<coauths "w/Wang, Pesekis and Jiang">}} - Visualization applied to robotics!
+- ICRA '24: [IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations](https://graphics.cs.wisc.edu/Papers/2024/WSG24/) {{<coauths "w/Wang and Sifferman" >}}
+- CVPR '24: [Towards 3D Vision with Low-Cost Single-Photon Cameras](https://arxiv.org/abs/2403.17801) {{<coauths "w/ Mu, Sifferman, et al." >}}
+
+#### Visualization
+
+- Arxiv '25: [Augmenting a Large Language Model with a Combination of Text and Visual Data for Conversational Visualization of Global Geospatial Data](https://graphics.cs.wisc.edu/Papers/2025/MKBGVY25/) {{<coauths "w/Mena, Kouyoumdjian, Viola and Ynnerman">}}
+- TVCG '25 (Vis '24): [Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots](https://graphics.cs.wisc.edu/Papers/2025/BCGV25/) {{<coauths "w/ Baum, Chang, and bon Landesberger">}}
+- Arxiv '24: [Enhancing Text Corpus Exploration with Post Hoc Explanations and Comparative Design](https://arxiv.org/abs/2406.09686) {{<coauths "w/Bai and Leppanan">}} - This is the [AbstractsViewer](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/) paper (yes, you can try the [demo](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/)).

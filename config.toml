@@ -2,8 +2,7 @@
 languageCode = "en-us"
 title = "Michael Gleicher's Web Page"
 
-theme = ["559Theme","mainroad"]
-paginate = 12
+theme = ["559Theme","roadster"]
 
 # relativeURLs = true
 # canonifyURLs = true
@@ -49,12 +48,13 @@ customCss = ["css/home.scss"]
 assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
 top_pagination = true
 themestyle = "old"
+pagination.pagerSize = 12
 
 [Params.sidebar]
 home = "right"
 list = "right"
 single = "right"
-widgets = ["lunr","sections","links","categories","taglist"]
+widgets = ["lunr","sections","links","taglist"]
 
 [Params.logo]
 image = "/svg/crest.svg"
