@@ -8,7 +8,7 @@ tags: []
 
 There are two things here:
 
-1. To organize your thoughts and plan in a "document" - but have this document be a slide deck, rather than other kinds of document. I think this makes it easier to write it out, easier to use as a conversation tool, and easier to someone to check quickly.
+1. To organize your thoughts and plan in a "document" - but have this document be a slide deck, rather than another kind of document. I think this makes it easier to write it out, easier to use as a conversation tool, and easier to someone to check quickly.
 2. Provide an opportunity to talk through the plan in a structured way. Since goal #1 is so big, it's kindof a backwards talk (start with the slides)
 
 In this case, the slides are a separate goal - this is unnusual (usually, slides are there to support the speaker giving a presentation). The slides might even be the primary goal.
