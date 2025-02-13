@@ -1,10 +1,16 @@
 ---
-title: "Pre Paper Talks"
+title: "Pre-Paper Talks"
 date: 2025-02-12T10:57:03-06:00
 draft: false
 categories: []
 tags: []
 ---
+
+The idea is to recommend that we do a paper planning exercise early (rather than later) to map out the path to a paper. The idea is to use a "pre-paper talk" to force us to write down the plan in enough detail, to have a plan in written form for discussion, and to use an informal talk as a way to iterate on the plan.
+
+<!--more-->
+
+*This is a work in progress, we are experimenting.*
 
 There are two things here:
 
@@ -28,10 +34,12 @@ Slides you should have... These might seem redundant, but they ask you to look a
 7. **Related Work: Overview** - how do you plan to organize related work?
 8. **Related Work: Context** - what is similar? how will you differentiate it?This is a few key things. Often these are the ones that will make it into the intro.
 9. **Methods** or **Technical Description** - depending on the paper type, this is the "technical meat" of the paper. Outline what you expect to have.
-10. **Results** - what results do you intend to show, and how do you intend to show them.
+10. **Results** - what results do you intend to show, and how do you intend to show them. (this is an overlap with #4 - but it is more about the details of what you will present and how will you present it)
 11. **What could go wrong?** - what are the biggest risks you are aware of? (of course, the biggest risks you aren't aware of are scarier)
 12. **What critiques do you think reviewers might have?** - predict what "angry reviewer #2" will say.
 13. **What are the key diagrams and figures?** - thinking about "how will I tell the story visually to a reader who is skimming" is a good exercise. Also, identifying figures that might take a lot of effort and preparation is good.
+14. **what is your plan/schedule?** - spelling out milestones, specific outcomes on specific dates
+15. **overview of the paper** - this probably shouldn't be last, but... the above are a list of pieces, it really doesn't say what the "narrative flow" of the paper will be. I'm not sure how you capture this concisely as an outline (without it just becoming "Intro, Related Work, Methods, Results, Discussion")
 
 This is a case where bullet lists may be preferable to narrative prose. It should be quickly skimmable. Pictures are good. Even if it is sketches. "I expect to show a chart like this".
 
