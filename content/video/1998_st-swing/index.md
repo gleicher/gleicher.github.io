@@ -11,4 +11,6 @@ extvideos: ["Videos/1998_st-swing.avi","Videos/1998_st-swing-hb-from-avi.mp4"]
 youtube: T5o1P4RXzrQ
 ---
 
+This is my 1998 Electronic Theater Piece. Yes, I did a single author Electronic Theater piece.
+
 Sadly, all I can find is a low res version... Trying to get a higher res version from tape.
