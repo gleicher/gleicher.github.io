@@ -17,7 +17,7 @@ Madison, WI 53706
 
 **Office:** 6385 Computer Sciences
 
-**Office Hour:** Wednesdays 2:30-3:30 (except 2/19)
+**Office Hour:** by appointment (May-August 2025)
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
