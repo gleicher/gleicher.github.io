@@ -106,5 +106,5 @@ A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers
 #### Visualization
 
 - Arxiv '25: [Augmenting a Large Language Model with a Combination of Text and Visual Data for Conversational Visualization of Global Geospatial Data](https://graphics.cs.wisc.edu/Papers/2025/MKBGVY25/) {{<coauths "w/Mena, Kouyoumdjian, Viola and Ynnerman">}}
-- TVCG '25 (Vis '24): [Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots](https://graphics.cs.wisc.edu/Papers/2025/BCGV25/) {{<coauths "w/ Baum, Chang, and bon Landesberger">}}
+- TVCG '25 (Vis '24): [Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots](https://graphics.cs.wisc.edu/Papers/2025/BCGV25/) {{<coauths "w/ Baum, Chang, and von Landesberger">}}
 - Arxiv '24: [Enhancing Text Corpus Exploration with Post Hoc Explanations and Comparative Design](https://arxiv.org/abs/2406.09686) {{<coauths "w/Bai and Leppanan">}} - This is the [AbstractsViewer](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/) paper (yes, you can try the [demo](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/)).
