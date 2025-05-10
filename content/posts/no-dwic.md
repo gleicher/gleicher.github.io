@@ -4,19 +4,21 @@ date: 2020-12-28T15:06:50-06:00
 draft: false
 ---
 
-**I will not provide reference letters for students that I know only through a class (as a student).**
+**I will not provide reference letters for students that I know only through a (regular) class (as a student).**
 
 I get many requests from students from my classes to provide reference (recommendation) letters for graduate school applications. I will not provide these letters.
 
 I will provide letters for students that I get to know outside of regular classes. For example, if you are involved in a directed study project or work with me as a peer mentor for a class (that's why it says "as a student").
 
-In the past I offered to provide a generic "Did well in class letter". I will not do this anymore (for reasons described below). **I will not provide reference letters for students that I know only through a class (as a student).** It is unfair for me to write letters for just some of the students in class (see below), so I need to have this as a blanket policy.
+In the past I offered to provide a generic "Did well in class letter". I will not do this anymore (for reasons described below). **I will not provide reference letters for students that I know only through a (regular) class (as a student).** It is unfair for me to write letters for just some of the students in class (see below), so I need to have this as a blanket policy.
 
 Included in this: I will not provide reference letters for admissions into the CS 2nd Masters program for students who only know me through a class. The reasons are slightly different, although the fairness arguments below do apply. With this, since I know the committee, I know that they are looking for evidence beyond just "student can get a decent grade in the class."
 
 Yes, I know this is a problem for many of our students: you only meet professors in large classes, and you want a professor to write a letter for you. See {{% link "undergrad-research" %}} for some thoughts on this.
 
 Granting exceptions to this rule would be unfair to all those people who read and follow the rules. Giving one person an exception would be rewarding them (for breaking rules), while penalizing the people who do the right things.
+
+Two modifications: (1) the rule is for students in regular classes (the big classes where I really don't get to know students), not for directed study or accelerated honors (small section) students; the rule is for students in class, so it doesn't apply for peer mentors. If you are in an honors section, did honors work (either a project or green sheet), did a directed study, were a peer mentor or TA, etc. you can ask.
 
 #### Rationale - Why I stopped providing DWIC letters
 
