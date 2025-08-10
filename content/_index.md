@@ -15,16 +15,16 @@ University of Wisconsin, Madison
 Madison, WI 53706  
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office:** 6385 Computer Sciences
+**Office:** 6588 Mortgridge Hall (the new CS building!)
 
-**Office Hour:** by appointment (May-August 2025)
+**Office Hour:** Fall 2025: Wednesday 2-3pm
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** I am not teaching this summer. In the fall, I will each [CS765 Data Visualization](https://pages.graphics.cs.wisc.edu/765-25/)
+**Teaching:** [CS765 Data Visualization (Fall 2025)](https://pages.graphics.cs.wisc.edu/765-25/)
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
