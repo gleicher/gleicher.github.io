@@ -17,7 +17,7 @@ Madison, WI 53706
 
 **Office:** 6588 Mortgridge Hall (the new CS building!)
 
-**Office Hour:** Fall 2025: Wednesday 2-3pm
+**Office Hour:** Fall 2025: Wednesday 2-3pm (**except Nov 5**)
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
