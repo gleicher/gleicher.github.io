@@ -11,8 +11,8 @@ noheader: true
 Professor  
 Department of Computer Sciences  
 University of Wisconsin, Madison  
-1210 West Dayton St.  
-Madison, WI 53706  
+1205 University Ave  
+Madison, WI 53706, USA
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
 **Office:** 6588 Mortgridge Hall (the new CS building!)
