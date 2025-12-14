@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mike Gleicher's Home Page on Michael Gleicher's Web Page</title><link>https://gleicher.sites.cs.wisc.edu/</link><description>Recent content in Mike Gleicher's Home Page on Michael Gleicher's Web Page</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gleicher.sites.cs.wisc.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Arxiv Test</title><link>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</link><pubDate>Wed, 12 Feb 2025 12:47:03 -0600</pubDate><guid>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</guid><description>&lt;style type="text/css">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mike Gleicher's Home Page on Michael Gleicher's Web Page</title><link>https://gleicher.sites.cs.wisc.edu/</link><description>Recent content in Mike Gleicher's Home Page on Michael Gleicher's Web Page</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gleicher.sites.cs.wisc.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>3D Reconstruction Using Only 15 Pixels</title><link>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</link><pubDate>Sun, 30 Nov 2025 17:58:17 -0500</pubDate><guid>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</guid><description/></item><item><title>Arxiv Test</title><link>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</link><pubDate>Wed, 12 Feb 2025 12:47:03 -0600</pubDate><guid>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</guid><description>&lt;style type="text/css">
 div.arxivfeed {margin-bottom: 5px; width:700px;}
 &lt;/style>
 &lt;div id="arxivfeed" width=600>
@@ -214,6 +214,7 @@ onWindowOnload(function() {
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/qual2013-rtr/">2013 Qual: Real-Time Rendering &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/">2013 Graphics Qual&lt;/a> &lt;/li>
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/qual2013-surfaceparam/">2013 Qual: Surface Parameterization &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/">2013 Graphics Qual&lt;/a> &lt;/li>
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/qual2013-texts/">2013 Qual: Textbooks &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/graveyard/qual2013/">2013 Graphics Qual&lt;/a> &lt;/li>
+ &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/">3D Reconstruction Using Only 15 Pixels &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/">Graphics Group Videos&lt;/a> &lt;/li>
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/559h-25-announcement/">559 Accelerated Honors Spring 2025 Announcement &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/pages/">Pages&lt;/a> &lt;/li>
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/talks/2009_12_hackerwith/">A Conversation About Visualization &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/talks/">Mike Gleicher&amp;#39;s Talks&lt;/a> &lt;/li>
  &lt;li> &lt;a href="https://gleicher.sites.cs.wisc.edu/video/1994_thesis/">A Differential Approach to Graphical Manipulation &lt;/a> in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/">Graphics Group Videos&lt;/a> &lt;/li>
@@ -393,6 +394,7 @@ onWindowOnload(function() {
 &lt;/ul>
 &lt;h3>Tag and Category Pages&lt;/h3>
 &lt;ul>
+ 
  
  
  
