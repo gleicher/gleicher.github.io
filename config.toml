@@ -54,7 +54,7 @@ pagination.pagerSize = 12
 home = "right"
 list = "right"
 single = "right"
-widgets = ["lunr","sections","links","taglist"]
+widgets = ["lunr","sectionlinks","links","taglist"]
 
 [Params.logo]
 image = "/svg/crest.svg"
