@@ -9,6 +9,7 @@ noheader: true
 ## Michael Gleicher
 
 Professor  
+Associate Chair for Undergraduate Programs  
 Department of Computer Sciences  
 University of Wisconsin, Madison  
 1205 University Ave  
@@ -17,14 +18,14 @@ Madison, WI 53706, USA
 
 **Office:** 6588 Mortgridge Hall (the new CS building!)
 
-**Office Hour:** Fall 2025: Wednesday 2-3pm (**except Nov 5**)
+**Office Hour:** Spring 2026: Wednesday 2-3pm (**except Feb 18**)
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** [CS765 Data Visualization (Fall 2025)](https://pages.graphics.cs.wisc.edu/765-25/)
+**Teaching:** [CS559 Spring 2026](https://pages.graphics.cs.wisc.edu/559-sp26/)
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -58,9 +59,10 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 These are the main classes I teach. You can see more on the [Graphics Group Courses Page](https://www.cs.wisc.edu/graphics/Courses).
 
 - **CS765 Visualization:** This class is taught regularly. I taught it in
-[Fall 2024](https://pages.graphics.cs.wisc.edu/765-24/).
+[Fall 2025)](https://pages.graphics.cs.wisc.edu/765-25/).
 In the past, I taught it
-[Fall 2022](https://pages.graphics.cs.wisc.edu/765-22/)
+[Fall 2024](https://pages.graphics.cs.wisc.edu/765-24/),
+[Fall 2022](https://pages.graphics.cs.wisc.edu/765-22/),
 [Fall 2021](https://pages.graphics.cs.wisc.edu/765-21/),
 [Fall 2020](https://pages.graphics.cs.wisc.edu/765-20/),
 [Fall 2019](https://pages.graphics.cs.wisc.edu/765-f19/),
