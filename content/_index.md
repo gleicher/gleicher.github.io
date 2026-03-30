@@ -4,7 +4,7 @@ draft: false
 noheader: true
 ---
 
-{{< leftpic asset="pics/2015_headshot_square.jpg" width=300 topmargin=0 >}}
+{{< leftpic asset="pics/headshot26-square3.jpg" alt="Headshot of Prof. Michael Gleicher" width=300 topmargin=0 >}}
 
 ## Michael Gleicher
 
