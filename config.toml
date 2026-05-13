@@ -1,5 +1,5 @@
 # baseURL = ""
-languageCode = "en-us"
+locale = "en-us"
 title = "Michael Gleicher's Web Page"
 
 theme = ["559Theme","roadster"]
@@ -44,7 +44,7 @@ mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
 # subtitle = "Michael Gleicher's Web Page"
-customCss = ["css/home.scss"]
+customCss = ["css/home.scss","css/tooltip.scss"]
 assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
 top_pagination = true
 themestyle = "old"

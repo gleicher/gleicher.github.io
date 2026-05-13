@@ -8,7 +8,7 @@ noheader: true
 
 ## Michael Gleicher
 
-Professor  
+David DeWitt Professor  
 Associate Chair for Undergraduate Programs  
 Department of Computer Sciences  
 University of Wisconsin, Madison  
@@ -18,10 +18,12 @@ Madison, WI 53706, USA
 
 **Office:** 6588 Mortgridge Hall (the new CS building!)
 
-**Office Hour:** Spring 2026: Wednesday 2-3pm (**except Feb 18**)
+**Office Hour:** Summer 2026 - by appointment only
 {{< /leftpic >}}
 
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
+
+I have been recognized as the David DeWitt Professor of Computer Sciences, an ACM Fellow, a member of the IEEE Visualization Academy, and an IEEE Senior Member. I also hold a concurrent position as an {{<tooltip element="Amazon Design Scholar">}}Whenever I mention that, I am supposed to say "This work is not connected to Amazon.com".{{</tooltip>}}.
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
