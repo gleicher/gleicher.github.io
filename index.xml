@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mike Gleicher's Home Page on Michael Gleicher's Web Page</title><link>https://gleicher.sites.cs.wisc.edu/</link><description>Recent content in Mike Gleicher's Home Page on Michael Gleicher's Web Page</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gleicher.sites.cs.wisc.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>3D Reconstruction Using Only 15 Pixels</title><link>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</link><pubDate>Sun, 30 Nov 2025 17:58:17 -0500</pubDate><guid>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</guid><description/></item><item><title>Arxiv Test</title><link>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</link><pubDate>Wed, 12 Feb 2025 12:47:03 -0600</pubDate><guid>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</guid><description>&lt;style type="text/css"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mike Gleicher's Home Page on Michael Gleicher's Web Page</title><link>https://gleicher.sites.cs.wisc.edu/</link><description>Recent content in Mike Gleicher's Home Page on Michael Gleicher's Web Page</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gleicher.sites.cs.wisc.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Make the Unhearable Visible: Exploring Visualization for Musical Instrument Practice</title><link>https://gleicher.sites.cs.wisc.edu/video/2026_guitar/</link><pubDate>Fri, 30 Jan 2026 17:58:17 -0500</pubDate><guid>https://gleicher.sites.cs.wisc.edu/video/2026_guitar/</guid><description/></item><item><title>3D Reconstruction Using Only 15 Pixels</title><link>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</link><pubDate>Sun, 30 Nov 2025 17:58:17 -0500</pubDate><guid>https://gleicher.sites.cs.wisc.edu/video/2025_fewpixel/</guid><description/></item><item><title>Arxiv Test</title><link>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</link><pubDate>Wed, 12 Feb 2025 12:47:03 -0600</pubDate><guid>https://gleicher.sites.cs.wisc.edu/pages/arxiv-test/</guid><description>&lt;style type="text/css"&gt;
 div.arxivfeed {margin-bottom: 5px; width:700px;}
 &lt;/style&gt;
 &lt;div id="arxivfeed" width=600&gt;
@@ -293,6 +293,7 @@ onWindowOnload(function() {
  &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/video/2003_magicboard1/"&gt;Magic Boards (1) &lt;/a&gt; in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/"&gt;Graphics Group Videos&lt;/a&gt; &lt;/li&gt;
  &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/video/2003_magicboard2/"&gt;Magic Boards (2) &lt;/a&gt; in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/"&gt;Graphics Group Videos&lt;/a&gt; &lt;/li&gt;
  &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/video/2003_magicboard3/"&gt;Magic Boards (3) &lt;/a&gt; in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/"&gt;Graphics Group Videos&lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/video/2026_guitar/"&gt;Make the Unhearable Visible: Exploring Visualization for Musical Instrument Practice &lt;/a&gt; in &lt;a href="https://gleicher.sites.cs.wisc.edu/video/"&gt;Graphics Group Videos&lt;/a&gt; &lt;/li&gt;
  
  &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/"&gt;Mike Gleicher&amp;#39;s Home Page &lt;/a&gt;&lt;/li&gt;
  &lt;li&gt; &lt;a href="https://gleicher.sites.cs.wisc.edu/talks/"&gt;Mike Gleicher&amp;#39;s Talks &lt;/a&gt; in &lt;a href="https://gleicher.sites.cs.wisc.edu/"&gt;Mike Gleicher&amp;#39;s Home Page&lt;/a&gt; &lt;/li&gt;
@@ -394,6 +395,7 @@ onWindowOnload(function() {
 &lt;/ul&gt;
 &lt;h3&gt;Tag and Category Pages&lt;/h3&gt;
 &lt;ul&gt;
+ 
  
  
  
