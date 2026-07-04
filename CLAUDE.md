@@ -14,15 +14,13 @@ Keep the local Hugo version and the CI version in sync. When the local Hugo vers
 # Local development
 hugo server
 
-# Build for deployment (Linux/macOS)
-./deploy
-# which runs: hugo -d ~/public/html-s --baseURL https://pages.cs.wisc.edu/~gleicher/
-
 # Update theme submodules
 ./pullall.bat  # or manually: git submodule foreach --recursive git pull
 ```
 
-CI (GitHub Actions) builds on master push and deploys to `gleicher/gleicher.github.io`.
+Deployment is handled entirely by CI — there is no local deploy step. On push to
+master, GitHub Actions builds the site and publishes it to `gleicher/gleicher.github.io`,
+which is served (via a custom domain) at <https://gleicher.sites.cs.wisc.edu/>.
 
 ## Architecture
 
