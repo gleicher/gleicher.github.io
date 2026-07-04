@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Academic personal website for Professor Michael Gleicher (UW-Madison CS). Built with Hugo (extended).
 
-Keep the local Hugo version and the CI version in sync. When the local Hugo version changes, update `hugo-version` in `.github/workflows/gh-pages.yml` to match (check local with `hugo version`) rather than pinning a specific version here. As of this writing both are on `0.163.3`.
+Keep the local Hugo version and the CI version in sync. When the local Hugo version changes, update the `HUGO_VERSION` env var in `.github/workflows/hugo.yml` to match (check local with `hugo version`) rather than pinning a specific version here. As of this writing both are on `0.163.3`.
 
 ## Build & Deploy Commands
 
@@ -18,9 +18,11 @@ hugo server
 ./pullall.bat  # or manually: git submodule foreach --recursive git pull
 ```
 
-Deployment is handled entirely by CI — there is no local deploy step. On push to
-master, GitHub Actions builds the site and publishes it to `gleicher/gleicher.github.io`,
-which is served (via a custom domain) at <https://gleicher.sites.cs.wisc.edu/>.
+Deployment is handled entirely by CI — there is no local deploy step. This repo
+(`gleicher/gleicher.github.io`) is both the Hugo source and the published site: on
+push to `main`, the `.github/workflows/hugo.yml` GitHub Actions workflow builds the
+site and deploys it to GitHub Pages (artifact-based deploy — no `gh-pages` branch).
+It is served, via a custom domain, at <https://gleicher.sites.cs.wisc.edu/>.
 
 ## Architecture
 
