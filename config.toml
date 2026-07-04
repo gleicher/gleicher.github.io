@@ -64,3 +64,9 @@ home = [ "HTML", "RSS", "JSON"]
 
 [markup.goldmark.renderer]
 unsafe= true
+
+# Hugo >= 0.162 (CVE-2026-50133 fix) blocks text/html content files by default.
+# content/ (site + themes) uses only Markdown and hand-authored HTML pages
+# (e.g. content/Papers/index.html, themes/559Theme/content/lunr-search.html).
+[security]
+allowContent = ["^text/markdown$", "^text/html$"]

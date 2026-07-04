@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Site Overview
 
-Academic personal website for Professor Michael Gleicher (UW-Madison CS). Built with Hugo (extended, v0.153.2 required).
+Academic personal website for Professor Michael Gleicher (UW-Madison CS). Built with Hugo (extended).
+
+Keep the local Hugo version and the CI version in sync. When the local Hugo version changes, update `hugo-version` in `.github/workflows/gh-pages.yml` to match (check local with `hugo version`) rather than pinning a specific version here. As of this writing both are on `0.163.3`.
 
 ## Build & Deploy Commands
 
