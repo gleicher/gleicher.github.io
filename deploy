@@ -1,1 +1,0 @@
-../hugo -d ~/public/html-s --baseURL https://pages.cs.wisc.edu/~gleicher/
