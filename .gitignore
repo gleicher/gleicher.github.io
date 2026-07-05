@@ -10,3 +10,4 @@ layouts/shortcodes/test.html
 public/
 .hugo_build.lock
 hugo131
+tmp/

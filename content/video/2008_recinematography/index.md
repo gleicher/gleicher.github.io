@@ -3,7 +3,6 @@ title: "Re-Cinematography (2007)"
 date: 2007-10-01
 draft: false
 vidauthor: "Feng Liu and Michael Gleicher"
-projectpage: URL_HERE
 duration: "8:48 sound"
 shortdesc: "Demonstrations of the Re-Cinematography video stabilization approach, published at ACM MultiMedia 2007 and TOMCCAP 2008"
 categories: ["video"]

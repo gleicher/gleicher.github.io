@@ -23,19 +23,19 @@ enableGitInfo = true
 [[menu.main]]
     identifier = "Talks"
     name = "Talks"
-    url = "/talks"
+    url = "/talks/"
     weight = 100
 
 [[menu.main]]
     identifier = "Videos"
     name = "Videos"
-    url = "/video"
+    url = "/video/"
     weight = 110
 
 [[menu.main]]
     identifier = "Advice"
     name = "Advice"
-    url = "/pages/advice"
+    url = "/pages/advice/"
     weight = 150
 
 [Params]

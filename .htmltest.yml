@@ -1,0 +1,12 @@
+# htmltest — validates the built site's internal integrity.
+# Run against a build made with a root ("/") base URL: hugo --baseURL /
+DirectoryPath: public
+CheckExternal: false           # internal only: fast, offline, no flaky external URLs
+CheckInternal: true
+CheckInternalHash: true        # validate in-page #anchors
+CheckImages: true
+IgnoreAltMissing: true         # theme logos etc. often lack alt; not a broken link
+IgnoreInternalEmptyHash: true
+IgnoreDirs:
+  - "pages/graveyard"          # retired/archived pages — not maintained, don't check
+
