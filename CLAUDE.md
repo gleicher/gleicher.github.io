@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Academic personal website for Professor Michael Gleicher (UW-Madison CS). Built with Hugo (extended).
 
-Keep the local Hugo version and the CI version in sync. When the local Hugo version changes, update the `HUGO_VERSION` env var in `.github/workflows/hugo.yml` to match (check local with `hugo version`) rather than pinning a specific version here. As of this writing both are on `0.163.3`.
+Keep the local Hugo version and the CI version in sync. When the local Hugo version changes, update the `HUGO_VERSION` env var in `.github/workflows/hugo.yml` to match (check local with `hugo version`) rather than pinning a specific version here. As of this writing both are on `0.164.0`.
 
 ## Build & Deploy Commands
 
