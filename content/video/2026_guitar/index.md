@@ -4,7 +4,7 @@ date: 2026-01-30T17:58:17-05:00
 draft: false
 vidauthor: "Frank Heyen, Michael Gleicher and Michael Sedlmair" 
 duration: "5:20 sound"
-shortdesc: "Video Accompaniment for TVCG Papaer"
+shortdesc: "Video Accompaniment for TVCG Paper"
 paperpage: https://graphics.cs.wisc.edu/Papers/2026/HGS26/
 youtube: qMQjerAGw9Y
 categories: ["video"]

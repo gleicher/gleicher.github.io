@@ -50,7 +50,7 @@ The projects list was more than slightly out of date. I need to revitalize it. B
 {{< summary "researchtheme/CommMotion" >}}
 {{< summary "researchtheme/interactlearn" >}}
 {{< summary "researchtheme/visualcomp" >}}
-{{< summary "researchtheme/usablevr" >}}
+{{< summary "researchtheme/usablearvr" >}}
 <!-- {{< summary "researchtheme/commchar" >}} -->
 {{< summary "researchtheme/perceptprinc" >}}
 <!-- {{< summary "researchtheme/vep" >}} -->
