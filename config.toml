@@ -2,7 +2,7 @@
 locale = "en-us"
 title = "Michael Gleicher's Web Page"
 
-theme = ["559Theme","roadster"]
+theme = ["559Theme"]
 
 # relativeURLs = true
 # canonifyURLs = true
