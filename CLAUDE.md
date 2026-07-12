@@ -28,9 +28,9 @@ It is served, via a custom domain, at <https://gleicher.sites.cs.wisc.edu/>.
 
 ### Themes
 
-Two stacked themes (both git submodules):
-- `559Theme` (primary) — CS559 course theme, used for most styling
-- `roadster` (fallback)
+One theme (git submodule): `559Theme` — CS559 course theme, used for
+most styling. It absorbed the former `roadster` fallback theme in
+2026's theme unification project (see the workspace-level `PLAN.md`).
 
 Custom overrides live in `layouts/` and `assets/css/`.
 
