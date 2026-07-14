@@ -34,6 +34,20 @@ most styling. It absorbed the former `roadster` fallback theme in
 
 Custom overrides live in `layouts/` and `assets/css/`.
 
+**Bumping the theme:** the submodule tracks the theme's `unify` branch via a
+local git remote (`local-unify`, since that branch isn't pushed to GitHub
+yet). To pick up a theme change:
+
+```bash
+cd themes/559Theme
+git checkout -q -- . && git clean -fdq   # discard any local test edits
+git fetch -q local-unify unify && git checkout -q FETCH_HEAD
+cd ../.. && git add themes/559Theme && git commit -m "bump theme"
+```
+
+Always rebuild and diff against a `tools/baseline.sh` snapshot before
+committing a bump (see `tools/compare.sh`).
+
 ### Content Structure
 
 - `content/talks/` — 60+ talk entries dating back to 1997
@@ -47,12 +61,14 @@ Custom overrides live in `layouts/` and `assets/css/`.
 
 Large files (PDFs, images) are stored externally at `https://graphics.cs.wisc.edu/GleicherAssets/`. The `fixer.py` script manages moving PDFs from content dirs to this external store with naming convention `year_month_filename`.
 
-### Key Configuration (config.toml)
+### Key Configuration (hugo.toml)
 
-- `themestyle = "old"` — Legacy theme styling variant
+- `params.style.preset = "mainroad-sans"` — the theme's non-course-web style
+  preset (Open Sans, black normal-case headings, charcoal menu); the other
+  preset (`uw-serif`) is what the course sites use
 - `unsafe = true` in Goldmark — allows raw HTML in markdown
 - Main sections: `["main"]`
-- Sidebar widgets: lunr search, sectionlinks, links, taglist
+- Sidebar widgets: search, sectionlinks, links, taglist
 - Outputs include HTML, RSS, and JSON
 
 ### Custom Shortcodes

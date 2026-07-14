@@ -1,11 +1,8 @@
-# baseURL = ""
 locale = "en-us"
 title = "Michael Gleicher's Web Page"
 
 theme = ["559Theme"]
 
-# relativeURLs = true
-# canonifyURLs = true
 enableGitInfo = true
 
 [[menu.main]]
@@ -38,25 +35,26 @@ enableGitInfo = true
     url = "/pages/advice/"
     weight = 150
 
-[Params]
+[params]
 post_meta = ["date","taglist","categories"]
 mainSections = ["main"]
 dateformat = "January, 2006"
 copyright = "Michael Gleicher"
-# subtitle = "Michael Gleicher's Web Page"
 customCss = ["css/home.scss","css/tooltip.scss"]
 assetStore = "https://graphics.cs.wisc.edu/GleicherAssets/"
 top_pagination = true
-themestyle = "old"
 pagination.pagerSize = 12
 
-[Params.sidebar]
+[params.style]
+preset = "mainroad-sans"
+
+[params.sidebar]
 home = "right"
 list = "right"
 single = "right"
-widgets = ["lunr","sectionlinks","links","taglist"]
+widgets = ["search","sectionlinks","links","taglist"]
 
-[Params.logo]
+[params.logo]
 image = "/svg/crest.svg"
 
 [outputs]
@@ -67,6 +65,6 @@ unsafe= true
 
 # Hugo >= 0.162 (CVE-2026-50133 fix) blocks text/html content files by default.
 # content/ (site + themes) uses only Markdown and hand-authored HTML pages
-# (e.g. content/Papers/index.html, themes/559Theme/content/lunr-search.html).
+# (e.g. content/Papers/index.html, themes/559Theme/content/search.html).
 [security]
 allowContent = ["^text/markdown$", "^text/html$"]
