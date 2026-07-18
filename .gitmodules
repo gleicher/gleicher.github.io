@@ -1,3 +1,4 @@
 [submodule "themes/559Theme"]
 	path = themes/559Theme
 	url = git@github.com:CS559/559Theme.git
+	branch = master
