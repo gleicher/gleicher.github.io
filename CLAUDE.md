@@ -30,23 +30,28 @@ It is served, via a custom domain, at <https://gleicher.sites.cs.wisc.edu/>.
 
 One theme (git submodule): `559Theme` — CS559 course theme, used for
 most styling. It absorbed the former `roadster` fallback theme in
-2026's theme unification project (see the workspace-level `PLAN.md`).
+2026's theme unification project (canonical record:
+`themes/559Theme/THEME-PLAN.md`'s Execution log; the workspace-level
+`PLAN.md` is a frozen historical snapshot, not maintained).
 
 Custom overrides live in `layouts/` and `assets/css/`.
 
-**Bumping the theme:** the submodule tracks the theme's `unify` branch via a
-local git remote (`local-unify`, since that branch isn't pushed to GitHub
-yet). To pick up a theme change:
+**Bumping the theme:** the submodule tracks `origin` (`github.com/CS559/559Theme`)
+directly — pushed and public, no local-only remote involved. To pick up a
+theme change:
 
 ```bash
 cd themes/559Theme
 git checkout -q -- . && git clean -fdq   # discard any local test edits
-git fetch -q local-unify unify && git checkout -q FETCH_HEAD
+git fetch origin && git checkout origin/master
 cd ../.. && git add themes/559Theme && git commit -m "bump theme"
 ```
 
 Always rebuild and diff against a `tools/baseline.sh` snapshot before
-committing a bump (see `tools/compare.sh`).
+committing a bump (see `tools/compare.sh`), and follow
+`themes/559Theme/docs/upgrading.md`'s routine-bump procedure — it covers the
+pre-flight checks, the golden-master diff loop, and the changelog of
+breaking changes to watch for.
 
 ### Content Structure
 

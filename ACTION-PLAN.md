@@ -22,7 +22,21 @@ Independent of any theme decision; worth doing even if nothing else happens.
 4. Refresh the homepage "Selected Recent Publications" list.
 5. Compress the oversized images (3.5MB Teaser-01.jpg, 2.5MB study-design.png, 2.3MB relaxedIK.PNG, 1.7MB abstractsViewerStill.png, 1.4MB vr-teaser.jpg → target <300KB each; consider Hugo's image processing for thumbnails so originals stop shipping).
 
-## Phase 2 — Structural consolidation (2–4 focused days; the core recommendation)
+## Phase 2 — Structural consolidation — DONE, via a different path than proposed below
+
+> **Update (2026-07-15):** this phase happened, but not the way items 1–4
+> below describe. Instead of this site forking/owning its own copy of the
+> theme, the **shared 559Theme absorbed roadster once, for all four
+> consumer sites** (a cross-repo "theme unification" project — canonical
+> record: `themes/559Theme/THEME-PLAN.md`). This site still tracks the
+> shared theme, it just no longer needs a second `roadster` submodule to do
+> it, and `themestyle` became `params.style.preset = "mainroad-sans"` (this
+> site's look, preserved byte-for-byte — see the preset's doc comments).
+> Item 5 (Lunr) is also done, differently: Lunr was replaced entirely by a
+> vendored, no-CDN MiniSearch (`docs/search.md` in the theme). The list
+> below is kept for the *reasoning* (still valid explanation of the original
+> problem) — don't treat it as a live task list; see Phase 3 below for
+> what's actually still open on this site.
 
 Goal: one theme, one template generation, one CSS bundle. Do this *before* the visual refresh so styling changes are cheap.
 

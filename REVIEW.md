@@ -79,6 +79,17 @@ Low-velocity-safe, refactor-hostile. Content edits: fine indefinitely. Styling o
 
 ## Part 3: Options (cleanup → restart)
 
+> **Update (2026-07-15): Option B happened, but as a shared-theme
+> unification across all four Gleicher/CS559 Hugo sites, not a local
+> fork of 559Theme for this site alone.** Roadster is gone, the CSS is one
+> SASS pipeline with style presets, and this site's look is preserved as the
+> `mainroad-sans` preset. See `ACTION-PLAN.md`'s Phase 2 update and
+> `themes/559Theme/THEME-PLAN.md` for what actually happened. Options A/C
+> below are now moot in the "which structural path" sense; Option B's Part 3
+> framing (comparing restart-cost vs. consolidation-cost) is still accurate
+> reasoning if a *visual* restart is ever reconsidered — the structural risk
+> it warned about is resolved either way.
+
 **Option A — Fix and freeze.** Fix the bugs and stale content, touch nothing structural. Days of effort, but every future styling change stays expensive and the Hugo back-compat risk remains.
 
 **Option B — Consolidate into one local theme, then refresh visuals. (Recommended.)** Vendor the ~6 roadster files 559Theme lacks into local `layouts/`/`assets/`, drop the roadster submodule; prune or locally fork 559Theme (delete ~35 unused shortcodes, course templates, html-hint); migrate to the modern template layout and `hugo.toml`; unify the CSS into one SCSS bundle with the `themestyle` branch resolved. *Then* do the visual refresh (type scale, homepage restructure, color discipline) on a codebase where CSS changes are cheap. This removes every structural risk while preserving all templates/content that work. Roughly 2–4 focused days for consolidation, plus design time.
