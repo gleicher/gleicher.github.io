@@ -10,11 +10,44 @@
          </header>
         {{/* videos do not get "thumbnails" (we always use the images), or toc */}}
         <div class="content post__content clearfix">
-            {{/* put all of the pictures */}}
-            {{ with .Page.Resources.ByType "image" }}
-                {{ range . }}
-                        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
-                {{ end }}
+            {{/* All page images, sized to the content column and linked to the
+                 original. This used to emit the raw .RelPermalink, i.e. the
+                 full-resolution file scaled down by CSS — commchar's teaser
+                 alone made that page a 3.5MB download.
+
+                 Same contract as the theme's rimage shortcode: never upscale,
+                 and link to the original only when a smaller copy was actually
+                 produced (so the link is a real "see it bigger", never a
+                 no-op self-link). The logic is mirrored rather than reused
+                 because a shortcode cannot be called from a template.
+
+                 SVGs are vector — never resized. The nested `if` matters:
+                 Go templates evaluate every argument of `and`, so a combined
+                 condition would still touch .Width on an SVG, which has none.
+
+                 Fewer pixels does not guarantee fewer bytes: Hugo re-encodes,
+                 and on an already-optimised PNG the downscaled copy can be
+                 LARGER than the original (measured here — a 969px PNG at
+                 68,378 bytes became 71,423 bytes at 800px). So the resized
+                 copy is only used when it actually wins, which makes this
+                 strictly never-worse than shipping the original. */}}
+            {{- $colw := int (.Site.Params.imageColumnWidth | default 800) -}}
+            {{- range .Page.Resources.ByType "image" -}}
+                {{- $orig := . -}}
+                {{- $src := . -}}
+                {{- $isSvg := hasSuffix (lower .Name) ".svg" -}}
+                {{- if not $isSvg -}}
+                    {{- if lt $colw $orig.Width -}}
+                        {{- $fit := .Fit (printf "%dx5000" $colw) -}}
+                        {{- if lt (len $fit.Content) (len $orig.Content) -}}
+                            {{- $src = $fit -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+                {{- $reduced := ne $src.RelPermalink $orig.RelPermalink }}
+                {{ if $reduced }}<a href="{{ $orig.RelPermalink }}">{{ end }}
+                        <img src="{{ $src.RelPermalink }}" alt="{{ $orig.Title }}" />
+                {{- if $reduced }}</a>{{ end }}
             {{ end }}
             {{ .Content }}
             {{ if .Params.youtube }}

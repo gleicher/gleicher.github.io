@@ -10,4 +10,4 @@ Making good educational media is hard: it requires content knowledge, pedagogica
 
 <!--more-->
 
-This theme is a fledgling research project. It involves returning to some of the things I've done of the past decades, and building on a new generation of capabilities (e.g. using AI that can understand content and synthesize imagery on the spot).
+This theme is a fledgling research project. It involves returning to some of the things I've done over the past decades, and building on a new generation of capabilities (e.g. using AI that can understand content and synthesize imagery on the spot).

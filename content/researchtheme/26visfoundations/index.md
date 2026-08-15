@@ -6,7 +6,7 @@ categories: []
 tags: []
 ---
 
-We are exploring very basic questions in how to present information with visualizations and how to have good process to make effective visualizations.
+We are exploring very basic questions in how to present information with visualizations and how to have a good process to make effective visualizations.
 
 <!--more-->
 
@@ -18,4 +18,4 @@ This leads to a broader concept of understanding how people use
 visualizations to ask and answer questions.
 We are trying to codify the *process* for creating
 effective visualizations to make it easier for designers.
-We are considering how visualization works in non-ideal settings, such as under divided attention or time pressue.
+We are considering how visualization works in non-ideal settings, such as under divided attention or time pressure.

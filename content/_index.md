@@ -39,7 +39,7 @@ If you're interested in joining our group, come talk to me! If you aren't a stud
 
 ## Research Themes
 
-I consolidating my research portfolio. Here are the current main threads. For a more complete list of recent efforts, see {{<link "researchtheme">}}
+I am consolidating my research portfolio. Here are the current main threads. For a more complete list of recent efforts, see {{<link "researchtheme">}}
 
 {{<summary "researchtheme/26vispractice">}}
 {{<summary "researchtheme/26educmedia">}}
