@@ -35,26 +35,14 @@ You might be interested in my [grad school FAQ]({{< relref "gradschoolfaq" >}}).
 
 If you're interested in joining our group, come talk to me! If you aren't a student at Wisconsin yet, please look at my [grad school FAQ]({{< relref "gradschoolfaq" >}}), particularly the last few questions.
 
-## Current Research Themes
+## Research Themes
 
-The projects list was more than slightly out of date. I need to revitalize it. But, there are several things going on with robotics (tele-operation, providing awareness to remote users, using novel sensors, ...) and visualization (summarization, text collection exploration, uncertainty, ...).
+I consolidating my research portfolio. Here are the current main threads. For a more complete list of recent efforts, see {{<link "researchtheme">}}
 
-{{< summary "researchtheme/inspection" >}}
-{{< summary "researchtheme/vis-theory" >}}
-{{< summary "researchtheme/awareness" >}}
-{{< summary "researchtheme/sensors" >}}
-
-### Selected Past (but recent) Themes
-
-{{< summary "researchtheme/CommPhysInteractions" >}}
-{{< summary "researchtheme/CommMotion" >}}
-{{< summary "researchtheme/interactlearn" >}}
-{{< summary "researchtheme/visualcomp" >}}
-{{< summary "researchtheme/usablearvr" >}}
-<!-- {{< summary "researchtheme/commchar" >}} -->
-{{< summary "researchtheme/perceptprinc" >}}
-<!-- {{< summary "researchtheme/vep" >}} -->
-{{< summary "researchtheme/authoring" >}}
+{{<summary "researchtheme/26vispractice">}}
+{{<summary "researchtheme/26educmedia">}}
+{{<summary "researchtheme/26robotics">}}
+{{<summary "researchtheme/26visfoundations">}}
 
 ## Teaching
 
