@@ -21,6 +21,8 @@ Madison, WI 53706, USA
 **Office Hour:** Summer 2026 - by appointment only
 {{< /leftpic >}}
 
+{{<narrownav>}}
+
 I am a professor working in areas related to Visual Computing. My research these days is mainly about **robotics** and **data visualization.** With both, I am interested in how we can make them useful for people. I remain interested in animation, virtual reality, multimedia, ...
 
 I have been recognized as the David DeWitt Professor of Computer Sciences, an ACM Fellow, a member of the IEEE Visualization Academy, and an IEEE Senior Member. I also hold a concurrent position as an {{<tooltip element="Amazon Design Scholar">}}Whenever I mention that, I am supposed to say "This work is not connected to Amazon.com".{{</tooltip>}}.

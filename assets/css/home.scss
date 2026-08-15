@@ -1,3 +1,58 @@
+/** Section links repeated inline near the top of the page (the narrownav
+    shortcode), plus an early sidebar drop for the pages that use it.
+
+    The theme stacks the sidebar below the content at 767px. That is too late
+    for the home page: its leftpic block needs 610px of content column (300px
+    image + 10px gutter + 300px text column) before flex will keep the picture
+    and the contact info side by side, and with the sidebar taking 25% the
+    content column only reaches 610px at about a 953px viewport. Between there
+    and 767px you got the worst of both — sidebar still beside the content,
+    picture already stacked above the contact info.
+
+    So: on pages that carry a narrownav (only the home page today), stack the
+    sidebar from $narrownav-max down and show the inline links at the same
+    point. $narrownav-max is the one number to tune; it sits a little above the
+    953px measurement for slack. `:has()` is what keeps this scoped to the home
+    page without a body class — it is baseline in all current browsers. */
+$narrownav-max: 980px;
+
+.narrownav {
+	display: none;
+}
+
+@media screen and (max-width: $narrownav-max) {
+	.wrapper:has(.narrownav) {
+		display: block;
+	}
+
+	/* .sidebar-wrapper keeps its flex-row left margin once the wrapper is
+	   no longer a flex container, so reset it to a plain top gap. */
+	.wrapper:has(.narrownav) > .sidebar-wrapper {
+		margin: 20px 0 0;
+	}
+
+	.narrownav {
+		display: block;
+		margin: 0 0 1.25rem;
+		padding: 0.5rem 0;
+		border-top: 1px solid #ddd;
+		border-bottom: 1px solid #ddd;
+	}
+
+	.narrownav ul {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25rem 1.25rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	.narrownav li {
+		margin: 0;
+	}
+}
+
 div.announce {
 	border: 1px solid ;
 	margin: 5px;

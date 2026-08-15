@@ -1,0 +1,8 @@
+{{/* narrownav — the "Sections" links as an inline nav bar, shown only on
+     narrow screens (see .narrownav in assets/css/home.scss). On wide screens
+     the sidebar's sectionlinks widget carries these; when the sidebar drops
+     to the bottom of the page this puts them back near the top.
+     Reads the same headless content/sectionlinks.md as the sidebar widget. */}}
+<nav class="narrownav" aria-label="Site sections">
+  {{ with .Site.GetPage "sectionlinks" }}{{ .Content }}{{ end }}
+</nav>
