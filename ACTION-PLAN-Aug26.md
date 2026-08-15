@@ -1,91 +1,90 @@
 # Action Plan — August 2026
 
-*Written 2026-08-14, after re-auditing the repo against the July 2026
-[REVIEW.md](REVIEW.md) and [ACTION-PLAN.md](ACTION-PLAN.md). ACTION-PLAN.md has
-been marked up with per-item ✅/⬜ status and is now a historical record; this
-document is the live plan. Revised the same day with Mike's decisions and with
-measured page-weight data that corrected an early wrong assumption.*
+*Written 2026-08-14 after re-auditing against the July 2026 [REVIEW.md](REVIEW.md)
+and [ACTION-PLAN.md](ACTION-PLAN.md). **Revised 2026-08-15** after Mike landed the
+homepage content refresh and a mobile-navigation fix. ACTION-PLAN.md is the
+historical record; this is the live plan.*
 
-## Where things actually stand
+## Status at 2026-08-15
 
-The **infrastructure problem the July review was mostly about is solved.** Work
-ran 2026-07-12 → 2026-07-18 and delivered more than the plan asked for:
+Three commits landed (`589053f`, `c78aaf5`, `9660096`) and they close most of
+what this plan called urgent:
 
-- Phase 0 (bug fixes, scaffolding pruning) — done, except the `draft: true` triage.
-- Phase 2 (structural consolidation) — done, via the cross-repo **theme
-  unification** project rather than by forking the theme here. `roadster` is
-  gone; one theme, one CSS bundle, modern layout conventions, `hugo.toml`,
-  `params.style.preset = "mainroad-sans"`, MiniSearch instead of a CDN Lunr.
-- The theme is pushed and public (`github.com/CS559/559Theme`), documented, and
-  has a deprecation checker.
-- This site is pushed to `gleicher/gleicher.github.io` and deploys via GitHub
-  Actions on push to `main`.
+- ✅ **Track A item 1 — mobile navigation. Fixed, and well built.** See below.
+- ✅ **Track C item 1 — the "out of date" confession is gone**, replaced by four
+  new 2026 research themes; the older themes moved to `/researchtheme/` under an
+  honest framing ("Selected Research Themes (current and historic)").
+- ✅ **Track C item 4 — publications refreshed** to 2025/2026 (RAL '25, CVPR '25,
+  TVCG '26).
+- 🟡 **Track C item 2 — teaching partly updated.** CS559 Spring 2026 added; a
+  contradiction remains (below).
+- ➕ **Bonus:** the homepage got *lighter*, 236 KB → **112 KB** first load, because
+  the new theme summaries carry smaller thumbnails than the ones they replaced.
 
-Verified fresh today: `hugo --gc` builds clean (199 pages, no warnings); the
-theme's `tools/check-deprecated.py` reports **zero** deprecated shortcode uses in
-this site's content; the submodule is 3 commits behind `origin/master`.
+Build is clean (`hugo --baseURL /`, no `WARN`/`ERROR`).
 
-**Never started: Phase 1 (editorial), Phase 3 (visual), Phase 4 (optional).**
-What remains is almost entirely content and design work.
+**The site no longer reads as neglected.** That was the dominant defect in both
+the July review and this plan, and it's resolved. What follows is smaller.
+
+### The mobile fix, verified
+
+`{{<narrownav>}}` + `.narrownav` rules in `assets/css/home.scss`. I checked it
+rather than assuming, and it holds up on every count:
+
+- Emits a real `<nav class="narrownav" aria-label="Site sections">` — so the
+  missing landmark is fixed, not just the visual problem.
+- Sits at **line 62 of a 320-line page**, above `.sidebar-wrapper` at line 253.
+  The July failure was navigation arriving ~440 lines down; that's gone.
+- Carries the **full main menu** (Home / Papers / Talks / Videos / Advice), because
+  it reads the same headless `content/sectionlinks.md` the sidebar widget uses —
+  one source, no duplicated link list to drift.
+- CSS compiles correctly into `/css/home.css` (linked from the homepage), with
+  `:has(.narrownav)` and the 980px breakpoint intact.
+- The DOM matches the selectors: `.sidebar-wrapper` really is a *direct* child of
+  `.wrapper`, so the `>` combinator applies.
+- The breakpoint reasoning is documented in the SCSS and is sound — 980px sits
+  just above the ~953px point where the `leftpic` block's 610px content column
+  stops fitting beside a 25% sidebar.
+
+`noheader: true` is still set, so the homepage still has no `<header>`. That is
+now a **design choice, not a navigation failure** — the nav problem is solved
+independently. Track D can revisit the header on its own merits.
 
 ---
 
-## Measured facts that shape this plan
+## Fix first: one real bug in the new content
 
-I measured actual first-load transfer per page (HTML + `<img>` + stylesheets +
-scripts; `<a href>` links excluded, since nobody downloads those unless they
-click). This **corrected my initial assumption** that site weight was a broad
-problem:
+**`<!-- more -->` (with spaces) is silently ignored by Hugo.** Only `<!--more-->`
+works. I verified this on Hugo 0.164.0 with a throwaway two-page build:
 
-| Page | First load | Verdict |
+| Divider written | `.Truncated` | `.Summary` |
 | --- | --- | --- |
-| Homepage | 236 KB | fine |
-| `/video/` list | 242 KB | fine |
-| `/talks/` list | 182 KB | fine |
-| A video single page | 45 KB | fine |
-| **`/researchtheme/commchar/`** | **3,567 KB** | **bug** |
-| **`/researchtheme/usablearvr/`** | **1,443 KB** | **bug** |
+| `<!--more-->` | `true` | first part only ✅ |
+| `<!-- more -->` | `false` | **both parts** ❌ |
 
-So: the theme's resizing works everywhere it's used. The 594 KB headshot on the
-homepage is *not* first-load — `leftpic` correctly serves a resized copy and
-links the original, exactly the pattern you asked for. List thumbnails are
-resized. **The only viewer-weight bug on the site is the research-theme pages**,
-and it has a single cause: `layouts/researchtheme/single.html` is a *local*
-override (not the theme) that emits `<img src="{{ .RelPermalink }}">` — native
-size, scaled down by CSS. Five pages are affected, ~6.4 MB total.
+**Effect:** the intended "lead paragraph, then the rest" split isn't happening.
+The homepage falls back to Hugo's automatic ~70-word truncation, so each theme
+summary runs on past where it was meant to stop and ends at an arbitrary
+sentence — it just *looks* deliberate, which is why it's easy to miss.
 
-The other ~35 MB of large files in the 42 MB build are page-bundle resources in
-`content/talks/*/` and `content/video/*/` that **no page references at all** —
-Hugo publishes them verbatim. They cost deploy size and zero viewer bytes.
+Affected — change `<!-- more -->` to `<!--more-->`:
 
-### Mobile navigation, verified
+- `content/researchtheme/26vispractice/index.md`
+- `content/researchtheme/26educmedia/index.md`
+- `content/researchtheme/26robotics/index.md`
+- `content/researchtheme/inspection/index.md` *(pre-existing, same mistake)*
 
-The July review's finding holds, and I confirmed the mechanism in the built HTML:
+And `content/researchtheme/26visfoundations/index.md` has **no divider at all** —
+add one so it matches its three siblings.
 
-- Homepage: **no `<header>` and no `<nav>` element exists at all.** Main content
-  begins at line 36; the sidebar — which holds the *only* navigation — begins at
-  line 474, i.e. below ~11,000 characters of text.
-- Every interior page: `<header>` at line 33, `<nav class="menu">` at line 45,
-  both *before* main content, with a working MENU toggle.
+This is a genuine anomaly, not a house style: 14 other files across the site
+already use the correct unspaced form.
 
-On a phone the homepage therefore has no navigation until you scroll past the
-entire page. It is also missing a `<nav>` landmark for screen readers. This is
-caused by one line: `noheader: true` at `content/_index.md:4`.
+## Track A — Homepage polish (what's left)
 
----
-
-## Track A — Mobile & homepage navigation (do first)
-
-You called the mobile experience a big deal, and it's also the cheapest serious
-fix on the list.
-
-1. **Remove the homepage navigation gap.** Either drop `noheader: true`, or add a
-   slim homepage header variant to the theme that keeps the banner minimal but
-   restores the menu. I'd try dropping it first and just looking at it — it may
-   be entirely acceptable, in which case this is a one-line fix to the worst
-   accessibility and mobile problem on the site.
-2. **Cheap typography/color pass while you're looking.** These are site-local
-   one-liners in `hugo.toml`, no theme edit and no blast radius:
+1. ✅ **DONE** — mobile navigation.
+2. ⬜ **Cheap typography/color pass.** Untouched, still one-line changes in
+   `hugo.toml`, no theme edit and no blast radius:
 
    | Want | Lever | Today |
    | --- | --- | --- |
@@ -94,153 +93,129 @@ fix on the list.
    | Quieter links | `params.linkColor` | `#c5050c` (UW red) |
    | Accent color | `params.style.vars.uwred` | `#c5050c` |
 
-   Line-height is already 1.6, so the review's "small and tight" complaint is
-   really just the font size. Try `bodyFontSize = "1rem"` and look.
+   Line-height is already 1.6, so the "small and tight" complaint is just the
+   font size. Try `bodyFontSize = "1rem"` and look.
 
-## Track B — The image bug (small, precise, now well-understood)
+## Track B — The image bug (unchanged, and the new pages inherit it)
 
-Per your call: correct `rimage` behavior — downsized copy on the page, link to
-the full-size original — is the target, and it's *exactly* what's missing.
+Still the only viewer-weight problem on the site, and the new content added two
+more instances of it:
 
-1. **Fix `layouts/researchtheme/single.html`** to use the theme's `rimage` idiom
-   instead of raw `.RelPermalink`. This alone takes the worst page from 3.6 MB to
-   a few tens of KB and fixes all five research-theme pages. **This is the whole
-   viewer-weight bug.**
-2. **Fix `layouts/researchtheme/summary.html` and `summarycontent.html`** while
-   you're there — they do hand-rolled `.Fit` on `videoThumbSize` and predate the
-   theme's current image handling. Not a weight problem (they already resize),
-   but they're three local files drifting from the shared theme.
-3. **Optional, separate:** shrink the source originals in `content/`. With (1)
-   done this buys the *viewer* nothing — it's repo/deploy hygiene only. Worth
-   doing opportunistically, not worth a project.
+| Page | First load | Cause |
+| --- | --- | --- |
+| `/researchtheme/26vispractice/` | **641 KB** | 594 KB PNG served at native size |
+| `/researchtheme/26robotics/` | 270 KB | 224 KB PNG |
+| `/researchtheme/commchar/` | 3,567 KB | 3.4 MB JPG |
+| `/researchtheme/usablearvr/` | 1,443 KB | 1.4 MB JPG |
 
-## Track C — Content currency (no code)
+One cause: `layouts/researchtheme/single.html` is a **local** override that emits
+`<img src="{{ .RelPermalink }}">` — native size, scaled by CSS. The theme's
+`rimage` fix can't reach it. Everything else on the site is fine (homepage
+112 KB, list pages 182–242 KB, video/talk pages 45 KB).
 
-**The site reads as abandoned, and says so out loud.** This remains the largest
-visitor-visible defect.
+1. **Fix `layouts/researchtheme/single.html`** to use `rimage` (downsized copy
+   shown, full-size linked — the behavior you asked for). Fixes all six pages at
+   once and stops new themes from re-introducing it.
+2. **Fix `summary.html` / `summarycontent.html`** in the same directory — they do
+   hand-rolled `.Fit` on `videoThumbSize` and predate the theme's image handling.
+   Not a weight problem, but three local files drifting from the shared theme.
+3. *Optional:* shrink the source originals. With (1) done this buys the viewer
+   nothing — repo hygiene only.
 
-1. **Rewrite the "Current Research Themes" intro.** `content/_index.md:47` still
-   ships "The projects list was more than slightly out of date. I need to
-   revitalize it." Re-sort current vs. past themes while you're in there.
-2. **Fix the teaching self-contradiction.** The top of the homepage says "CS559
-   Spring 2026"; the Teaching section below says "In Spring of 2025 I taught an
-   Accelerated Honors Section." Also refresh the "Office Hour: Summer 2026" line.
-3. **Talks — leave the gap, remove the *implication*.** Per your answer: the gap
-   is real, it isn't the end of the road, and you expect talks this year. So no
-   backfill and no "archive" reframing. The only thing worth doing is making the
-   section not *read* as dormant to someone who arrives cold — and honestly, the
-   simplest version of that is adding this year's talks when they happen. Low
-   priority; noted so it isn't mistaken for an oversight later.
-4. **Refresh "Selected Recent Publications"** (newest entry is a 2025 arXiv item).
-5. **Overhaul `gradschoolfaq.md`, preserving the timeless parts.** Per your
-   answer: it's popular *because* much of its wisdom is ageless, so this is an
-   edit, not a retirement. The work is stripping the 2016 and 2010 update layers
-   and the self-deprecating "comically out of date" opener, keeping the durable
-   advice, and refreshing only the genuinely time-bound bits (admissions process,
-   who's hiring, "am I taking students"). It's linked three times from the
-   homepage, so it earns the effort.
-6. **Triage the three drafts** — `content/posts/main-supervised.md` (36 lines,
-   also in [TO-DO.md](TO-DO.md)), `content/pages/webstuff/hugo.md` (11 lines),
-   `content/pages/Advice/literature.md` (41 lines).
+## Track C — Content currency (mostly done)
 
-## Track D — Homepage restructure & redesign (the design project)
+1. ✅ **DONE** — research themes rewritten, four new 2026 entries, old ones
+   reframed as historic. Ordering claim in `researchtheme/_index.md` ("roughly
+   organized by date") is accurate — verified.
+2. 🟡 **Teaching — one contradiction left.** The header line says
+   "**Teaching:** Spring 2026: CS765 Data Visualization", but the CS765 bullet's
+   most recent entry is Fall 2025 and never mentions a 2026 offering. A `765-26`
+   project exists locally, so the bullet is probably just missing it — but as
+   written the page contradicts itself. Also `**Office Hour:** Summer 2026` is
+   now stale (it's mid-August); and since the header line points backward at a
+   finished semester, consider naming what you're teaching *this fall* instead.
+3. ⬜ **`gradschoolfaq.md`** — untouched. Still opens by calling itself "almost
+   comically out of date" with 2016 and 2010 layers on 2001 text. Per your call:
+   an edit that keeps the ageless material, not a retirement. Linked three times
+   from the homepage.
+4. ✅ **DONE** — publications refreshed.
+5. ⬜ **Talks** — unchanged by design; the gap is real and you expect talks this
+   year. Noted so it isn't mistaken for an oversight.
+6. ⬜ **Drafts — now four, not three.** `content/pages/Advice/new-do-research.md`
+   was added (`draft: true`, not linked from anywhere). Joins
+   `posts/main-supervised.md`, `pages/webstuff/hugo.md`,
+   `pages/Advice/literature.md`. It reads as a genuinely useful piece — the
+   "why do you want to do research" framing — so it's a publish candidate, not a
+   delete one.
 
-In scope, and the plan is: **settle structure first, then generate alternatives
-with Claude Design.** Sequencing matters here — do this *after* Track C, so
-you're restructuring content you've just rewritten rather than content you're
-about to rewrite.
+### Copy edits in the new prose
 
-1. **Decide the information architecture** before any visual work. Working
-   proposal: landing section (photo, one-paragraph bio, prominent links to
-   Papers / Talks / Videos / Advice) → compact research-theme cards → everything
-   else moved off. The full teaching history in particular is a page, not a
-   homepage section.
+Small, but they're on the most-read pages:
+
+- `_index.md:42` — "I consolidating my research portfolio" → "I am consolidating"
+- `26robotics` — "interepret" → "interpret"; "I remain interesting in" → "interested in"
+- `26vispractice` — "peoples' hands" → "people's hands"; "Can we standardized" → "standardize"
+- `26visfoundations` — "time pressue" → "pressure"; "how to have good process" → "a good process"
+- `26educmedia` — "things I've done of the past decades" → "over the past decades"
+
+## Track D — Homepage restructure & redesign
+
+Unchanged and still the one item deserving a dedicated session. Now genuinely
+*optional* rather than urgent, since the neglect signals and the mobile problem
+are both resolved.
+
+1. **Decide the information architecture** before visual work. The full teaching
+   history is still a homepage section and is still the longest thing on the
+   page — it's a page, not a section.
 2. **Generate design alternatives** against that structure.
-3. **Modernize the list pages** — year-grouped archives for talks (61) and videos
-   (69) instead of 12-per-page pagination; a card grid for videos, where the
-   thumbnail is the point.
+3. **Modernize list pages** — year-grouped archives for talks (61) and videos
+   (69). Worth noting `/researchtheme/` now paginates too: 17 themes, 12 per
+   page, so the homepage's "more complete list" link lands on a partial view
+   behind a pager.
+4. **Revisit `noheader`** on its own merits, not as a nav fix.
 
 ## Track E — Residue and maintenance
 
-- Bump the theme submodule (3 commits: docs + a link fix). Use `/upgrade-theme`.
-- Migrate `layouts/shortcodes/` → `layouts/_shortcodes/`. The theme moved during
-  unification; the site didn't. Currently silent, but it's the last piece of the
-  modern-layout migration on this side.
-- No `<meta name="description">`, no Open Graph, no Twitter card on any page
-  (verified). The favicon served is the theme's default, inherited not chosen.
-- `publishResources` — see the note below.
-- Run [`.htmltest.yml`](.htmltest.yml) again; last run 2026-07-04.
-- Deferred, unchanged: `.git` slim-down (91 MB, and *more* disruptive than in
-  July now that the repo has a real origin and CI); publications-from-data-file;
+- Theme submodule is current (`f4e6896`); `docs/upgrading.md` now distinguishes
+  updates from the unification upgrade, with three verification levels.
+- Migrate `layouts/shortcodes/` → `layouts/_shortcodes/` (theme moved during
+  unification; the site didn't). Silent today.
+- No `<meta name="description">`, no Open Graph, no Twitter card. Favicon is the
+  theme's default, inherited not chosen.
+- `assets/css/home.scss` uses `/** … */` for its doc comments, so they ship in
+  `home.css` (~700 bytes). The theme's `main.scss` uses `//` specifically so
+  comments are stripped — worth matching.
+- `publishResources = false` would cut the build ~42 MB → ~7–10 MB with **zero**
+  viewer benefit (see the note below). Hygiene, not performance.
+- Run [`.htmltest.yml`](.htmltest.yml); last run 2026-07-04, and a lot of content
+  has moved since — including new external links (VisSnacks, several papers).
+- Deferred: `.git` slim-down (91 MB); publications-from-data-file;
   `paperpage`-style cross-links for talks.
-
----
-
-## On `publishResources` — you're not missing anything
-
-You asked me to push back if you were. You aren't; your instinct is right.
-
-Setting `_build.publishResources = false` (via `cascade` in `hugo.toml`) stops
-Hugo copying unreferenced page-bundle files into `public/`. It is **safe** —
-Hugo still publishes any resource whose `.RelPermalink` is called, so resized
-copies and `leftpic`'s link-to-original keep working. It would cut the build from
-~42 MB to roughly 7–10 MB.
-
-**And it would improve viewer experience by exactly zero bytes**, because those
-files are already never downloaded — no page links to them. It's deploy-artifact
-and clone-size hygiene, not performance.
-
-Is there a hidden reason to care? Not really. GitHub Pages' limits are a 1 GB
-site and a 100 GB/month soft bandwidth budget; 42 MB is about 4% of the size
-limit and the bandwidth is driven by what visitors actually fetch, not by what
-sits in the artifact. The only real costs are marginally slower CI
-upload/deploy and a bigger clone. The one non-size consideration worth a thought:
-those unreferenced files *are* publicly reachable by URL, so if any bundle
-contains a figure you'd rather not have served, that's a reason to enable it
-that has nothing to do with weight.
-
-**Recommendation:** turn it on as cheap hygiene whenever convenient, but don't
-count it toward the problem you actually care about. Track B item 1 is the fix
-for that.
-
----
-
-## On the theme-divergence question
-
-You raised the real tradeoff: this site is a genuinely different *kind* of page
-from the course sites, so style divergence is appropriate — but that has to be
-weighed against maintaining two themes instead of one.
-
-For now the answer is easy, and it's the one you'd want either way: keep changes
-**site-local** via `params.style.vars` and `params.linkColor` in `hugo.toml`.
-That gets the sans-serif look you like with zero risk to the other consumers, and
-it requires no decision about theme architecture. `mainroad-sans` is used only by
-this site among the four workspace sites, but the theme has consumers outside the
-workspace, so editing the preset itself is the riskier lever with no added
-benefit right now.
-
-The larger question — one shared theme with divergent presets vs. two themes —
-should be **re-examined if and only if** Track D's redesign ends up wanting
-structural changes (different layouts, different page types), not just token
-changes. Token divergence is already well-served by the preset mechanism.
-Recording it here so it's a deliberate future decision rather than a drift.
 
 ---
 
 ## Suggested sequencing
 
-**A → B → C → D**, with E picked up whenever.
+**The `<!--more-->` fix and copy edits → Track C item 2 → Track B → the rest.**
 
-Track A is the worst defect and the cheapest fix. Track B is small, precisely
-scoped, and now fully understood. Track C is where the visitor-visible damage is
-and needs no code — it's also the track that doesn't need me. Track D is the only
-item deserving a dedicated design session, and it should follow C.
+The divider fix and the typos are minutes of work on the page most people see,
+and the divider one is invisible-by-design — it will never announce itself. The
+teaching contradiction is the last remaining thing on the homepage that a
+careful reader would catch. Track B is a single-file change with a measurable
+payoff. Everything after that is discretionary.
 
-## Correction to the previous draft of this plan
+## Standing notes
 
-The first version of this document treated site weight as a broad problem
-("42 MB build, ~25 files over 500 KB") and made it Track B with a batch
-image-compression job as the primary fix. Measurement showed that was wrong: the
-homepage and list pages are already light, the theme's resizing works, and the
-entire viewer-facing problem is five research-theme pages caused by one local
-layout override. The compression job has been demoted to optional hygiene.
+**On `publishResources`.** Setting `_build.publishResources = false` via
+`cascade` stops Hugo copying unreferenced page-bundle files into `public/`. It's
+safe — resources whose `.RelPermalink` is called still publish, so resizing and
+full-size links keep working. It would improve viewer experience by exactly zero
+bytes, because those files are already never downloaded. GitHub Pages allows
+1 GB; the site is at ~4%. The one non-size consideration: unreferenced files
+*are* publicly reachable by URL.
+
+**On theme divergence.** Keep style changes site-local via `params.style.vars`
+and `params.linkColor`. `mainroad-sans` is used only by this site among the four
+workspace sites, but the theme has consumers outside the workspace, so editing
+the preset is the riskier lever with no added benefit. Revisit one-theme-vs-two
+only if a redesign wants *structural* divergence, not token divergence.
