@@ -32,6 +32,14 @@
                  copy is only used when it actually wins, which makes this
                  strictly never-worse than shipping the original. */}}
             {{- $colw := int (.Site.Params.imageColumnWidth | default 800) -}}
+            {{- /* alt: the page title, not the resource .Title (which is the bare
+                 filename — "Problem_Space.PNG"). Unlike the thumbnail in
+                 summary.html this image is real content, and when it has been
+                 reduced it also wraps a link to the original, so it needs
+                 accessible text or that link is unlabelled. A genuinely
+                 descriptive alt would have to be written per image by the
+                 author; the page title is the best a template can do. */}}
+            {{- $pageTitle := .Title -}}
             {{- range .Page.Resources.ByType "image" -}}
                 {{- $orig := . -}}
                 {{- $src := . -}}
@@ -46,7 +54,7 @@
                 {{- end -}}
                 {{- $reduced := ne $src.RelPermalink $orig.RelPermalink }}
                 {{ if $reduced }}<a href="{{ $orig.RelPermalink }}">{{ end }}
-                        <img src="{{ $src.RelPermalink }}" alt="{{ $orig.Title }}" />
+                        <img src="{{ $src.RelPermalink }}" alt="{{ $pageTitle }}" />
                 {{- if $reduced }}</a>{{ end }}
             {{ end }}
             {{ .Content }}

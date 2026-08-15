@@ -15,8 +15,14 @@
         {{ with .Page.Resources.ByType "image" }}
             {{ range first 1 . }}
                 {{ $thumb := .Fit ( $page.Site.Params.videoThumbSize | default "180x120" )  }}
-                <a href="{{ $page.RelPermalink }}">
-                    <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" />
+                {{- /* alt="" on purpose: this thumbnail links to the SAME page as
+                     the title link beside it, so it is a redundant link. Empty
+                     alt marks it decorative and a screen reader announces one
+                     link instead of two. Describing the image here would make
+                     it worse, not better. (It used to be the resource .Title,
+                     i.e. the bare filename — "guitar-practice-teaser.png".) */}}
+                <a href="{{ $page.RelPermalink }}" tabindex="-1" aria-hidden="true">
+                    <img src="{{ $thumb.RelPermalink }}" alt="" />
                 </a>
             {{ end }}
         {{ end }}
