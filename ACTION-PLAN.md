@@ -1,3 +1,7 @@
+# OBSOLETE: See ACTION-PLAN-Aug26.md
+
+Moved to a new plan, since this one grew stale.
+
 # Action Plan
 
 *Prioritized roadmap from the July 2026 review — see [REVIEW.md](REVIEW.md) for rationale. Ordered by impact-per-effort; each phase leaves the site deployable.*
