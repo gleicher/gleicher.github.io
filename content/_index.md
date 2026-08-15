@@ -16,7 +16,7 @@ University of Wisconsin, Madison
 Madison, WI 53706, USA  
 [`gleicher@cs.wisc.edu`](mailto:gleicher@cs.wisc.edu)
 
-**Office:** 6588 Mortgridge Hall (the new CS building!)
+**Office:** 6588 Morgridge Hall (the new CS building!)
 
 **Office Hour:** Summer 2026 - by appointment only
 {{< /leftpic >}}
