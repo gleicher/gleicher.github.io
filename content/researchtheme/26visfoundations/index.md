@@ -7,6 +7,9 @@ tags: []
 ---
 
 We are exploring very basic questions in how to present information with visualizations and how to have good process to make effective visualizations.
+
+<!--more-->
+
 For example:
 We are examining the central concept of summarization to understand
 how people use summaries and what strategies can be used to create

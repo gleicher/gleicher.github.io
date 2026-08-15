@@ -8,7 +8,7 @@ tags: []
 
 Visualization research (and practical wisdom) knows a lot about how to make effective visualizations. However, people still make terrible (or at least ineffective) things. How do we get the knowledge of visualization out into peoples' hands so that they can use it? How can we best codify, represent, organize, present, (more verbs) visualization/design knowledge.
 
-<!-- more -->
+<!--more-->
 
 I am interested in ways that we can codify and operationalize what we already know about visualization so that the knowledge we've worked to build can be applied by more people, more often, and more effectively.
 
