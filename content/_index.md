@@ -29,7 +29,7 @@ I have been recognized as the David DeWitt Professor of Computer Sciences, an AC
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** Spring 2026: CS765 Data Visualization
+**Teaching:** Fall 2026: CS765 Data Visualization
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 

@@ -130,9 +130,24 @@ One cause: `layouts/researchtheme/single.html` is a **local** override that emit
 1. **Fix `layouts/researchtheme/single.html`** to use `rimage` (downsized copy
    shown, full-size linked — the behavior you asked for). Fixes all six pages at
    once and stops new themes from re-introducing it.
-2. **Fix `summary.html` / `summarycontent.html`** in the same directory — they do
-   hand-rolled `.Fit` on `videoThumbSize` and predate the theme's image handling.
-   Not a weight problem, but three local files drifting from the shared theme.
+2. ~~Fix `summary.html` / `summarycontent.html` — hand-rolled `.Fit`, drifting
+   from the theme.~~ **Overstated; corrected 2026-08-15 after measuring.** The
+   `.Fit` is fine: 0 of 17 thumbnails come out larger than their source, because
+   180×120 is far below any source size, so the never-worse guard that
+   `single.html` needed is unnecessary here. And it isn't drift — the theme has
+   no `summarycontent` at all and its `summary.html` is a different card design;
+   the site's version is a deliberate custom layout with real CSS behind it in
+   `home.scss`. Two genuinely small things remain:
+
+   - **`summarycontent` is dead code.** `layouts/shortcodes/summarycontent.html`
+     and `layouts/researchtheme/summarycontent.html`, zero references in
+     `content/`, no theme equivalent being shadowed. Delete both.
+   - **Thumbnail alt text is the filename** — `alt="guitar-practice-teaser.png"`,
+     `alt="Problem_Space.PNG"` on the homepage cards. The thumbnail links to the
+     same page as the title link beside it, so the correct fix is `alt=""`
+     (decorative): a screen reader then announces one link, not two. The same
+     filename-as-alt pattern is in `single.html`, where the image is real content
+     rather than a redundant link, so there it wants the page title instead.
 3. *Optional:* shrink the source originals. With (1) done this buys the viewer
    nothing — repo hygiene only.
 
