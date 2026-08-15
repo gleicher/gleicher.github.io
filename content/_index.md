@@ -27,7 +27,7 @@ I have been recognized as the David DeWitt Professor of Computer Sciences, an AC
 
 A brief [biography]({{< relref "bio" >}}) will tell you how I got here. You can see a reasonably current [CV]({{< assetlink "pdf/CV.pdf" >}}), but you probably are looking for [papers](https://graphics.cs.wisc.edu/Papers/?author=Gleicher), [talks]({{< relref "talks" >}}), [videos]({{< relref "video" >}}) or [advice]({{< relref "pages/Advice" >}}).
 
-**Teaching:** [CS559 Spring 2026](https://pages.graphics.cs.wisc.edu/559-sp26/)
+**Teaching:** Spring 2026: CS765 Data Visualization
 
 I have some pages with various [Advice]({{< relref "pages/Advice" >}}) I generally give to students. This includes the format for [status reports]({{< relref "pages/Advice/statusreports" >}}), what I'd like to see in [Prelims and Theses]({{< relref "pages/Advice/prelimsandthesis.md" >}}), my [grad school FAQ]({{< relref "gradschoolfaq" >}}), or my [advice on how to give a talk]({{< relref "pages/Advice/talks.md" >}}).
 
@@ -62,7 +62,7 @@ In the past, I taught it
 and several times before that as "special topics" experiments.
 
 - **CS559 Computer Graphics:**
-In Spring of 2025 I taught an [Accelerated Honors Section](https://pages.graphics.cs.wisc.edu/559-sp25-honors/), and supporting Dr. Young Wu who is teaching the [regular section](https://pages.graphics.cs.wisc.edu/559-sp25-regular/).
+I taught this class online in [Spring of 2026](https://pages.graphics.cs.wisc.edu/559-sp26/). In Spring of 2025 I taught an [Accelerated Honors Section](https://pages.graphics.cs.wisc.edu/559-sp25-honors/), and supporting Dr. Young Wu who is teaching the [regular section](https://pages.graphics.cs.wisc.edu/559-sp25-regular/).
 I also taught this in [Spring 2023](https://pages.graphics.cs.wisc.edu/559-sp23/),  [Spring 2022](https://pages.graphics.cs.wisc.edu/559-sp22/), [Spring 2021](https://pages.graphics.cs.wisc.edu/559-sp21/), [Spring 2020](https://graphics.cs.wisc.edu/Courses/559-sp2020/).
 and [Spring 2019](https://graphics.cs.wisc.edu/WP/cs559-sp2019).
 There are lots of previous offereings going back to
@@ -90,13 +90,13 @@ A (pretty) complete list is available [here](https://graphics.cs.wisc.edu/Papers
 
 #### Robotics/Sensing
 
-- RAL '24 (ICRA '25) [Using a Distance Sensor to Detect Deviations in a Planar Surface](https://graphics.cs.wisc.edu/Papers/2024/MSJLHGGL24/) {{<coauths "w/Sifferman, Sun and Gupta">}}
-- RAL '24 (ICRA '25): [Motion Comparator: Visual Comparison of Robot Motions](https://arxiv.org/abs/2407.02746) {{<coauths "w/Wang, Pesekis and Jiang">}} - Visualization applied to robotics!
-- ICRA '24: [IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations](https://graphics.cs.wisc.edu/Papers/2024/WSG24/) {{<coauths "w/Wang and Sifferman" >}}
-- CVPR '24: [Towards 3D Vision with Low-Cost Single-Photon Cameras](https://arxiv.org/abs/2403.17801) {{<coauths "w/ Mu, Sifferman, et al." >}}
+- RAL '25 (IROS '26) [Anytime Planning for End-Effector Trajectory Tracking](https://graphics.cs.wisc.edu/Papers/2025/WG25/) {{<coauths "w/Yeping Wang" >}}
+- RAL '25 [Efficient Detection of Objects Near a Robot Manipulator via Miniature Time-of-Flight Sensors](https://graphics.cs.wisc.edu/Papers/2025/SGG25/) {{<coauths "w/Sifferman and Gupta">}}
+- CVPR '25 [Recovering Parametric Scenes from Very Few Time-of-Flight Pixels](https://graphics.cs.wisc.edu/Papers/2025/SLLMGGL25/) {{<coauths "w/Sifferman, Li, Li, Mu, Gupta, and Li">}}. Yes, 3 of the co-authors are Y. Li.
 
 #### Visualization
 
+- TVCG '26: [Make the Unhearable Visible: Exploring Visualization for Musical Instrument Practice](https://graphics.cs.wisc.edu/Papers/2026/HGS26/) {{<coauths "w/Heyen and Sedlmeir">}}
 - Arxiv '25: [Augmenting a Large Language Model with a Combination of Text and Visual Data for Conversational Visualization of Global Geospatial Data](https://graphics.cs.wisc.edu/Papers/2025/MKBGVY25/) {{<coauths "w/Mena, Kouyoumdjian, Viola and Ynnerman">}}
 - TVCG '25 (Vis '24): [Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots](https://graphics.cs.wisc.edu/Papers/2025/BCGV25/) {{<coauths "w/ Baum, Chang, and von Landesberger">}}
 - Arxiv '24: [Enhancing Text Corpus Exploration with Post Hoc Explanations and Comparative Design](https://arxiv.org/abs/2406.09686) {{<coauths "w/Bai and Leppanan">}} - This is the [AbstractsViewer](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/) paper (yes, you can try the [demo](https://pages.graphics.cs.wisc.edu/AbstractsViewer/#/)).
