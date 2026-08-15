@@ -52,7 +52,10 @@ independently. Track D can revisit the header on its own merits.
 
 ---
 
-## Fix first: one real bug in the new content
+## ✅ FIXED 2026-08-15: the silent summary-divider bug
+
+*Done in `95703d4` (content + theme bump) and theme `9472ae4` (the lint).
+Kept here because the failure mode is worth remembering.*
 
 **`<!-- more -->` (with spaces) is silently ignored by Hugo.** Only `<!--more-->`
 works. I verified this on Hugo 0.164.0 with a throwaway two-page build:
@@ -67,18 +70,29 @@ The homepage falls back to Hugo's automatic ~70-word truncation, so each theme
 summary runs on past where it was meant to stop and ends at an arbitrary
 sentence — it just *looks* deliberate, which is why it's easy to miss.
 
-Affected — change `<!-- more -->` to `<!--more-->`:
+Fixed in `26vispractice`, `26educmedia`, `26robotics`, and `inspection`;
+`26visfoundations` had no divider at all and got one after its opening
+sentence. Body text is word-for-word identical on every page — only paragraph
+structure changed.
 
-- `content/researchtheme/26vispractice/index.md`
-- `content/researchtheme/26educmedia/index.md`
-- `content/researchtheme/26robotics/index.md`
-- `content/researchtheme/inspection/index.md` *(pre-existing, same mistake)*
+**Result:** homepage summary text 2,603 → 1,647 chars (36% shorter), now cut
+where it was written to be cut. Visualization Foundations went 661 → 177.
 
-And `content/researchtheme/26visfoundations/index.md` has **no divider at all** —
-add one so it matches its three siblings.
+**Prevention:** 559Theme now ships `layouts/_partials/content-lint.html`, called
+once per page from `baseof.html`, which `warnf`s on the spaced form. It emits no
+markup — verified by a golden diff showing every built file byte-identical with
+the partial wired in and content unchanged. It's the intended home for future
+checks of the same class: *mistakes Hugo accepts without complaint.* Anything
+that already errors or warns doesn't belong there.
 
-This is a genuine anomaly, not a house style: 14 other files across the site
-already use the correct unspaced form.
+**Note for the other sites:** warning-only, so it cannot fail a build, but any
+site with spaced dividers will start emitting `WARN` lines on its next theme
+bump — which is the point; those sites are shipping auto-truncated summaries
+without knowing it.
+
+**Decision (2026-08-15):** front-matter `summary:` was considered and
+**rejected** — it duplicates the prose, leaving two versions to keep in sync.
+The divider stays the mechanism; the lint makes it safe.
 
 ## Track A — Homepage polish (what's left)
 
@@ -196,13 +210,12 @@ are both resolved.
 
 ## Suggested sequencing
 
-**The `<!--more-->` fix and copy edits → Track C item 2 → Track B → the rest.**
+**Copy edits → Track C item 2 → Track B → the rest.**
 
-The divider fix and the typos are minutes of work on the page most people see,
-and the divider one is invisible-by-design — it will never announce itself. The
-teaching contradiction is the last remaining thing on the homepage that a
-careful reader would catch. Track B is a single-file change with a measurable
-payoff. Everything after that is discretionary.
+The divider fix is done. What's left on the homepage is the six typos and the
+teaching contradiction — the last things a careful reader would catch. Track B
+is a single-file change with a measurable payoff. Everything after that is
+discretionary.
 
 ## Standing notes
 
