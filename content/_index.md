@@ -18,7 +18,7 @@ Madison, WI 53706, USA
 
 **Office:** 6588 Morgridge Hall (the new CS building!)
 
-**Office Hour:** Summer 2026 - by appointment only
+**Office Hour:** Fall 2026 - Wednesday 2:00-3:00, except Oct 7 and Nov 11
 {{< /leftpic >}}
 
 {{<narrownav>}}
