@@ -20,6 +20,8 @@ There's also the general question of "I am interested in the topics you are inte
 {{% bold-red %}}Warning: This is a work in progress, but I am letting out since people are asking. {{% /bold-red %}}
 
 {{% dimbox %}}
+**Update: October, 2026:** Updated courses
+
 **Update: July, 2024:** Added a note about personal projects.
 
 **Update: September, 2023:** Added some information on other ways to learn about the topics, which is particularly important given that I am on sabbatical.
@@ -48,7 +50,7 @@ Some specifics:
 
 **Computer Graphics** - the obvious thing is CS559 (Computer Graphics). The class varies based on who is teaching it, but the foundations are a constant. The background to do graphics (math and programming) may not be explicit pre-requsities, but you will have a better understanding of graphics if you have good math skills. Knowing how to build interactive software (e.g., from CS571) is valuable too.
 
-**Robotics** - there is no specific robotics class in CS. I do recommend taking the graphics class because the spatial thinking is really valuable. The robotics class in Mech Eng is great - but very hands on (how to put robots together). Classes in topics related to robotics (AI, Vision, Learning, HCI) are useful background as well.
+**Robotics** - there is an excellent new CS robotics course (CS580). Take that first. I also recommend taking the graphics class because the spatial thinking from graphics is really valuable. The robotics class in Mech Eng is great - but very hands on (how to put robots together). Classes in topics related to robotics (AI, Vision, Learning, HCI) are useful background as well.
 
 **Visualization** - the CS (data) visualization classes are CS565 and CS765. You will get a bit of visualization (especially the practical aspects) from other classes (e.g., CS320). There are other "visualization" courses scattered about the university - there is a psych class that focuses on the perceptual elements, a geography class that focuses on maps, etc. Being a good interactive systems programmer is an important skill here (e.g., CS571). The methodologies of studying human-centric systems in a rigorous way (HCI - CS570/571) is valuable as well.
 
